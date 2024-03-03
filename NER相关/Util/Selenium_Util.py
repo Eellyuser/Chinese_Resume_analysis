@@ -24,11 +24,12 @@ from functools import wraps
 
 
 class Selenium_Edge:
-    def __init__(self, update=False, cookies=False, cookies_url = None):
+    def __init__(self, update=False, cookies=False, cookies_url = None,proxy=False):
         self.update  = update
         self.cookies = cookies
         self.cookies_url = cookies_url
-        self.driver  = self.create_driver()
+        self.proxy = proxy
+        self.driver = self.create_driver()
 
 
     def create_driver(self):
@@ -51,6 +52,11 @@ class Selenium_Edge:
             if self.cookies:
                 driver.get(self.cookies_url)
                 self.set_cookies(driver)
+            if self.proxy:
+                proxy = 'localhost:7890'
+                # 配置Edge选项
+                options.use_chromium = True  # 指明使用基于Chromium的Edge
+                options.add_argument(f'--proxy-server={proxy}')
             return driver
 
         driver = init_webdriver()
