@@ -11,6 +11,8 @@ from dateutil import parser
 import re
 import logging
 
+# from config import log_config
+
 PDF_DIR = './PDF_DIR'
 PDF_TEST_DIR = './PDF_TEST'
 # 保存结果
