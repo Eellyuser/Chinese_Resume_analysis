@@ -1,6 +1,8 @@
 {
 	"name": "",
 	"bir": "",
+	"age": "",
+	"email": "",
 	"gend": "",
 	"tel": "",
 	"acad": "",
@@ -11,29 +13,30 @@
 	"work_experience": [{
 		"time": "",
 		"org": "",
+		"role": "",
 		"work_desc": ""
-	}, ],
+	}],
 	"education": [{
 		"time": "",
 		"school": "",
 		"degree": "",
 		"edu_desc": ""
-	}, ],
+	}],
 	"project_experience": [{
 		"time": "",
 		"project": "",
 		"role": "",
 		"project_desc": ""
-	}, ],
+	}],
 	"training_experience": [{
 		"time": "",
 		"training": "",
 		"training_desc": ""
-	}, ],
+	}],
 	"awards": [{
 		"time": "",
 		"award": ""
-	}, ],
+	}],
 	"self_assessment": "",
 	"career_objective": "",
 	"skills": "",

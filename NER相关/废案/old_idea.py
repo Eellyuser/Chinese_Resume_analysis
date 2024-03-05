@@ -1,3 +1,7 @@
+import logging
+import json
+import os
+
 def build_json_from_old_one(old_json_path, new_json_path):
     # 打开旧的JSON文件并加载其内容
     with open(old_json_path, 'r') as old_json:
@@ -28,10 +32,11 @@ def build_json_from_old_one(old_json_path, new_json_path):
     with open(new_json_path, 'w', encoding='utf-8') as new_json:
         json.dump(new_data, new_json, ensure_ascii=False)
 
+
 # 初始标注信息
-def tagging2txt(pdf_dir='PDF_DIR', tag_file_path='Corpus_Path/key_mapping.json', txt_path='Corpus_Path/Txt'):
+def tagging2txt(pdf_dir='PDF_DIR', tag_file_path='Corpus_Path/Chinese_key_mapping.json', txt_path='Corpus_Path/Txt'):
     # 配置日志记录，便于调试和追踪
-    logging.basicConfig(level=logging.INFO, filename='Document/log.txt', format='%(message)s')
+    logging.basicConfig(level=logging.INFO, filename='../Document/log.txt', format='%(message)s')
     from Util import util
     txt_path = util.get_date_filename(txt_path)
     # 获取PDF目录下所有文件的列表
@@ -45,7 +50,7 @@ def tagging2txt(pdf_dir='PDF_DIR', tag_file_path='Corpus_Path/key_mapping.json',
             pdf_name = p[:-4]  # 移除文件扩展名，获取PDF文件名
             pdf_path = os.path.join(pdf_dir, p)  # 构建完整的PDF文件路径
             # 提取PDF文件中的文本内容
-            content = get_str_from_pdf(pdf_path)
+            content = util.get_str_from_pdf(pdf_path)
             # 初始化文本标注数组，初始值为'o'，表示其他/未标注
             con_to_tag = ['o'] * len(content)
             # 遍历标签信息，将标签应用到文本上
@@ -66,3 +71,4 @@ def tagging2txt(pdf_dir='PDF_DIR', tag_file_path='Corpus_Path/key_mapping.json',
                 for i in range(len(content)):
                     txt_file.write(content[i] + ' ' + con_to_tag[i] + '\n')
                 txt_file.write('\n')  # 不同PDF文件的内容之间添加空行分隔
+tagging2txt()

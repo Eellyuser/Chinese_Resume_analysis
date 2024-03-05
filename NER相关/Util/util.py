@@ -9,11 +9,100 @@ import shutil
 from io import StringIO
 from dateutil import parser
 import re
+import logging
 
 PDF_DIR = './PDF_DIR'
 PDF_TEST_DIR = './PDF_TEST'
 # 保存结果
 CORPUS_PATH = './Corpus_Path'
+
+def get_index_by_automaton(segments, tag, txt_text):
+    """
+    :param segments: 列表文本
+    :param tag: 标记
+    :param txt_text: 大段文本
+    :return:
+    """
+    log_config = get_log_config()
+    import ahocorasick
+    # 创建 Aho-Corasick 自动机实例
+    A = ahocorasick.Automaton()
+    # 将列表中的每个文本项添加到自动机中作为模式
+    for idx, pattern in enumerate(segments):
+        A.add_word(pattern, (idx, pattern))
+    # 构建自动机
+    A.make_automaton()
+    found_patterns = set()  # 用于存储找到的模式
+    all_split_text = []
+    # 遍历txt_text大段文字，查找列表中的文本
+    for end_idx, (pattern_idx, pattern) in A.iter(txt_text):
+        start_idx = end_idx - len(pattern) + 1
+        split_text = {
+            pattern: {
+                "start_index": start_idx,
+                "end_index": end_idx,
+                "tag": tag,
+            }
+        }
+        # print(split_text)
+        log_config.warning(f"分词:{split_text} 标注为 {tag}")
+        all_split_text.append(split_text)
+        found_patterns.add(pattern)
+    # 检查未找到的模式
+    not_found_patterns = [pattern for pattern in segments if pattern not in found_patterns]
+    # 处理未找到的模式
+    for pattern in not_found_patterns:
+        log_config.error(f"分词:{pattern} 未标注为 {tag}")
+    return all_split_text
+
+def get_log_config(log_path='./Corpus_Path/Log'):
+    logger = logging.getLogger('my_logger')
+    logger.setLevel(logging.DEBUG)  # 设置最低的日志级别
+
+    # 定义日志格式
+    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+
+    class InfoFilter(logging.Filter):
+        def filter(self, record):
+            # 只允许INFO级别的日志记录通过过滤器
+            return record.levelno == logging.INFO
+
+    class WarningFilter(logging.Filter):
+        def filter(self, record):
+            # 只允许INFO级别的日志记录通过过滤器
+            return record.levelno == logging.WARNING
+
+    if not os.path.exists(log_path):
+        os.makedirs(log_path)
+        print(f"日志路径已生成于{log_path}")
+    info_path = os.path.join(log_path, 'Info.log')
+    warning_path = os.path.join(log_path, 'Warning.log')
+    error_path = os.path.join(log_path, 'Error.log')
+
+    # 检查是否已存在相同配置的INFO级别处理器
+    if not any(handler for handler in logger.handlers if isinstance(handler, logging.FileHandler) and handler.level == logging.INFO):
+        info_handler = logging.FileHandler(info_path, encoding='utf-8')
+        info_handler.setLevel(logging.INFO)
+        info_handler.setFormatter(formatter)
+        info_handler.addFilter(InfoFilter())
+        logger.addHandler(info_handler)
+
+    # 检查是否已存在相同配置的WARNING级别处理器
+    if not any(handler for handler in logger.handlers if isinstance(handler, logging.FileHandler) and handler.level == logging.WARNING):
+        warning_handler = logging.FileHandler(warning_path, encoding='utf-8')
+        warning_handler.setLevel(logging.WARNING)
+        warning_handler.setFormatter(formatter)
+        warning_handler.addFilter(WarningFilter())
+        logger.addHandler(warning_handler)
+
+    # 检查是否已存在相同配置的ERROR级别处理器
+    if not any(handler for handler in logger.handlers if isinstance(handler, logging.FileHandler) and handler.level == logging.ERROR):
+        error_handler = logging.FileHandler(error_path, encoding='utf-8')
+        error_handler.setLevel(logging.ERROR)
+        error_handler.setFormatter(formatter)
+        logger.addHandler(error_handler)
+
+    return logger
 
 def get_date_filename(filepath,suffix="txt",filename=""):
     # 获取当前时间的时间戳
@@ -23,6 +112,7 @@ def get_date_filename(filepath,suffix="txt",filename=""):
     new_file_name = filepath + "/" + current_time + "-" + filename + "."+ suffix
     return new_file_name
 
+# 获取时间+文件名，若无文件名返回时间
 def get_date_dir(filepath,filename=""):
     # 获取当前时间的时间戳
     current_time = datetime.now().strftime("%Y年%m月%d日%H时%M分")
@@ -34,63 +124,12 @@ def get_date_dir(filepath,filename=""):
         new_file_name = filepath + "/" + current_time
     return new_file_name
 
-def get_default_tags(filename, json_file_path='Corpus_Path/all_tag.json'):
-    # 定义默认的tags格式
-    default_tags_format = {
-        "name": "",
-        "bir": "",
-        "gend": "",
-        "tel": "",
-        "acad": "",
-        "nati": "",
-        "live": "",
-        "poli": "",
-        "unv": "",
-        "work_experience": "",
-        "education": "",
-        "project_experience": "",
-        "training_experience": "",
-        "awards": "",
-        "social_experience": "",
-        "self_assessment": "",
-        "career_objective": "",
-        "skills": "",
-        "interests": "",
-        "certifications": "",
-        "lab_experience": "",
-        "language_skills": "",
-        "research_work": "",
-        "publications": "",
-        "philosophy": "",
-        "major_courses": "",
-        "personal_experience": "",
-        "self_introduction": "",
-        "other": ""
-    }
-
-    # 检查文件是否存在
-    if os.path.exists(json_file_path):
-        # 文件存在，读取现有内容
-        with open(json_file_path, 'r', encoding='utf-8') as file:
-            tags = json.load(file)
-    else:
-        # 文件不存在，创建一个新的空字典
-        tags = {}
-
-    # 检查给定的filename是否已经存在于tags中
-    if filename not in tags:
-        # 如果filename不存在，添加新的键值对
-        tags[filename] = default_tags_format
-
-        # 将更新后的tags字典写回文件
-        with open(json_file_path, 'w', encoding='utf-8') as file:
-            json.dump(tags, file, ensure_ascii=False, indent=4)
-    else:
-        # 如果filename已存在，什么也不做
-        print(f"'{filename}' 已经存在于 '{json_file_path}'")
-
-# 获取pdf文本
 def get_str_from_pdf(pdf_path):
+    """
+    从PDF文件中提取文本内容
+    :param pdf_path: pdf路径
+    :return:
+    """
     content = ''  # 初始化空字符串，用于累积提取的文本内容
 
     # 检查给定的文件路径是否指向一个PDF文件
@@ -125,8 +164,13 @@ def get_str_from_pdf(pdf_path):
     # 返回处理和清理后的纯文本字符串
     return ret
 
-
 def create_or_find_date_dir(is_mkdir_date=False, corpus_path=CORPUS_PATH):
+    """
+    # 寻找离当前时间最近的文件夹，或者由当前时间命名的文件夹
+    :param is_mkdir_date: 是否创建以当前日期时间命名的文件夹
+    :param corpus_path: 父文件目录
+    :return:
+    """
     now = datetime.now()
     date_str = now.strftime("%Y年%m月%d日%H时%M分")
 
