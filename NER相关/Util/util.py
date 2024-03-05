@@ -18,6 +18,7 @@ CORPUS_PATH = './Corpus_Path'
 
 def get_index_by_automaton(segments, tag, txt_text):
     """
+    通过自动机实例检索文本下标
     :param segments: 列表文本
     :param tag: 标记
     :param txt_text: 大段文本
@@ -56,8 +57,21 @@ def get_index_by_automaton(segments, tag, txt_text):
     return all_split_text
 
 def get_log_config(log_path='./Corpus_Path/Log'):
+    """
+    获取日志配置
+    :param log_path: 日志路径
+    :return:
+    """
     logger = logging.getLogger('my_logger')
     logger.setLevel(logging.DEBUG)  # 设置最低的日志级别
+
+    if not os.path.exists(log_path):
+        os.makedirs(log_path)
+        print(f"日志路径已生成于{log_path}")
+
+    info_path = os.path.join(log_path, 'Info.log')
+    warning_path = os.path.join(log_path, 'Warning.log')
+    error_path = os.path.join(log_path, 'Error.log')
 
     # 定义日志格式
     formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
@@ -71,13 +85,6 @@ def get_log_config(log_path='./Corpus_Path/Log'):
         def filter(self, record):
             # 只允许INFO级别的日志记录通过过滤器
             return record.levelno == logging.WARNING
-
-    if not os.path.exists(log_path):
-        os.makedirs(log_path)
-        print(f"日志路径已生成于{log_path}")
-    info_path = os.path.join(log_path, 'Info.log')
-    warning_path = os.path.join(log_path, 'Warning.log')
-    error_path = os.path.join(log_path, 'Error.log')
 
     # 检查是否已存在相同配置的INFO级别处理器
     if not any(handler for handler in logger.handlers if isinstance(handler, logging.FileHandler) and handler.level == logging.INFO):
@@ -105,6 +112,13 @@ def get_log_config(log_path='./Corpus_Path/Log'):
     return logger
 
 def get_date_filename(filepath,suffix="txt",filename=""):
+    """
+    默认以时间为单位+filename命名的txt文件
+    :param filepath: 文件路径
+    :param suffix: 后缀
+    :param filename: 添加的名字
+    :return:
+    """
     # 获取当前时间的时间戳
     current_time = datetime.now().strftime("%Y年%m月%d日%H时%M分")
     print(current_time)
@@ -114,6 +128,12 @@ def get_date_filename(filepath,suffix="txt",filename=""):
 
 # 获取时间+文件名，若无文件名返回时间
 def get_date_dir(filepath,filename=""):
+    """
+    默认以时间为单位命名的文件夹名称
+    :param filepath:
+    :param filename:
+    :return:
+    """
     # 获取当前时间的时间戳
     current_time = datetime.now().strftime("%Y年%m月%d日%H时%M分")
     print(current_time)
