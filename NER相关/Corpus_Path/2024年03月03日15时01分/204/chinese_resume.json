@@ -1,0 +1,192 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13999999999",
+        "QQ": "",
+        "wechat": "",
+        "email": "1234567@123.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "日语",
+            "degree": "中专",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "杨浦区财贸职工",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2014",
+            "location": "",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "日语",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "上海",
+        "degree": "中专",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1998",
+        "birthplace_norm": "中国-上海-上海",
+        "num_work_experience": 7,
+        "current_position": "",
+        "work_start_year": "2017",
+        "political_status": "",
+        "current_company": "汉服设计公司",
+        "school_name": "杨浦区财贸职工",
+        "ethnic": "汉族",
+        "recent_graduate_year": "2017",
+        "name": "林芳江",
+        "lastupdate_time": "2024-03-08-08-16-29",
+        "gender": "",
+        "age": 26,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "Microsoft Word 广告跨页设计、户外广告设计等\n95% ⚫ 对公司的网站后台周期性的修改和维护\nMicrosoft PowerPoint ⚫ 对公司所有的宣传广告全程负责一直到完成阶段\n50%\nPhotoshop",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "photoshop",
+                "microsoft word",
+                "广告设计",
+                "microsoft powerpoint"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "2021",
+            "company_name": "汉服设计公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": "09"
+        },
+        {
+            "salary": "",
+            "description": "Adobe 认证产品专家 广告跨页设计、户外广告设计等\n⚫ 对公司的网站后台周期性的修改和维护\n⚫ 对公司所有的宣传广告全程负责一直到完成阶段",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "skills": [
+                "广告设计",
+                "adobe"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "09",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2019",
+            "company_name": "万科物业服务有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "Adobe Adobe 中国认证设计师",
+            "start_time_month": "09"
+        },
+        {
+            "salary": "",
+            "description": "学历: 中专 广告跨页设计、户外广告设计等\n专业: 设计 ⚫ 对公司的网站后台周期性的修改和维护\n⚫ 对公司所有的宣传广告全程负责一直到完成阶段\n获得证书",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "skills": [
+                "广告设计"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "09",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2017",
+            "company_name": "康纳科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "设计",
+            "start_time_month": "09"
+        },
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "",
+            "company_name": "工作经历",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": ""
+        }
+    ],
+    "others": {
+        "language": [
+            "英语六级证书",
+            "日语",
+            "英语"
+        ],
+        "certificate": [
+            "英语六级证书"
+        ],
+        "skills": [
+            "Adobe",
+            "日语",
+            "美术",
+            "Photoshop",
+            "平面设计",
+            "广告设计",
+            "英语能力",
+            "Microsoft Word",
+            "Microsoft PowerPoint"
+        ],
+        "self_evaluation": "",
+        "awards": [],
+        "it_skills": [
+            "Photoshop",
+            "Microsoft Word",
+            "Microsoft PowerPoint"
+        ],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

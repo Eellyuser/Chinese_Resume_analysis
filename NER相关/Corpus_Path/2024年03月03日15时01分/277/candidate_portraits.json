@@ -1,0 +1,248 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "咨询顾问",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "销售数据",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "调查报告",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "物业销售",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "物业销售",
+                "type": "professional_skill",
+                "subclass": "物业管理"
+            },
+            {
+                "tag": "销售支持",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "应收账款",
+                "type": "professional_skill",
+                "subclass": "审计"
+            },
+            {
+                "tag": "信贷",
+                "type": "professional_skill",
+                "subclass": "风险管理"
+            },
+            {
+                "tag": "风控",
+                "type": "professional_skill",
+                "subclass": "风险管理"
+            },
+            {
+                "tag": "保理",
+                "type": "professional_skill",
+                "subclass": "保险相关"
+            },
+            {
+                "tag": "风险控制",
+                "type": "professional_skill",
+                "subclass": "风险管理"
+            },
+            {
+                "tag": "融资",
+                "type": "professional_skill",
+                "subclass": "投资相关"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "房地产/建筑",
+                "type": "industry"
+            },
+            {
+                "tag": "房屋细部检查员",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "中级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "院校背景不错，本科学历，毕业于211院校"
+        ],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "国内211",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5.5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 7,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5.5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.38003109458831574,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "房产销售",
+                "l1": "房产/建筑/物业管理"
+            }
+        },
+        {
+            "score": 0.3695364434886359,
+            "title": {
+                "l2": "服务业",
+                "l3": "典当业务",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.2504324619230484,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "客户经理",
+                "l1": "金融"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 6.8,
+        "education": 7,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "咨询顾问",
+            "score": 1
+        },
+        {
+            "skill": "销售数据",
+            "score": 1
+        },
+        {
+            "skill": "调查报告",
+            "score": 1
+        },
+        {
+            "skill": "物业销售",
+            "score": 1
+        },
+        {
+            "skill": "销售支持",
+            "score": 1
+        },
+        {
+            "skill": "应收账款",
+            "score": 1
+        },
+        {
+            "skill": "信贷",
+            "score": 1
+        },
+        {
+            "skill": "检查",
+            "score": 1
+        },
+        {
+            "skill": "风控",
+            "score": 1
+        },
+        {
+            "skill": "保理",
+            "score": 1
+        },
+        {
+            "skill": "风险控制",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        },
+        {
+            "skill": "融资",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": 0.23191818594932556,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

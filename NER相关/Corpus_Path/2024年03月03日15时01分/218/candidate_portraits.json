@@ -1,0 +1,374 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "功能设计",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "建设项目",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "需求分析",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "数据解析",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "R开发",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "WINDOWS",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "JAVA开发",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "LINUX",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "计算机网络",
+                "type": "professional_skill",
+                "subclass": "计算机基础"
+            },
+            {
+                "tag": "操作系统",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "软件分析",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "网络技术",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "数据结构",
+                "type": "professional_skill",
+                "subclass": "计算机基础"
+            },
+            {
+                "tag": "汇编语言",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "J2EE",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "数据库",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "C++",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "EDA",
+                "type": "professional_skill",
+                "subclass": "硬件开发"
+            },
+            {
+                "tag": "团队精神",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "服务业",
+                "type": "industry"
+            },
+            {
+                "tag": "消费/零售",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "WRAPPER开发",
+                "type": "job_title"
+            },
+            {
+                "tag": "世界500强企业",
+                "type": "company_class"
+            },
+            {
+                "tag": "龙头互联网企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "计算机科学与技术",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "上海浦东新",
+                "type": "current_location"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": []
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "世界500强企业从业经历",
+            "龙头互联网企业从业经历",
+            "候选人存在3段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "名企经历",
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 8,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5.5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 6,
+        "产品": 5,
+        "金融": 6
+    },
+    "predicted_titles": [
+        {
+            "score": 0.39501030364732104,
+            "title": {
+                "l2": "生物/制药/医疗/护理",
+                "l3": "食品研发",
+                "l1": "生物/制药/医疗"
+            }
+        },
+        {
+            "score": 0.36095152933594354,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "银行客户管理",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.31230061808146437,
+            "title": {
+                "l2": "工程师",
+                "l3": "汽车研发",
+                "l1": "传统工业/工程"
+            }
+        },
+        {
+            "score": 0.31186257345067986,
+            "title": {
+                "l2": "服务业",
+                "l3": "飞机人员",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.2926890782712145,
+            "title": {
+                "l2": "生物/制药/医疗/护理",
+                "l3": "医药技术",
+                "l1": "生物/制药/医疗"
+            }
+        },
+        {
+            "score": 0.21249896704028146,
+            "title": {
+                "l2": "后端开发",
+                "l3": "JAVA",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.16793115974999465,
+            "title": {
+                "l2": "市场",
+                "l3": "广告拓展",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.16020626679932562,
+            "title": {
+                "l2": "后端开发",
+                "l3": "游戏开发工程师",
+                "l1": "IT/互联网"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 35.25,
+        "average_industry_time": 35.25,
+        "average_work_time": 35.25,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 5
+    },
+    "predicted_skills": [
+        {
+            "skill": "功能设计",
+            "score": 1
+        },
+        {
+            "skill": "建设项目",
+            "score": 1
+        },
+        {
+            "skill": "需求分析",
+            "score": 1
+        },
+        {
+            "skill": "施工",
+            "score": 1
+        },
+        {
+            "skill": "写作",
+            "score": 1
+        },
+        {
+            "skill": "调研",
+            "score": 1
+        },
+        {
+            "skill": "数据解析",
+            "score": 0.9
+        },
+        {
+            "skill": "pm",
+            "score": 0.9
+        },
+        {
+            "skill": "r开发",
+            "score": 0.8
+        },
+        {
+            "skill": "windows",
+            "score": 0.7
+        },
+        {
+            "skill": "java开发",
+            "score": 0.7
+        },
+        {
+            "skill": "linux",
+            "score": 0.7
+        },
+        {
+            "skill": "计算机网络",
+            "score": 0.7
+        },
+        {
+            "skill": "操作系统",
+            "score": 0.7
+        },
+        {
+            "skill": "软件分析",
+            "score": 0.7
+        },
+        {
+            "skill": "网络技术",
+            "score": 0.7
+        },
+        {
+            "skill": "数据结构",
+            "score": 0.7
+        },
+        {
+            "skill": "汇编语言",
+            "score": 0.7
+        },
+        {
+            "skill": "j2ee",
+            "score": 0.7
+        },
+        {
+            "skill": "数据库",
+            "score": 0.7
+        },
+        {
+            "skill": "c++",
+            "score": 0.7
+        },
+        {
+            "skill": "eda",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "20000_to_30000",
+    "predicted_turnover": 0.22453491389751434,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间1年2个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

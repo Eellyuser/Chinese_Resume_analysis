@@ -1,0 +1,263 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "新媒体运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "EXCEL",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "数学建模",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "活动策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "PPT",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-运营/客服-编辑运营",
+                "type": "standard_title"
+            },
+            {
+                "tag": "运营实习生",
+                "type": "job_title"
+            },
+            {
+                "tag": "新媒体运营",
+                "type": "job_title"
+            },
+            {
+                "tag": "龙头互联网企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "市场营销",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "中共党员",
+                "type": "political_status"
+            },
+            {
+                "tag": "上海杨浦",
+                "type": "current_location"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "全国计算机等级考试",
+                "type": "certificate"
+            },
+            {
+                "tag": "普通话二级甲等",
+                "type": "certificate"
+            },
+            {
+                "tag": "大学英语六级",
+                "type": "certificate"
+            },
+            {
+                "tag": "全国大学生数学建模竞赛三等奖",
+                "type": "award"
+            },
+            {
+                "tag": "校一等优秀学生奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "校学业一等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "龙头互联网企业从业经历",
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "名企经历",
+            "稳定性高",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "编辑运营",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.3713193060028557,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "网站运营",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.217886181703879,
+            "title": {
+                "l2": "市场",
+                "l3": "广告市场调研",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2107945122932654,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "淘宝运营",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 51,
+        "average_industry_time": null,
+        "average_work_time": 51,
+        "work_stability": "跳槽频繁"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "新媒体运营",
+            "score": 1
+        },
+        {
+            "skill": "excel",
+            "score": 0.7
+        },
+        {
+            "skill": "数学建模",
+            "score": 0.7
+        },
+        {
+            "skill": "word",
+            "score": 0.7
+        },
+        {
+            "skill": "沟通能力",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        },
+        {
+            "skill": "活动策划",
+            "score": 0.7
+        },
+        {
+            "skill": "ppt",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "推广",
+            "score": 0.7
+        },
+        {
+            "skill": "文案",
+            "score": 0.7
+        },
+        {
+            "skill": "软文",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.26383575797080994,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

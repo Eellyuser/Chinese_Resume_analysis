@@ -1,0 +1,289 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "大数据平台",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "企业财务",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "财务数据",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "公共关系",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "市场调查",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "实地考察",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "风控",
+                "type": "professional_skill",
+                "subclass": "风险管理"
+            },
+            {
+                "tag": "合规",
+                "type": "professional_skill",
+                "subclass": "风险管理"
+            },
+            {
+                "tag": "回访",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            },
+            {
+                "tag": "质押",
+                "type": "professional_skill",
+                "subclass": "风险管理"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "数据分析",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "风险控制",
+                "type": "professional_skill",
+                "subclass": "风险管理"
+            },
+            {
+                "tag": "融资",
+                "type": "professional_skill",
+                "subclass": "投资相关"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "金融",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "金融-金融/银行/保险-风险控制",
+                "type": "standard_title"
+            },
+            {
+                "tag": "财务/人力资源/行政-财务-会计",
+                "type": "standard_title"
+            },
+            {
+                "tag": "司风控负责人",
+                "type": "job_title"
+            },
+            {
+                "tag": "管理经验",
+                "type": "management"
+            }
+        ],
+        "education": [],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "15年以上经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "助理会计师",
+                "type": "certificate"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            },
+            {
+                "tag": "会计证书",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "拥有良好的团队建设能力与协调能力,具有优秀的团队管理能力,积累了一定团队管理经验与能力",
+            "候选人存在3段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "管理经验",
+            "稳定性高",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 10
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "风险控制",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "财务",
+                "l3": "会计",
+                "l1": "财务/人力资源/行政"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 94,
+        "average_industry_time": 98,
+        "average_work_time": 62.666666666666664,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 8
+    },
+    "predicted_skills": [
+        {
+            "skill": "大数据平台",
+            "score": 1
+        },
+        {
+            "skill": "企业财务",
+            "score": 1
+        },
+        {
+            "skill": "财务数据",
+            "score": 1
+        },
+        {
+            "skill": "公共关系",
+            "score": 1
+        },
+        {
+            "skill": "市场调查",
+            "score": 1
+        },
+        {
+            "skill": "实地考察",
+            "score": 1
+        },
+        {
+            "skill": "材料",
+            "score": 1
+        },
+        {
+            "skill": "风控",
+            "score": 1
+        },
+        {
+            "skill": "评审",
+            "score": 1
+        },
+        {
+            "skill": "合规",
+            "score": 1
+        },
+        {
+            "skill": "营销",
+            "score": 1
+        },
+        {
+            "skill": "回访",
+            "score": 1
+        },
+        {
+            "skill": "归档",
+            "score": 1
+        },
+        {
+            "skill": "质押",
+            "score": 1
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "数据分析",
+            "score": 0.7
+        },
+        {
+            "skill": "风险控制",
+            "score": 0.7
+        },
+        {
+            "skill": "融资",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "15000_to_20000",
+    "predicted_turnover": 0.3099423348903656,
+    "risks": {
+        "occupation": [
+            "候选人在2012年1月至2012年10月存在工作空档期"
+        ],
+        "education": [],
+        "tags": [
+            "存在职业空档期"
+        ]
+    }
+}

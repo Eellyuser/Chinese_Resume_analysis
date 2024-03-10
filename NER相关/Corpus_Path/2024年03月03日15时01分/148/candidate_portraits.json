@@ -1,0 +1,205 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "微博运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "宣传",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "销售",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "财务会计",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "组织管理",
+                "type": "professional_skill",
+                "subclass": "管理"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "文化/体育/娱乐/社交",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-销售-销售",
+                "type": "standard_title"
+            },
+            {
+                "tag": "销售专员",
+                "type": "job_title"
+            },
+            {
+                "tag": "销售实习生",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "财务管理",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "中共党员",
+                "type": "political_status"
+            },
+            {
+                "tag": "湖北武汉",
+                "type": "current_location"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "英语四六级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "计算机二级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "普通话二级甲等",
+                "type": "certificate"
+            },
+            {
+                "tag": "创青春大学生创业挑战赛银奖",
+                "type": "award"
+            },
+            {
+                "tag": "移动专项赛省级银奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "销售",
+                "l3": "销售",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 41.5,
+        "average_industry_time": 41.5,
+        "average_work_time": 27.666666666666668,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 7.5,
+        "leadership": 6,
+        "workexp": 7.3999999999999995,
+        "education": 6.5,
+        "honor": 9
+    },
+    "predicted_skills": [
+        {
+            "skill": "微博运营",
+            "score": 1
+        },
+        {
+            "skill": "宣传",
+            "score": 1
+        },
+        {
+            "skill": "销售",
+            "score": 1
+        },
+        {
+            "skill": "财务会计",
+            "score": 0.7
+        },
+        {
+            "skill": "组织管理",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "6000_to_8000",
+    "predicted_turnover": 0.25895166397094727,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间0年8个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

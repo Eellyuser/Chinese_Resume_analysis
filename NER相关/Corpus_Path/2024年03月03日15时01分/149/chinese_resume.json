@@ -1,0 +1,183 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "138-0013-8090",
+        "QQ": "",
+        "wechat": "",
+        "email": "suweilun@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "汉语言文学",
+            "degree": "本科",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "school_rank": "125",
+            "school_level": "211",
+            "end_time_month": "07",
+            "school_name": "湖南师范大学",
+            "abroad_country": "",
+            "GPA": "4.68",
+            "courses": "现代汉语，古代汉语",
+            "start_time_year": "2012",
+            "location": "长沙",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "汉语言文学",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1994",
+        "birthplace_norm": "",
+        "num_work_experience": 8,
+        "current_position": "创始人",
+        "work_start_year": "2016",
+        "political_status": "",
+        "current_company": "风雨工作室",
+        "school_name": "湖南师范大学",
+        "ethnic": "",
+        "recent_graduate_year": "2016",
+        "name": "苏玮伦",
+        "lastupdate_time": "2024-03-08-07-59-11",
+        "gender": "",
+        "age": 30,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "赛公益类最佳创意奖； 带领 4 人小组组建了风雨工作室，致力于品牌建设，以及市场营销搭建\n工作；网站常态运营活动规划和推进执行，制定相关运营策略和指标；\n多次参加校内比赛，并获得较好的成绩。\n体第一名；",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "运营",
+                "搭建",
+                "市场营销"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "高级管理",
+            "start_time_year": "2017",
+            "company_name": "风雨工作室",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "创始人",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": "宣传活动策划，撰写内部工作稿件及新闻报道；摄影、摄像、录制编辑《东\n城警察》电视专题栏目及负责联系各大媒体对新闻事件的集中报道；\n维护本局新媒体交流平台，如微博、微信公众平台，具备处置突发负面新\n闻的舆论控制经验，长期与各大媒体保持良好关系。\n等奖学金；",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "skills": [
+                "活动策划",
+                "摄像",
+                "摄影"
+            ],
+            "company_type": "",
+            "industry": "文化/体育/娱乐/社交",
+            "end_time_month": "05",
+            "location": "",
+            "company_size": "",
+            "job_function": "人力资源",
+            "start_time_year": "2016",
+            "company_name": "东城区公安局某分局政工监督室",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "宣传科实习生",
+            "start_time_month": "06"
+        },
+        {
+            "salary": "",
+            "description": "扒皮小能手一枚；文笔流畅，\n策划主题活动，确定主题内容，网站微博微信宣传；配合每期公益电影的\n多次在校内刊物上发表文章，\n宣传，负责联系场地策划电影展；总结电影展览的成果并撰写成文发布到\n熟练软文写作；善于沟通、具\n论坛推广；\n有良好的团队合作能力和人\n尝试过多种文体写作，包括微电影剧本、企业宣传文、演讲稿、广告语等；\n际交往能力。",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "skills": [
+                "写作",
+                "策划",
+                "演讲"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "05",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2016",
+            "company_name": "北京时光印象信息科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "推广组实习生",
+            "start_time_month": "03"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语",
+            "汉语"
+        ],
+        "certificate": [],
+        "skills": [
+            "H5",
+            "Office",
+            "策划",
+            "营销",
+            "运营",
+            "搭建",
+            "摄像",
+            "摄影",
+            "写作",
+            "文案",
+            "演讲",
+            "Indesign",
+            "Photoshop",
+            "Education",
+            "活动策划",
+            "市场营销"
+        ],
+        "self_evaluation": "微博第一批种子用户，活跃于",
+        "awards": [
+            "等奖学金",
+            "赛公益类最佳创意奖",
+            "体第一名"
+        ],
+        "it_skills": [
+            "Office",
+            "Photoshop"
+        ],
+        "business_skills": [
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

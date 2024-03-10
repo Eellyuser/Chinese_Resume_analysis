@@ -1,0 +1,46 @@
+{
+  "name": "吴惠美",
+  "acad": "本科",
+  "nati": "汉族",
+  "education": [
+    {
+      "time": "2012.9-2016.7",
+      "school": "山东科技大学",
+      "degree": "本科",
+      "edu_desc": "设计专业"
+    },
+    {
+      "time": "2016.9-2019.7",
+      "school": "山东科技大学",
+      "degree": "硕士",
+      "edu_desc": "设计专业"
+    }
+  ],
+  "work_experience": [
+    {
+      "time": "2019.9-2020.9",
+      "org": "北京奈森设计服务有限公司",
+      "role": "平面设计师"
+    },
+    {
+      "time": "2020.9-2021.9",
+      "org": "奈森设计有限公司",
+      "role": "平面设计师"
+    },
+    {
+      "time": "2021.9-至今",
+      "org": "奈森设计服务有限公司",
+      "role": "平面设计师"
+    }
+  ],
+  "certifications": [
+    "Adobe中国认证设计师 2009",
+    "Adobe认证产品专家 2009",
+    "平面设计师资格证书 2009",
+    "国际商业美术设计师 2009"
+  ],
+  "skills": "Photoshop, Illustrator, Indesign, Html, css, Word, Excel",
+  "age": "31岁",
+  "tel": "13912345678",
+  "email": "you@hotmail.com"
+}

@@ -1,0 +1,196 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13912345678",
+        "QQ": "",
+        "wechat": "",
+        "email": "wujiaru@123.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "求职意向: 简历设计师\n 担任班级生活委员，锻炼了自己的组织协调能力；\n 担任班级课代表，锻炼了自己的组织协调能力；\n 担任班级体育委员，锻炼了自己的组织协调能力；\n要点总结  利用高三署假参加学校组织的“三下乡”活动 ， 加深了对社会的了\n解。",
+            "end_time_year": "",
+            "still_active": 0,
+            "end_time_month": "",
+            "organization_name": "岁/汉族/四川",
+            "start_time_year": "",
+            "location": "四川",
+            "department": "",
+            "job_title": "岁/汉族/四川",
+            "start_time_month": ""
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "理科",
+            "degree": "高中",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "四川第三中学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2015",
+            "location": "四川",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "理科",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "高中",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1998",
+        "birthplace_norm": "",
+        "num_work_experience": 6,
+        "current_position": "平面设计师",
+        "work_start_year": "2018",
+        "political_status": "",
+        "current_company": "美铭智扬顾问有限公司",
+        "school_name": "四川第三中学",
+        "ethnic": "汉族",
+        "recent_graduate_year": "2018",
+        "name": "吴嘉茹",
+        "lastupdate_time": "2024-03-08-07-47-02",
+        "gender": "",
+        "age": 26,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2020",
+            "company_name": "美铭智扬顾问有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "08"
+        },
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "08",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2018",
+            "company_name": "美铭智扬顾问有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "08"
+        },
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "",
+            "company_name": "英语四六级证书",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": ""
+        },
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "",
+            "company_name": "告跨页设计、户外广告",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": ""
+        }
+    ],
+    "others": {
+        "language": [
+            "英语四六级证",
+            "英语"
+        ],
+        "certificate": [
+            "英语四六级证书"
+        ],
+        "skills": [
+            "Adobe",
+            "主持",
+            "演讲",
+            "平面设计",
+            "数学建模"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "年四川省挑战主持人大赛第一名",
+            "年中学第九届数学建模大赛一等奖",
+            "年全国中学生数学建模大赛国家二等奖",
+            "年四川省演讲比赛三等奖",
+            "年国家励志一等奖学金"
+        ],
+        "it_skills": [],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

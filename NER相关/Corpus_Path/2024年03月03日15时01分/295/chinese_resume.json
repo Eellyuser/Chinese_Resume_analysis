@@ -1,0 +1,137 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13144556789",
+        "QQ": "43234325",
+        "wechat": "",
+        "email": "43234325@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "临床医学",
+            "degree": "大专",
+            "end_time_year": "",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "",
+            "school_name": "邢台医学高等专科学校",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "",
+            "location": "邢台",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": ""
+        },
+        {
+            "ranking": "",
+            "major": "",
+            "degree": "",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "07",
+            "school_name": "河北省邢台市",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2013",
+            "location": "邢台",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "",
+        "birthplace_norm": "",
+        "num_work_experience": 8,
+        "current_position": "算机各项操作",
+        "work_start_year": "2016",
+        "political_status": "",
+        "current_company": "邢台第一人民医院",
+        "school_name": "河北省邢台市",
+        "ethnic": "",
+        "recent_graduate_year": "2016",
+        "name": "陈萱珍",
+        "lastupdate_time": "2024-03-09-05-23-55",
+        "gender": "",
+        "age": null,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "工作职责:\n⚫ 计算机二级，熟悉计 ⚫ 在上级医师的指导下，负责管理分管的病床医疗工作；\n算机各项操作 ⚫ 接到新病人后，在上级医师的指导下询问病史与协助上级医师处理诊\n⚫ CCT计算机二级 疗工作；\n⚫ 安排手术，进行基本手术操作。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "制药/医疗",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "化工",
+            "start_time_year": "2016",
+            "company_name": "邢台第一人民医院",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "算机各项操作",
+            "start_time_month": "08"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [
+            "cet-6",
+            "计算机二级"
+        ],
+        "skills": [
+            "医学",
+            "Office",
+            "内科",
+            "微生物",
+            "临床医学"
+        ],
+        "self_evaluation": "我是临床医学专业毕业生，有丰富的临床知识基础与丰富的实习经验，\n工作中善于分析和吸取经验。临床操作熟练，有敏捷的反应速度，对突\n发情况能很快做出应。个性开朗，容易相处，团队荣誉感强。",
+        "awards": [],
+        "it_skills": [
+            "Office"
+        ],
+        "business_skills": [
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

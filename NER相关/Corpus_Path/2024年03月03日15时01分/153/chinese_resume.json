@@ -1,0 +1,165 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "138-0000-0000",
+        "QQ": "123456789",
+        "wechat": "",
+        "email": "123456789@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "本科",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "school_rank": "356",
+            "school_level": "",
+            "end_time_month": "07",
+            "school_name": "山东理工大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "市场调查与预测，国际市场营销，基本会计，市场营销，统计学",
+            "start_time_year": "2012",
+            "location": "淄博",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-上海-上海-杨浦区",
+        "current_location": "上海杨浦",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "山东烟台",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1994-11",
+        "birthplace_norm": "中国-山东-烟台",
+        "num_work_experience": 8,
+        "current_position": "新媒体运营",
+        "work_start_year": "2016",
+        "political_status": "党员",
+        "current_company": "oppo校园俱乐部",
+        "school_name": "山东理工大学",
+        "ethnic": "",
+        "recent_graduate_year": "2016",
+        "name": "李佳",
+        "lastupdate_time": "2024-03-08-08-00-25",
+        "gender": "",
+        "age": 30,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "李佳 ◆ 在官方微博平台中，打造“OPPO 校园俱乐部”的概念，为 OPPO 公\n司在全国范围内各大高集结粉丝，让学生由参与者变成创造者，变成\nOPPO 的校园代言人；",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "运营"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "影视/媒体/出版/印刷",
+            "start_time_year": "2016",
+            "company_name": "oppo校园俱乐部",
+            "report_to": "",
+            "department": "校园俱乐部",
+            "underling_num": "",
+            "job_title": "新媒体运营",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": "联系方式 ◆ 要负责撰写软文，协助运营执行推广活动 ；\n●   负责公司自媒体（如微博、微信公众）的信息发布及维护；",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "skills": [
+                "运营"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "互联网产品/运营管理",
+            "start_time_year": "2015",
+            "company_name": "北京乔布有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "运营实习生",
+            "start_time_month": "07"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语六级",
+            "英语",
+            "普通话"
+        ],
+        "certificate": [
+            "全国计算机等级考试",
+            "大学英语六级",
+            "普通话二级甲等"
+        ],
+        "skills": [
+            "PPT",
+            "Word",
+            "Excel",
+            "会计",
+            "策划",
+            "运营",
+            "文案",
+            "心理学",
+            "普通话",
+            "数学建模",
+            "活动策划",
+            "沟通能力",
+            "市场营销",
+            "办公软件",
+            "日常办公软件"
+        ],
+        "self_evaluation": "●      2015.10-2015-年 全国大学生数学建模竞赛三等奖\n●     多年校园推广及活动策划\n●     2014.11   校学业一等奖学金",
+        "awards": [
+            "校学业一等奖学金",
+            "校一等优秀学生奖学金",
+            "全国大学生数学建模竞赛三等奖"
+        ],
+        "it_skills": [
+            "PPT",
+            "Excel",
+            "办公软件",
+            "日常办公软件"
+        ],
+        "business_skills": [
+            "Word",
+            "Excel",
+            "会计",
+            "办公软件",
+            "日常办公软件"
+        ]
+    },
+    "resume_rawtext": ""
+}

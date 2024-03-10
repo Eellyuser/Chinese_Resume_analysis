@@ -1,0 +1,222 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "房产销售",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "市场销售",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "销售计划",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "售后服务",
+                "type": "professional_skill",
+                "subclass": "售后服务"
+            },
+            {
+                "tag": "市场调查",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "物业",
+                "type": "professional_skill",
+                "subclass": "物业管理"
+            },
+            {
+                "tag": "回访",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "房地产/建筑",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-销售-销售",
+                "type": "standard_title"
+            },
+            {
+                "tag": "销售助理",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "市场营销",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "22岁以下",
+                "type": "age"
+            },
+            {
+                "tag": "山西太原",
+                "type": "current_location"
+            },
+            {
+                "tag": "山西太原",
+                "type": "expect_location"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            },
+            {
+                "tag": "高级营销员",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 7,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5.5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 9,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "销售",
+                "l3": "销售",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.3683242785171259,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "房地产物业",
+                "l1": "房产/建筑/物业管理"
+            }
+        },
+        {
+            "score": 0.3158391627610737,
+            "title": {
+                "l2": "销售/技术支持",
+                "l3": "商务经理",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.3158365587218004,
+            "title": {
+                "l2": "服务业",
+                "l3": "乘务员",
+                "l1": "服务业"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 6.5,
+        "average_industry_time": 6.5,
+        "average_work_time": 6.5,
+        "work_stability": "跳槽频繁"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 5.6,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "房产销售",
+            "score": 0.7
+        },
+        {
+            "skill": "市场销售",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        },
+        {
+            "skill": "销售计划",
+            "score": 0.5
+        },
+        {
+            "skill": "售后服务",
+            "score": 0.5
+        },
+        {
+            "skill": "市场调查",
+            "score": 0.5
+        },
+        {
+            "skill": "物业",
+            "score": 0.5
+        },
+        {
+            "skill": "回访",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": 0.32257699966430664,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

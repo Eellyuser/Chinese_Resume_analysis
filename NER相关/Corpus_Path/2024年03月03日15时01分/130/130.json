@@ -1,0 +1,59 @@
+{
+  "name": "钟伦军",
+  "career_objective": "电商运营专员",
+  "birth_date": "1992/12/11",
+  "phone": "13800008000",
+  "email": "1380454@qq.com",
+  "location": "广州，广东",
+  "self_evaluation": "具有良好的自学能力，专业知识扎实，认真负责，能独立工作，具备团队精神，致力于不断提高工作能力。",
+  "education_background": {
+    "time": "2010.03-2014.06",
+    "school": "浙江大学",
+    "major": "运营管理",
+    "courses": [
+      "离散数学",
+      "C语言",
+      "数据结构",
+      "操作系统",
+      "数据库原理",
+      "编译原理",
+      "软件工程",
+      "计算机网络",
+      "计算机体系结构",
+      "Windows、UNIX编程",
+      "图形图像学"
+    ]
+  },
+  "work_experience": [
+    {
+      "time": "2014.08-2019.08",
+      "company": "彩讯股份有限公司",
+      "project_name": "爱存爱贷项目",
+      "software_environment": "JDK, TOMCAT, SPRING, HIBERNATE, STRUTS2",
+      "database": "MYSQL",
+      "description": "线上P2P借贷平台，负责项目功能辅助和页面设计编写。"
+    },
+    {
+      "time": "2019.08至今",
+      "company": "中软国际有限公司",
+      "project_name": "余额宝项目",
+      "software_environment": "JDK, TOMCAT, SPRING, HIBERNATE, STRUTS2",
+      "description": "线上P2P借贷平台，主要负责项目功能辅助和页面设计。"
+    }
+  ],
+  "professional_skills": [
+    "MYSQL",
+    "TOMCAT",
+    "JAVASCRIPT",
+    "PHOTOSHOP",
+    "HTML/CSS",
+    "JQUERY"
+  ],
+  "awards_and_honors": [
+    "优秀班干",
+    "校创业者协会宣传部长",
+    "全国大学生广告艺术设计平面作品类三等奖",
+    "微博评选大赛最具创新奖"
+  ],
+  "interests": "详细信息未提供"
+}

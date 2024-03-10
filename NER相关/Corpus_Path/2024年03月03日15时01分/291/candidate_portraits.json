@@ -1,0 +1,227 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "初中英语",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "编制报表",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "收支",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "日常财务核算",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "职业规划",
+                "type": "professional_skill",
+                "subclass": "教育培训"
+            },
+            {
+                "tag": "企业财务",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "积极向上",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "教育培训",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "财务/人力资源/行政-财务-财务管理",
+                "type": "standard_title"
+            },
+            {
+                "tag": "财务助理",
+                "type": "job_title"
+            },
+            {
+                "tag": "管理经验",
+                "type": "management"
+            },
+            {
+                "tag": "优秀互联网企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "会计学",
+                "type": "major"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "中级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "优秀学生干部",
+                "type": "award"
+            },
+            {
+                "tag": "励志奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "一等奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "学生标兵",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "优秀互联网企业从业经历",
+            "拥有良好的团队建设能力与协调能力,具有优秀的团队管理能力,积累了一定团队管理经验与能力",
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "院校背景不错，本科学历，毕业于211院校"
+        ],
+        "others": [],
+        "tags": [
+            "名企经历",
+            "管理经验",
+            "稳定性高",
+            "国内211"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5.5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 10
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "财务",
+                "l3": "财务管理",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.3584757256347977,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "银行客户管理",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.3486887210742209,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "保险经纪",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.2928355532909814,
+            "title": {
+                "l2": "其他",
+                "l3": "语数英文理老师",
+                "l1": "其他"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 23.5,
+        "average_industry_time": 23.5,
+        "average_work_time": 23.5,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 6.2,
+        "education": 7,
+        "honor": 8
+    },
+    "predicted_skills": [
+        {
+            "skill": "招聘",
+            "score": 0.9
+        },
+        {
+            "skill": "初中英语",
+            "score": 0.8
+        },
+        {
+            "skill": "编制报表",
+            "score": 0.8
+        },
+        {
+            "skill": "收支",
+            "score": 0.8
+        },
+        {
+            "skill": "日常财务核算",
+            "score": 0.7
+        },
+        {
+            "skill": "职业规划",
+            "score": 0.7
+        },
+        {
+            "skill": "企业财务",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.28343838453292847,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "陈佳雨",
+  "bir": "1993.08.13",
+  "gend": "",
+  "tel": "153-4567-8900",
+  "acad": "大专",
+  "nati": "",
+  "live": "湖南省长沙市",
+  "poli": "",
+  "unv": "怀化职业技术学院",
+  "work_experience": [
+    {
+      "time": "2016.06至今",
+      "org": "北京红美广告有限公司",
+      "work_desc": "UI设计助理，负责网站的UI设计，手机客户端产品GUI的整体风格设计，设计产品的界面及icon等UI内容。"
+    },
+    {
+      "time": "2015.06-2016.06",
+      "org": "秀丽湘潭专题项目",
+      "work_desc": "项目组成员，参与前期的交互设计讨论，负责整套网站的视觉设计、后期优化。"
+    },
+    {
+      "time": "2014.06-2015.06",
+      "org": "大美湖南专题项目",
+      "work_desc": "项目组成员，参与前期的交互设计讨论，负责整套网站的视觉设计、后期优化。"
+    }
+  ],
+  "education": [
+    {
+      "time": "2011.09-2014.06",
+      "school": "怀化职业技术学院",
+      "degree": "艺术设计",
+      "edu_desc": "主修课程包括中国美术史、外国美术史、艺术设计史、设计素描、装饰色彩等。"
+    }
+  ],
+  "project_experience": [],
+  "training_experience": [],
+  "awards": [],
+  "self_assessment": "艺术设计专业背景，有专业培训的经历，熟悉设计工作流程，熟练应用设计软件，能手工绘图，有社团领导工作能力，沟通协作能力强。",
+  "career_objective": "",
+  "skills": "Photoshop, Illustrator, InDesign, Flash, Dreamweaver, AfterEffect, TeamWork",
+  "interests": "",
+  "certifications": "",
+  "language_skills": "",
+  "publications": "",
+  "philosophy": "",
+  "major_courses": "",
+  "self_introduction": "",
+  "other": ""
+}

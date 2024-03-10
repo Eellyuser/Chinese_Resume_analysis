@@ -1,0 +1,275 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "销售技巧",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "宣传",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "软件WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "EXCEL",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "证券投资",
+                "type": "professional_skill",
+                "subclass": "理财相关"
+            },
+            {
+                "tag": "活动策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "社团组织",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "PPT",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "微积分",
+                "type": "professional_skill",
+                "subclass": "数理基础"
+            },
+            {
+                "tag": "运维",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "收银",
+                "type": "professional_skill",
+                "subclass": "零售业"
+            },
+            {
+                "tag": "抗压能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "服务业",
+                "type": "industry"
+            },
+            {
+                "tag": "科研",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告促销",
+                "type": "standard_title"
+            },
+            {
+                "tag": "C1驾 产品促销员",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "金融学",
+                "type": "major"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "中级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "院校背景不错，本科学历，毕业于211院校"
+        ],
+        "others": [],
+        "tags": [
+            "稳定性高",
+            "国内211"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 8.5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 9,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "市场",
+                "l3": "广告促销",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.35889225348155385,
+            "title": {
+                "l2": "服务业",
+                "l3": "百货零售",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.3065188772796391,
+            "title": {
+                "l2": "服务业",
+                "l3": "餐饮工作人员",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.13458886923880706,
+            "title": {
+                "l2": "服务业",
+                "l3": "餐饮经理",
+                "l1": "服务业"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 19.5,
+        "average_industry_time": 19.5,
+        "average_work_time": 19.5,
+        "work_stability": "跳槽频繁"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 8,
+        "leadership": 6,
+        "workexp": 6.2,
+        "education": 7,
+        "honor": 6
+    },
+    "predicted_skills": [
+        {
+            "skill": "销售技巧",
+            "score": 1
+        },
+        {
+            "skill": "宣传",
+            "score": 1
+        },
+        {
+            "skill": "软件word",
+            "score": 0.9
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "excel",
+            "score": 0.7
+        },
+        {
+            "skill": "证券投资",
+            "score": 0.7
+        },
+        {
+            "skill": "活动策划",
+            "score": 0.7
+        },
+        {
+            "skill": "社团组织",
+            "score": 0.7
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "ppt",
+            "score": 0.7
+        },
+        {
+            "skill": "微积分",
+            "score": 0.7
+        },
+        {
+            "skill": "运维",
+            "score": 0.7
+        },
+        {
+            "skill": "运营",
+            "score": 0.7
+        },
+        {
+            "skill": "收银",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.341113418340683,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

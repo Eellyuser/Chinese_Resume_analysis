@@ -1,0 +1,232 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "H5",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "活动方案",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "微信编辑",
+                "type": "professional_skill",
+                "subclass": "运营编辑"
+            },
+            {
+                "tag": "活动策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "沟通能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "团队协作",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "运营实习生",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "市场营销",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "3-5年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "国家计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "普通话二级甲等",
+                "type": "certificate"
+            },
+            {
+                "tag": "大学英语六级",
+                "type": "certificate"
+            },
+            {
+                "tag": "驾照",
+                "type": "certificate"
+            },
+            {
+                "tag": "年获得校综合奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "国家励志奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "获校二等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 9,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.4493123886909597,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "网站运营",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.29293163193332644,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "淘宝运营",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": 13,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 7.5,
+        "leadership": 6,
+        "workexp": 5.6,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "运营",
+            "score": 0.8
+        },
+        {
+            "skill": "h5",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "沟通能力",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        },
+        {
+            "skill": "活动方案",
+            "score": 0.7
+        },
+        {
+            "skill": "微信编辑",
+            "score": 0.7
+        },
+        {
+            "skill": "活动策划",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "推广",
+            "score": 0.7
+        },
+        {
+            "skill": "软文",
+            "score": 0.7
+        },
+        {
+            "skill": "文案",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": 0.27270880341529846,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

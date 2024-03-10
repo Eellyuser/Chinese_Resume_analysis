@@ -1,0 +1,180 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "",
+        "wechat": "",
+        "email": "chenxinyi@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "⚫ 目标带领自己的团队，辅助德璟信息科技完成在各高校的“伏龙计划”，向全球顶尖的 AXA 金融公司推送实习生资源。\n⚫ 整体运营前期开展了相关的线上线下宣传活动，中期为进行咨询的人员提供讲解。后期进行了项目的维护阶段，保证了\n整个项目的完整性。",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "上海商学院",
+            "start_time_year": "2016",
+            "location": "上海",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "03"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "本科",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "06",
+            "school_name": "上海商学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "国际市场营销，管理信息系统，宏观经济学，微观经济学，市场营销，财务管理，统计学，管理学，经济法，会计学",
+            "start_time_year": "2015",
+            "location": "上海",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "07"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-上海-上海",
+        "current_location": "上海",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "中级",
+        "national_identity_number": "",
+        "date_of_birth": "1996-05",
+        "birthplace_norm": "",
+        "num_work_experience": 5,
+        "current_position": "软件工程师",
+        "work_start_year": "2019",
+        "political_status": "党员",
+        "current_company": "德平信息科技有限公司",
+        "school_name": "上海商学院",
+        "ethnic": "汉族",
+        "recent_graduate_year": "2019",
+        "name": "陈信意",
+        "lastupdate_time": "2024-03-08-08-18-20",
+        "gender": "女",
+        "age": 28,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "⚫ 负责公司业务系统的设计及改进，参与公司网上商城系统产品功能设计及实施工作。\n⚫ 负责客户调研、客户需求分析、方案写作等工作， 参与公司多个大型电子商务项目的策划工作，担任大商集团网上商\n城一期建设项目经理。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "项目经理",
+                "软件工程",
+                "需求分析",
+                "写作",
+                "电子商务",
+                "策划",
+                "功能"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "软件/互联网开发/系统集成",
+            "start_time_year": "2020",
+            "company_name": "德平信息科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "软件工程师",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": "⚫ 负责公司线上端资源的销售工作（以开拓客户为主），公司主要资源以广点通、智汇推、百度、小米、360、沃门户等；\n⚫ 实时了解行业的变化，跟踪客户的详细数据，为客户制定更完善的投放计划（合作过珍爱网、世纪佳缘、56 视频、京",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "skills": [
+                "市场营销"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2019",
+            "company_name": "德璟信息科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "市场营销",
+            "start_time_month": "07"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语",
+            "普通话"
+        ],
+        "certificate": [
+            "cet-4",
+            "全国计算机二级",
+            "普通话一级甲等",
+            "计算机二级"
+        ],
+        "skills": [
+            "App",
+            "Web",
+            "Office",
+            "策划",
+            "运营",
+            "会计",
+            "写作",
+            "功能",
+            "管理学",
+            "经济学",
+            "普通话",
+            "电子商务",
+            "宏观经济",
+            "市场营销",
+            "软件工程",
+            "财务管理",
+            "项目经理",
+            "产品开发",
+            "需求分析"
+        ],
+        "self_evaluation": "深度互联网从业人员，对互联网保持高度的敏感性和关注度，熟悉产品开发流程，有很强的产品规划、需求分析、交互设\n计能力，能独立承担 APP 和 WEB 项目的管控工作，善于沟通，贴近用户。",
+        "awards": [],
+        "it_skills": [
+            "Office",
+            "软件工程"
+        ],
+        "business_skills": [
+            "Office",
+            "会计",
+            "电子商务"
+        ]
+    },
+    "resume_rawtext": ""
+}

@@ -1,0 +1,152 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "18045678090",
+        "QQ": "3543637",
+        "wechat": "",
+        "email": "3543637@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "工作描述:\n◼ 内务支持: 负责收发学校传真复印、扫描文档、收发信件、文件、快递包裹的接收等；\n◼ 活动支持: 负责学校员工活动 ， 各种会议安排、组织、文体活动安排等；",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "湖北工业大学系办公室",
+            "start_time_year": "2018",
+            "location": "湖北",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "财务管理",
+            "degree": "本科",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "06",
+            "school_name": "湖北工业大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "高级财务管理，基础会计学，财务管理学，财务会计，纳税筹划，财务管理，审计学，税法",
+            "start_time_year": "2016",
+            "location": "武汉",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "财务管理",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-上海-上海",
+        "current_location": "上海",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "中级",
+        "national_identity_number": "",
+        "date_of_birth": "1998-07-07",
+        "birthplace_norm": "",
+        "num_work_experience": 4,
+        "current_position": "财务会计",
+        "work_start_year": "2020",
+        "political_status": "",
+        "current_company": "武汉映山居网络科技有限公司",
+        "school_name": "湖北工业大学",
+        "ethnic": "",
+        "recent_graduate_year": "2020",
+        "name": "陈翊依",
+        "lastupdate_time": "2024-03-08-08-32-59",
+        "gender": "",
+        "age": 26,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "工作描述:\n1. 制定、调整费用开支标准；制定、实施内部财务控制制度；制定会计核算制度。；\n2. 监督、指导会计凭证、帐目、报表等会计核算业务；定期进行财务报表分析；审核、报送本部门财务报；\n3. 定期核对、及时清算各项应收应付、订金、保证金、备用金等款项；\n4. 项目开始做好财务部分可行性测算分析报告，项目结束做好土地增值税清算；\n5. 与当地税务沟通，合理利用重庆特有房地产政策为公司节约营业税 1000 多万，受到公司领导肯定。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "财务",
+                "房地产",
+                "会计",
+                "财务会计",
+                "帐目"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "财务/审计/税务",
+            "start_time_year": "2020",
+            "company_name": "武汉映山居网络科技有限公司",
+            "report_to": "",
+            "department": "财务部",
+            "underling_num": "",
+            "job_title": "财务会计",
+            "start_time_month": "09"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语四级证书",
+            "普通话"
+        ],
+        "certificate": [
+            "cet4",
+            "专业技能证书",
+            "普通话二级甲等证书",
+            "机动车驾驶证",
+            "英语四级证书",
+            "驾驶证"
+        ],
+        "skills": [
+            "Wps",
+            "Adobe",
+            "会计",
+            "Resume",
+            "财务",
+            "审计",
+            "帐目",
+            "驾驶",
+            "Personal",
+            "房地产",
+            "Education",
+            "普通话",
+            "财务管理",
+            "宏观经济",
+            "财务会计"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "湖北省创青春创业计划移动专项赛银奖"
+        ],
+        "it_skills": [],
+        "business_skills": [
+            "会计",
+            "财务会计"
+        ]
+    },
+    "resume_rawtext": ""
+}

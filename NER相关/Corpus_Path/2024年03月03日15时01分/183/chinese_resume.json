@@ -1,0 +1,188 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13800138080",
+        "QQ": "",
+        "wechat": "",
+        "email": "dengxingyun@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "会计学",
+            "degree": "本科",
+            "end_time_year": "2010",
+            "still_active": 0,
+            "school_rank": "70",
+            "school_level": "211",
+            "end_time_month": "07",
+            "school_name": "西南大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "中级财务管理，会计电算化，会计学基础，财务会计，会计英语，成本会计，会计学，税法，会计",
+            "start_time_year": "2006",
+            "location": "重庆",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "会计学",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "资深",
+        "national_identity_number": "",
+        "date_of_birth": "1988",
+        "birthplace_norm": "",
+        "num_work_experience": 14,
+        "current_position": "会计",
+        "work_start_year": "2010",
+        "political_status": "团员",
+        "current_company": "兴森设计科技有限公司",
+        "school_name": "西南大学",
+        "ethnic": "",
+        "recent_graduate_year": "2010",
+        "name": "邓幸韵",
+        "lastupdate_time": "2024-03-08-08-09-55",
+        "gender": "",
+        "age": 36,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": " 负责项目资金财务收取材料发票保管，做好催付和对账工作； Excel\n 负责项目报表的正确性和上报的及时性；",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "财务",
+                "会计",
+                "excel"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "财务/审计/税务",
+            "start_time_year": "2020",
+            "company_name": "兴森设计科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "会计",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": " 负责公司会计核算，报表编制及月度报税工作；\n 负责项目资金财务收取材料发票保管，做好催付和对账工作；\n 负责项目报表的正确性和上报的及时性； 技能证书\nWord",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "skills": [
+                "财务",
+                "会计",
+                "word"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "财务/审计/税务",
+            "start_time_year": "2011",
+            "company_name": "云尊设计科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "会计",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": " 负责公司会计核算，报表编制及月度报税工作；",
+            "end_time_year": "2011",
+            "still_active": 0,
+            "skills": [
+                "会计"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2010",
+            "company_name": "宗恩设计科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "实习",
+            "start_time_month": "08"
+        }
+    ],
+    "others": {
+        "language": [
+            "tem-4",
+            "英语"
+        ],
+        "certificate": [
+            "tem-4",
+            "会计上岗证",
+            "会计电算化",
+            "计算机二级",
+            "证券从业资格证"
+        ],
+        "skills": [
+            "PPT",
+            "Word",
+            "Excel",
+            "会计",
+            "财务",
+            "审计",
+            "财务管理",
+            "管理工作",
+            "财务会计",
+            "财务分析",
+            "社会活动",
+            "常用办公软件"
+        ],
+        "self_evaluation": "     个人介绍: 本人有 12 年会计从业经验，有丰富的专业知识体",
+        "awards": [
+            "年度校级优秀团员",
+            "三等奖学金",
+            "年度三等奖学金"
+        ],
+        "it_skills": [
+            "PPT",
+            "Excel",
+            "常用办公软件"
+        ],
+        "business_skills": [
+            "Word",
+            "Excel",
+            "会计",
+            "财务会计",
+            "常用办公软件"
+        ]
+    },
+    "resume_rawtext": ""
+}

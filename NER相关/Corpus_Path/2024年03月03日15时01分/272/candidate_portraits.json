@@ -1,0 +1,299 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "证券投资",
+                "type": "professional_skill",
+                "subclass": "理财相关"
+            },
+            {
+                "tag": "微积分",
+                "type": "professional_skill",
+                "subclass": "数理基础"
+            },
+            {
+                "tag": "策划组织",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "行销",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "采购",
+                "type": "professional_skill",
+                "subclass": "采购业务"
+            },
+            {
+                "tag": "销售技巧",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "宣传",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "软件WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "EXCEL",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "社团组织",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "活动策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "PPT",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "运维",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "抗压能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "金融",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告促销",
+                "type": "standard_title"
+            },
+            {
+                "tag": "服务业-服务业-餐饮经理",
+                "type": "standard_title"
+            },
+            {
+                "tag": "促销员",
+                "type": "job_title"
+            },
+            {
+                "tag": "服务员",
+                "type": "job_title"
+            },
+            {
+                "tag": "世界500强企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "c1驾驶证",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "世界500强企业从业经历",
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "名企经历",
+            "稳定性高",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 9,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 8.5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "市场",
+                "l3": "广告促销",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "服务业",
+                "l3": "餐饮经理",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.5334572740870804,
+            "title": {
+                "l2": "服务业",
+                "l3": "娱乐服务",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.33604939249478594,
+            "title": {
+                "l2": "服务业",
+                "l3": "餐饮工作人员",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.13049333341813357,
+            "title": {
+                "l2": "服务业",
+                "l3": "酒店服务",
+                "l1": "服务业"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 24.333333333333332,
+        "average_industry_time": 36.5,
+        "average_work_time": 24.333333333333332,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 8.5,
+        "leadership": 7,
+        "workexp": 6.8,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "证券投资",
+            "score": 1
+        },
+        {
+            "skill": "微积分",
+            "score": 1
+        },
+        {
+            "skill": "策划组织",
+            "score": 0.9
+        },
+        {
+            "skill": "计量",
+            "score": 0.9
+        },
+        {
+            "skill": "行销",
+            "score": 0.9
+        },
+        {
+            "skill": "采购",
+            "score": 0.9
+        },
+        {
+            "skill": "销售技巧",
+            "score": 0.8
+        },
+        {
+            "skill": "宣传",
+            "score": 0.8
+        },
+        {
+            "skill": "软件word",
+            "score": 0.7
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "excel",
+            "score": 0.7
+        },
+        {
+            "skill": "社团组织",
+            "score": 0.7
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "活动策划",
+            "score": 0.7
+        },
+        {
+            "skill": "ppt",
+            "score": 0.7
+        },
+        {
+            "skill": "运维",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "under_4000",
+    "predicted_turnover": 0.275530606508255,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

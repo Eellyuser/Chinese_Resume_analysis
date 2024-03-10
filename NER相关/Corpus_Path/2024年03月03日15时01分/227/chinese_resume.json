@@ -1,0 +1,137 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "138-1122-3344",
+        "QQ": "123454321",
+        "wechat": "",
+        "email": "123454321@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "干事\n●   积极参与学生会的各项活动，与其他干事一起参与各类学生活动的策划；\n●   负责学院活动的赞助拉取 ， 制作活动赞助方案 ， 并上门拜访企业拉取赞助；\n●   完成其他学生会的工作任务，成功举办多次大型活动，如“迎新晚会”、“送毕业生晚会”等",
+            "end_time_year": "2022",
+            "still_active": 0,
+            "end_time_month": "07",
+            "organization_name": "江南大学院学生会",
+            "start_time_year": "2019",
+            "location": "",
+            "department": "",
+            "job_title": "干事",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "本科",
+            "end_time_year": "2022",
+            "still_active": 0,
+            "school_rank": "59",
+            "school_level": "211",
+            "end_time_month": "07",
+            "school_name": "江南大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "市场调查与预测，国际市场营销，货币银行学，公共关系学，经济数学，大学英语，基本会计，市场营销，国际贸易，心理学，统计学，广告学，经济法",
+            "start_time_year": "2018",
+            "location": "无锡",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "2000",
+        "birthplace_norm": "",
+        "num_work_experience": 2,
+        "current_position": "运营实习生",
+        "work_start_year": "2022",
+        "political_status": "",
+        "current_company": "北京乔布有限公司",
+        "school_name": "江南大学",
+        "ethnic": "",
+        "recent_graduate_year": "2022",
+        "name": "李肇芬",
+        "lastupdate_time": "2024-03-08-08-23-38",
+        "gender": "",
+        "age": 24,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "●   要负责撰写软文，协助运营执行推广活动 ；\n●   负责公司自媒体（如微博、微信公众）的信息发布及维护；\n●   业绩: 所负责的微博热点活动参与数量单条超过 1,000 人，获得 1,000 次转发，回复 500 条",
+            "end_time_year": "2022",
+            "still_active": 0,
+            "skills": [
+                "运营"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "互联网产品/运营管理",
+            "start_time_year": "2021",
+            "company_name": "北京乔布有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "运营实习生",
+            "start_time_month": "09"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [],
+        "skills": [
+            "H5",
+            "会计",
+            "Resume",
+            "策划",
+            "运营",
+            "文案",
+            "Personal",
+            "心理学",
+            "国际贸易",
+            "活动策划",
+            "沟通能力",
+            "市场营销",
+            "计算机应用"
+        ],
+        "self_evaluation": "●     有运营实习及活动策划经历，熟悉新媒体渠道和用户；\n●     熟悉常用微信编辑器的使用方法，能使用 Maka 等工具制作简单的 H5 页面，也能根据公司要求制定新媒体\n活动方案，并确保活动的良好执行；\n●     具备良好的沟通能力和团队协作能力，有团队精神，能快速融入团队。",
+        "awards": [],
+        "it_skills": [
+            "计算机应用"
+        ],
+        "business_skills": [
+            "会计"
+        ]
+    },
+    "resume_rawtext": ""
+}

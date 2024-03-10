@@ -1,0 +1,160 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "18010001000",
+        "QQ": "",
+        "wechat": "09---2021",
+        "email": "officeplus@microsoft.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "北京联合大学 学生会/ 副主席 2010.09---2014.3\n新媒体运营 1• 三年先后担任外联部干事/部长，担任副主席期间主要负责外联部/文艺部/传媒部。\n• 在学生会推行标准作业程序（SOP）\n，牵头《学生会 SOP 手册》制定工作。\n基本信息 Personal Information • 牵头学生会微信公众号创建、运营工作。",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "end_time_month": "03",
+            "organization_name": "石春紫",
+            "start_time_year": "2010",
+            "location": "",
+            "department": "",
+            "job_title": "学生会/",
+            "start_time_month": "09"
+        },
+        {
+            "description": "专业/ 运营 • 若要修改内容，直接删除原内容修改即可。\n• 若要增加内容，复制相应内容在新行粘贴即可。",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "end_time_month": "03",
+            "organization_name": "院校/",
+            "start_time_year": "2015",
+            "location": "",
+            "department": "",
+            "job_title": "院校/",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "",
+            "degree": "硕士",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "school_rank": "380",
+            "school_level": "",
+            "end_time_month": "07",
+            "school_name": "北京联合大学",
+            "abroad_country": "",
+            "GPA": "3.89",
+            "courses": "",
+            "start_time_year": "2014",
+            "location": "北京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        },
+        {
+            "ranking": "",
+            "major": "",
+            "degree": "本科",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "school_rank": "380",
+            "school_level": "",
+            "end_time_month": "07",
+            "school_name": "北京联合大学",
+            "abroad_country": "",
+            "GPA": "90.02",
+            "courses": "",
+            "start_time_year": "2010",
+            "location": "北京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "北京",
+        "degree": "硕士",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1992",
+        "birthplace_norm": "中国-北京-北京",
+        "num_work_experience": 7,
+        "current_position": "",
+        "work_start_year": "2014",
+        "political_status": "",
+        "current_company": "",
+        "school_name": "北京联合大学",
+        "ethnic": "",
+        "recent_graduate_year": "2017",
+        "name": "石春紫",
+        "lastupdate_time": "2024-03-08-07-47-58",
+        "gender": "",
+        "age": 32,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [
+            "雅思",
+            "英语"
+        ],
+        "certificate": [
+            "cet6",
+            "雅思"
+        ],
+        "skills": [
+            "App",
+            "Word",
+            "SPSS",
+            "Excel",
+            "运营",
+            "Studio",
+            "Personal",
+            "Photoshop",
+            "Education",
+            "Microsoft",
+            "PowerPoint",
+            "Illustrator",
+            "Final Cut Pro"
+        ],
+        "self_evaluation": "个人评价 Self-evaluation\n2015 北京市三好学生\n相比“聪明”\n，更爱“靠谱”                           2014 北京市优秀毕业生\n公私分明，理性先行，感性辅之                         2014 研究生一等学业奖学金\n对自己的要求高于对他人                            2014 国家励志奖学金\n保持好奇 ， 保持学                               2013 OfficePLUS 大学“优秀歌手”",
+        "awards": [
+            "国家奖学金",
+            "国家励志奖学金",
+            "北京市三好学生",
+            "研究生一等学业奖学金"
+        ],
+        "it_skills": [
+            "SPSS",
+            "Excel",
+            "Photoshop",
+            "PowerPoint"
+        ],
+        "business_skills": [
+            "Word",
+            "Excel",
+            "PowerPoint"
+        ]
+    },
+    "resume_rawtext": ""
+}

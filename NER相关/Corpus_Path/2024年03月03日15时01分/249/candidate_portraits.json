@@ -1,0 +1,418 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "模拟退火算法",
+                "type": "professional_skill",
+                "subclass": "算法"
+            },
+            {
+                "tag": "JQUERY",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "JSP",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "XML",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "DREAMWEAVER",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "SQL SERVER",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "JAVASCRIPT",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "SPRINGMVC",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "HIBERNATE",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "MYECLIPSE",
+                "type": "professional_skill",
+                "subclass": "开发工具"
+            },
+            {
+                "tag": "MYBATIS",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "WINDOWS",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "STRUTS2",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "SERVLET",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "MATLAB",
+                "type": "professional_skill",
+                "subclass": "开发工具"
+            },
+            {
+                "tag": "ORACLE",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "EASYUI",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PLSQL",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "MYSQL",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "团队管理",
+                "type": "professional_skill",
+                "subclass": "管理"
+            },
+            {
+                "tag": "JSON",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "HTML",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "AJAX",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "SEO",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "JDK",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "数据库",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "SSM",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "SVN",
+                "type": "professional_skill",
+                "subclass": "开发工具"
+            },
+            {
+                "tag": "LUCENCE",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "项目开发",
+                "type": "professional_skill",
+                "subclass": "项目管理"
+            },
+            {
+                "tag": "任务分配",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "系统开发",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "理解能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "管理能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "软件外包",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "IT/互联网-后端开发-JAVA",
+                "type": "standard_title"
+            },
+            {
+                "tag": "JAVA 开发工程师",
+                "type": "job_title"
+            },
+            {
+                "tag": "龙头互联网企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "中级",
+                "type": "level"
+            },
+            {
+                "tag": "3-5年经验",
+                "type": "experience"
+            }
+        ],
+        "others": []
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "龙头互联网企业从业经历",
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "拥有硕士学位"
+        ],
+        "others": [
+            "有丰富的数据库经验，对mysql、plsql、sql、数据库、oracle、sql server等技能或工具有深入的理解",
+            "有丰富的后端开发经验，对mysql、java、spring、sql、系统、struts、javascript、jquery、servlet、struts2、mybatis、数据库、oracle、eclipse、tomcat、hibernate等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "名企经历",
+            "稳定性高",
+            "技术达标"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 10,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "后端开发",
+                "l3": "JAVA",
+                "l1": "IT/互联网"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": 22,
+        "average_work_time": 22,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 6.6000000000000005,
+        "education": 6.5,
+        "honor": 5
+    },
+    "predicted_skills": [
+        {
+            "skill": "模拟退火算法",
+            "score": 0.8
+        },
+        {
+            "skill": "jquery",
+            "score": 0.8
+        },
+        {
+            "skill": "jsp",
+            "score": 0.8
+        },
+        {
+            "skill": "xml",
+            "score": 0.8
+        },
+        {
+            "skill": "dreamweaver",
+            "score": 0.7
+        },
+        {
+            "skill": "sql server",
+            "score": 0.7
+        },
+        {
+            "skill": "javascript",
+            "score": 0.7
+        },
+        {
+            "skill": "springmvc",
+            "score": 0.7
+        },
+        {
+            "skill": "hibernate",
+            "score": 0.7
+        },
+        {
+            "skill": "myeclipse",
+            "score": 0.7
+        },
+        {
+            "skill": "mybatis",
+            "score": 0.7
+        },
+        {
+            "skill": "windows",
+            "score": 0.7
+        },
+        {
+            "skill": "struts2",
+            "score": 0.7
+        },
+        {
+            "skill": "servlet",
+            "score": 0.7
+        },
+        {
+            "skill": "matlab",
+            "score": 0.7
+        },
+        {
+            "skill": "oracle",
+            "score": 0.7
+        },
+        {
+            "skill": "easyui",
+            "score": 0.7
+        },
+        {
+            "skill": "plsql",
+            "score": 0.7
+        },
+        {
+            "skill": "mysql",
+            "score": 0.7
+        },
+        {
+            "skill": "团队管理",
+            "score": 0.7
+        },
+        {
+            "skill": "json",
+            "score": 0.7
+        },
+        {
+            "skill": "html",
+            "score": 0.7
+        },
+        {
+            "skill": "ajax",
+            "score": 0.7
+        },
+        {
+            "skill": "seo",
+            "score": 0.7
+        },
+        {
+            "skill": "jdk",
+            "score": 0.7
+        },
+        {
+            "skill": "数据库",
+            "score": 0.7
+        },
+        {
+            "skill": "ssm",
+            "score": 0.7
+        },
+        {
+            "skill": "svn",
+            "score": 0.7
+        },
+        {
+            "skill": "lucence",
+            "score": 0.5
+        },
+        {
+            "skill": "项目开发",
+            "score": 0.5
+        },
+        {
+            "skill": "任务分配",
+            "score": 0.5
+        },
+        {
+            "skill": "系统开发",
+            "score": 0.5
+        },
+        {
+            "skill": "前台",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.23350904881954193,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

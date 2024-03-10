@@ -1,0 +1,63 @@
+{
+  "name": "吴嘉茹",
+  "bir": "",
+  "gend": "女",
+  "tel": "13912345678",
+  "acad": "高中",
+  "nati": "汉族",
+  "live": "四川",
+  "poli": "",
+  "unv": "",
+  "work_experience": [
+    {
+      "time": "2020.8至今",
+      "org": "美铭智扬顾问有限公司",
+      "work_desc": "平面设计师，负责企业画册设计、标志设计、产品包装设计、杂志广告跨页设计、户外广告。"
+    },
+    {
+      "time": "2018.8–2020.8",
+      "org": "美铭智扬顾问有限公司",
+      "work_desc": "平面设计师，负责企业画册设计、标志设计、产品包装设计、杂志广告跨页设计、户外广告。"
+    }
+  ],
+  "education": [
+    {
+      "time": "2015-2018",
+      "school": "四川第三中学",
+      "degree": "理科",
+      "edu_desc": ""
+    }
+  ],
+  "project_experience": [],
+  "training_experience": [],
+  "awards": [
+    {
+      "time": "2017",
+      "award": "国家励志一等奖学金，四川省挑战主持人大赛第一名"
+    },
+    {
+      "time": "2016",
+      "award": "四川省演讲比赛三等奖，全国中学生数学建模大赛国家二等奖，英语俱乐部“十佳社团”荣誉称号"
+    },
+    {
+      "time": "2015",
+      "award": "中学第九届数学建模大赛一等奖"
+    }
+  ],
+  "self_assessment": "思维灵活，大方稳重，责任心强，具有较强的团队精神。",
+  "career_objective": "简历设计师",
+  "skills": "Adobe中国认证设计师，Adobe认证产品专家，平面设计师资格证书，英语四六级证书",
+  "interests": "",
+  "certifications": [
+    "Adobe中国认证设计师",
+    "Adobe认证产品专家",
+    "平面设计师资格证书",
+    "英语四六级证书"
+  ],
+  "language_skills": "",
+  "publications": "",
+  "philosophy": "",
+  "major_courses": "",
+  "self_introduction": "",
+  "other": ""
+}

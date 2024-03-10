@@ -1,0 +1,475 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "数据分析",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "市场调查",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "公关",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "宣传",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "品牌策略",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "营销策略",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "推广策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "销售渠道",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "品牌策划",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "前端销售",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "前端销售",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "营销支持",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "商业模式",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "媒体报道",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "品牌营销",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "资源整合",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "商务谈判",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "宏观经济",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "市场管理",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "团队建设",
+                "type": "professional_skill",
+                "subclass": "管理"
+            },
+            {
+                "tag": "公众号",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "营运",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "VI",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "重构",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "烹饪",
+                "type": "professional_skill",
+                "subclass": "餐饮"
+            },
+            {
+                "tag": "领导能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "思维敏捷",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "消费/零售",
+                "type": "industry"
+            },
+            {
+                "tag": "其他",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "市场副总监",
+                "type": "job_title"
+            },
+            {
+                "tag": "市场及运营总监",
+                "type": "job_title"
+            },
+            {
+                "tag": "管理经验",
+                "type": "management"
+            }
+        ],
+        "education": [
+            {
+                "tag": "市场营销",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "22到26岁",
+                "type": "age"
+            },
+            {
+                "tag": "中共党员",
+                "type": "political_status"
+            },
+            {
+                "tag": "广东广州海珠区",
+                "type": "current_location"
+            },
+            {
+                "tag": "中级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "全国计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-4",
+                "type": "certificate"
+            },
+            {
+                "tag": "沧州工贸学校盼盼杯烘焙食品创意大赛优秀奖",
+                "type": "award"
+            },
+            {
+                "tag": "沧州工贸学校微博文征集大赛二等奖",
+                "type": "award"
+            },
+            {
+                "tag": "沧州工贸学校学生主题征文一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "人立定跳远团体赛第三名",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "拥有良好的团队建设能力与协调能力,具有优秀的团队管理能力,积累了一定团队管理经验与能力",
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通",
+            "有丰富的运营经验，对品牌策略、策划、运营、公众号、宣传等技能或工具有深入的理解",
+            "有丰富的销售经验，对销售渠道、营销策略、市场营销、品牌营销、商务谈判等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "管理经验",
+            "稳定性高",
+            "英语能力良好",
+            "技术达标",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 8.5,
+        "人事/行政/高级管理": 7.5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5.5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.35359496912855504,
+            "title": {
+                "l2": "市场",
+                "l3": "广告客户",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.3165714484809794,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "银行行长",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.2965081233836801,
+            "title": {
+                "l2": "教育",
+                "l3": "学校行政/咨询/法律/教育/科研/教师/校长",
+                "l1": "咨询/法律/教育/翻译"
+            }
+        },
+        {
+            "score": 0.22174809888238847,
+            "title": {
+                "l2": "市场",
+                "l3": "市场营销",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.21706202157427237,
+            "title": {
+                "l2": "市场",
+                "l3": "电子商务",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.21584392346665546,
+            "title": {
+                "l2": "行政/高级管理",
+                "l3": "高级管理人员",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.20240797765095617,
+            "title": {
+                "l2": "市场",
+                "l3": "网络推广",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 18,
+        "average_industry_time": 18,
+        "average_work_time": 18,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 8,
+        "leadership": 10,
+        "workexp": 7.2,
+        "education": 5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "数据分析",
+            "score": 1
+        },
+        {
+            "skill": "市场调查",
+            "score": 0.9
+        },
+        {
+            "skill": "公关",
+            "score": 0.9
+        },
+        {
+            "skill": "投放",
+            "score": 0.9
+        },
+        {
+            "skill": "监督",
+            "score": 0.9
+        },
+        {
+            "skill": "宣传",
+            "score": 0.9
+        },
+        {
+            "skill": "品牌策略",
+            "score": 0.8
+        },
+        {
+            "skill": "营销策略",
+            "score": 0.8
+        },
+        {
+            "skill": "运营",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "推广策划",
+            "score": 0.7
+        },
+        {
+            "skill": "销售渠道",
+            "score": 0.7
+        },
+        {
+            "skill": "品牌策划",
+            "score": 0.7
+        },
+        {
+            "skill": "前端销售",
+            "score": 0.7
+        },
+        {
+            "skill": "营销支持",
+            "score": 0.7
+        },
+        {
+            "skill": "商业模式",
+            "score": 0.7
+        },
+        {
+            "skill": "媒体报道",
+            "score": 0.7
+        },
+        {
+            "skill": "品牌营销",
+            "score": 0.7
+        },
+        {
+            "skill": "资源整合",
+            "score": 0.7
+        },
+        {
+            "skill": "商务谈判",
+            "score": 0.7
+        },
+        {
+            "skill": "宏观经济",
+            "score": 0.7
+        },
+        {
+            "skill": "市场管理",
+            "score": 0.7
+        },
+        {
+            "skill": "团队建设",
+            "score": 0.7
+        },
+        {
+            "skill": "公众号",
+            "score": 0.7
+        },
+        {
+            "skill": "营运",
+            "score": 0.7
+        },
+        {
+            "skill": "vi",
+            "score": 0.7
+        },
+        {
+            "skill": "重构",
+            "score": 0.7
+        },
+        {
+            "skill": "烹饪",
+            "score": 0.7
+        },
+        {
+            "skill": "演讲",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 1,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间0年6个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "运维",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "社团组织",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "市场推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "媒体推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "媒体推广",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "网络推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "金融",
+                "type": "industry"
+            },
+            {
+                "tag": "实习生",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "会计",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "22到26岁",
+                "type": "age"
+            },
+            {
+                "tag": "中级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            },
+            {
+                "tag": "高级营销员",
+                "type": "certificate"
+            },
+            {
+                "tag": "挑战杯创业计划大赛省级铜奖",
+                "type": "award"
+            },
+            {
+                "tag": "企业创意营销大赛一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "获国家奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5.5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.3549874999546569,
+            "title": {
+                "l2": "市场",
+                "l3": "广告编辑",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.28121932755413115,
+            "title": {
+                "l2": "市场",
+                "l3": "广告会展",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2799039149467959,
+            "title": {
+                "l2": "市场",
+                "l3": "广告媒介",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.23887675749907303,
+            "title": {
+                "l2": "市场",
+                "l3": "广告品牌管理",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 29,
+        "average_industry_time": 29,
+        "average_work_time": 29,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 6.8,
+        "education": 5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "策划",
+            "score": 1
+        },
+        {
+            "skill": "运维",
+            "score": 1
+        },
+        {
+            "skill": "社团组织",
+            "score": 0.9
+        },
+        {
+            "skill": "市场推广",
+            "score": 0.7
+        },
+        {
+            "skill": "媒体推广",
+            "score": 0.7
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "网络推广",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": 0.18343807756900787,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "18888888808",
+        "QQ": "868898999",
+        "wechat": "",
+        "email": "868898999@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "比赛中荣获三等奖",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "end_time_month": "10",
+            "organization_name": "在教育局组织第十二届全国推普周“中华诵﹒2014",
+            "start_time_year": "2014",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "09"
+        },
+        {
+            "description": "",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "end_time_month": "09",
+            "organization_name": "经选举成为云南省经济管理学院航空服务班副班长",
+            "start_time_year": "2014",
+            "location": "云南",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "08"
+        },
+        {
+            "description": "⚫ 在学校担任班干部 ， 是各类活动的策划和负责人 ， 团结精神和协调能力；",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "主持中国民航大学文化艺术节",
+            "start_time_year": "2013",
+            "location": "",
+            "department": "",
+            "job_title": "是各类活动的策划和负责人",
+            "start_time_month": "12"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "航空服务",
+            "degree": "本科",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "school_rank": "191",
+            "school_level": "",
+            "end_time_month": "06",
+            "school_name": "中国民航大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "专业英语",
+            "start_time_year": "2014",
+            "location": "天津",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        },
+        {
+            "ranking": "",
+            "major": "接待",
+            "degree": "",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "09",
+            "school_name": "浙江省绍兴市大禹开元度假酒店",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2018",
+            "location": "绍兴",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "10"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "接待",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "2014.9~2018.6",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1996",
+        "birthplace_norm": "",
+        "num_work_experience": 3,
+        "current_position": "",
+        "work_start_year": "2021",
+        "political_status": "",
+        "current_company": "",
+        "school_name": "浙江省绍兴市大禹开元度假酒店",
+        "ethnic": "",
+        "recent_graduate_year": "2021",
+        "name": "刘美",
+        "lastupdate_time": "2024-03-08-08-02-18",
+        "gender": "",
+        "age": 28,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [
+            "英语",
+            "普通话"
+        ],
+        "certificate": [
+            "普通话二级乙等",
+            "计算机一级"
+        ],
+        "skills": [
+            "Office",
+            "主持",
+            "策划",
+            "演讲",
+            "管理学",
+            "普通话"
+        ],
+        "self_evaluation": "⚫   实习工作中培养出了优秀的组织协调、沟通外联以及公关等能力强。专业\n理论知识扎实，善于融入团体工作，能与客人进行有效的沟通；\n⚫   责任心强，有独立工作能力强，吃苦耐劳。做事细心和有条理。思考、\n逻辑能力较强，有良好的大局观，善于完成任务。",
+        "awards": [
+            "教育演讲比赛中获得一等奖",
+            "比赛中荣获三等奖",
+            "四营小学首届计算机操作技能比赛中获得三等奖",
+            "在学校担任班干部"
+        ],
+        "it_skills": [
+            "Office"
+        ],
+        "business_skills": [
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

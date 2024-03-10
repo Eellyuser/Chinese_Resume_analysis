@@ -1,0 +1,159 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13324567890",
+        "QQ": "1234567",
+        "wechat": "",
+        "email": "1234567@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "现居: 湖北武汉\n负责组织和安排各项活动，做好活动策划，现场执行等各项工作；\n负责办公用品管理、团内事物规划、工作表格制定、稿件数量统计等",
+            "end_time_year": "2022",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "大学生记者团",
+            "start_time_year": "2021",
+            "location": "",
+            "department": "",
+            "job_title": "办公策划部干事",
+            "start_time_month": "09"
+        },
+        {
+            "description": "个人技能 负责组织和安排各项活动，做好活动策划，现场执行等各项工作；\n负责办公用品管理、团内事物规划、工作表格制定、稿件数量统计等\n熟练使用 PS；",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "end_time_month": "09",
+            "organization_name": "大学生记者团",
+            "start_time_year": "2001",
+            "location": "",
+            "department": "",
+            "job_title": "办公策划部干事",
+            "start_time_month": "08"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "财务",
+            "degree": "本科",
+            "end_time_year": "2023",
+            "still_active": 0,
+            "school_rank": "125",
+            "school_level": "",
+            "end_time_month": "06",
+            "school_name": "湖北大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "高级财务管理，基础会计学，财务管理学，财务会计，项目评估，纳税筹划，资产评估，审计学，税法，会计",
+            "start_time_year": "2019",
+            "location": "武汉",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "财务",
+        "expect_location": "湖北武汉",
+        "current_salary": "",
+        "current_location_norm": "中国-湖北-武汉",
+        "current_location": "湖北武汉",
+        "expect_location_norm": "中国-湖北-武汉",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "2001-08-03",
+        "birthplace_norm": "",
+        "num_work_experience": 1,
+        "current_position": "实习审计助理",
+        "work_start_year": "2023",
+        "political_status": "",
+        "current_company": "贵阳黔元会计师事务所",
+        "school_name": "湖北大学",
+        "ethnic": "",
+        "recent_graduate_year": "2023",
+        "name": "林绍泰",
+        "lastupdate_time": "2024-03-08-08-21-27",
+        "gender": "",
+        "age": 23,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "工作描述:\n发票的开具，保管和核销。应收应付款的汇总。财会资料的收集、汇编和归档，协助编\n求职意向: 审计 制财务报表；\n协助审计组长开展现场审计工作，按审计准则实施审计程序，编制审计底稿，编写审计\n报告初稿以及资料底稿的整理归档；\n个人介绍 负责开具凭证抽查，向银行发函询证账面金额的正确性，验证会计记录和披露的正确性\n13324567890\n协助注册会计完成开票、抄税、报税等其它会计事项。",
+            "end_time_year": "2023",
+            "still_active": 0,
+            "skills": [
+                "汇编",
+                "财务",
+                "审计",
+                "财会",
+                "会计"
+            ],
+            "company_type": "",
+            "industry": "金融",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "证券/期货/投资管理/服务",
+            "start_time_year": "2022",
+            "company_name": "贵阳黔元会计师事务所",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "实习审计助理",
+            "start_time_month": "09"
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [
+            "ceac"
+        ],
+        "skills": [
+            "Ae",
+            "Ps",
+            "汇编",
+            "会计",
+            "Office",
+            "财会",
+            "财务",
+            "审计",
+            "策划",
+            "Education",
+            "活动策划",
+            "应用软件",
+            "财务会计",
+            "财务管理",
+            "办公软件"
+        ],
+        "self_evaluation": "自我评价  Self-assessment \n性格方面: 乐观开朗，积极向上，诚实守信，乐于助人；\n学习方面: 学习认真，在涉猎自身知识的同时也涉猎可知识；\n工作方面: 负责踏实，具有强烈的团队合作精神和较强工作能力。",
+        "awards": [],
+        "it_skills": [
+            "Office",
+            "办公软件"
+        ],
+        "business_skills": [
+            "会计",
+            "Office",
+            "财务会计",
+            "办公软件"
+        ]
+    },
+    "resume_rawtext": ""
+}

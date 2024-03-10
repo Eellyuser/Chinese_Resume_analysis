@@ -1,0 +1,132 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13522334567",
+        "QQ": "",
+        "wechat": "",
+        "email": "chenchunbao@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "软件工程",
+            "degree": "本科",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "school_rank": "311",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "上海工程技术大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "计算机组成原理，数据库系统原理，语言程序设计，计算机网络，数据结构，程序设计，操作系统，软件工程",
+            "start_time_year": "2011",
+            "location": "上海",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "软件工程",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-上海-上海",
+        "current_location": "上海",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1995",
+        "birthplace_norm": "",
+        "num_work_experience": 9,
+        "current_position": "IOS开发工程师",
+        "work_start_year": "2015",
+        "political_status": "",
+        "current_company": "上海软通科技有限公司",
+        "school_name": "上海工程技术大学",
+        "ethnic": "",
+        "recent_graduate_year": "2015",
+        "name": "陈淳宝",
+        "lastupdate_time": "2024-03-08-08-07-26",
+        "gender": "",
+        "age": 29,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "负责ios应用程序设计和开发工作，并编写相应的开发文档。\n负责对iOS产品进行性能优化，及后续的持续升级维护工作。\n不断学习ios开发技术，跟踪技术发展方向，以满足产品的开发需求。\n参与产品需求分析评审及技术实施方案设计，编写设计开发及实现文档。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "优化",
+                "需求分析",
+                "ios",
+                "性能",
+                "程序设计"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "软件/互联网开发/系统集成",
+            "start_time_year": "2015",
+            "company_name": "上海软通科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "IOS开发工程师",
+            "start_time_month": "11"
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [
+            "cet-4"
+        ],
+        "skills": [
+            "Ios",
+            "C++",
+            "优化",
+            "性能",
+            "数据库",
+            "汇编语言",
+            "软件工程",
+            "数据结构",
+            "需求分析",
+            "体系结构",
+            "操作系统",
+            "程序设计",
+            "算法设计",
+            "计算机网络"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "获得大学一等奖学金"
+        ],
+        "it_skills": [
+            "C++",
+            "汇编语言",
+            "软件工程",
+            "计算机网络"
+        ],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

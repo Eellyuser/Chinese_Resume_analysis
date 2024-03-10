@@ -1,0 +1,301 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "电气工程",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "管理工作",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "AUTOCAD",
+                "type": "professional_skill",
+                "subclass": "工业设计"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "MATLAB",
+                "type": "professional_skill",
+                "subclass": "开发工具"
+            },
+            {
+                "tag": "计算机技术",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "图书管理",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "信息处理",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "自动控制",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "电子技术",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "C语言",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "宣传",
+                "type": "professional_skill",
+                "subclass": "运营"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "文化/体育/娱乐/社交",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "传统工业/工程-工程师-电气工程师",
+                "type": "standard_title"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告编辑",
+                "type": "standard_title"
+            },
+            {
+                "tag": "电气工程师助理",
+                "type": "job_title"
+            },
+            {
+                "tag": "江苏省图书馆",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "电气工程及其自动化",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "22到26岁",
+                "type": "age"
+            },
+            {
+                "tag": "上海",
+                "type": "current_location"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-4",
+                "type": "certificate"
+            },
+            {
+                "tag": "获得优秀学Th干部",
+                "type": "award"
+            },
+            {
+                "tag": "艺术活动优秀奖",
+                "type": "award"
+            },
+            {
+                "tag": "荣获优秀团员",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 7,
+        "工程师": 9,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "工程师",
+                "l3": "电气工程师",
+                "l1": "传统工业/工程"
+            }
+        },
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "市场",
+                "l3": "广告编辑",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2907658825844474,
+            "title": {
+                "l2": "工程师",
+                "l3": "地质勘测",
+                "l1": "传统工业/工程"
+            }
+        },
+        {
+            "score": 0.2897304916922795,
+            "title": {
+                "l2": "工程师",
+                "l3": "光源与照明工程",
+                "l1": "传统工业/工程"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 38.666666666666664,
+        "average_industry_time": 58,
+        "average_work_time": 38.666666666666664,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 5,
+        "honor": 9
+    },
+    "predicted_skills": [
+        {
+            "skill": "材料",
+            "score": 1
+        },
+        {
+            "skill": "调查",
+            "score": 1
+        },
+        {
+            "skill": "电气工程",
+            "score": 0.9
+        },
+        {
+            "skill": "管理工作",
+            "score": 0.8
+        },
+        {
+            "skill": "autocad",
+            "score": 0.7
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "matlab",
+            "score": 0.7
+        },
+        {
+            "skill": "计算机技术",
+            "score": 0.7
+        },
+        {
+            "skill": "图书管理",
+            "score": 0.7
+        },
+        {
+            "skill": "信息处理",
+            "score": 0.7
+        },
+        {
+            "skill": "自动控制",
+            "score": 0.7
+        },
+        {
+            "skill": "电子技术",
+            "score": 0.7
+        },
+        {
+            "skill": "c语言",
+            "score": 0.7
+        },
+        {
+            "skill": "宣传",
+            "score": 0.7
+        },
+        {
+            "skill": "制图",
+            "score": 0.7
+        },
+        {
+            "skill": "电磁",
+            "score": 0.7
+        },
+        {
+            "skill": "电机",
+            "score": 0.7
+        },
+        {
+            "skill": "维修",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.2288026064634323,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

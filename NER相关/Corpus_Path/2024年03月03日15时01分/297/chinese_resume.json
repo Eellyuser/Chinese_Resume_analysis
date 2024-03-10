@@ -1,0 +1,137 @@
+{
+    "project_experience": [
+        {
+            "project_name": "淘宝来测吧",
+            "description": "Java 系统介绍: 魔戒是一个处罚卖家作弊的平台，举报供运营同\n学处理举报的工具，白名单提供存储和查询商品、卖家、类\nC++ 目白名单的服务。\n主要工作: 负责魔戒、举报和白名单的日常维护和开发。\nmysql\n淘宝来测吧\njsp 2015.10-后端开发--2016.03 系统介绍: 淘宝来测吧是一个众测系统，面向云客服的一个\n付费系统，对用户权限校验，题目的数量控制的准确性都要\n爱好 求比较高。\n主要工作: 负责后端开发，包括发题、答题、回收题目和权\n骑车 吉他 限校验等。\n网球 阅读",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [
+                "java",
+                "吉他",
+                "运营",
+                "c++",
+                "客服",
+                "jsp",
+                "mysql"
+            ],
+            "end_time_month": "",
+            "location": "",
+            "start_time_year": "",
+            "company_name": "",
+            "job_function": "JAVA",
+            "job_title": "",
+            "start_time_month": ""
+        }
+    ],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "4324654",
+        "wechat": "",
+        "email": "4324654@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "计算机科学与技术",
+            "degree": "本科",
+            "end_time_year": "",
+            "still_active": 0,
+            "school_rank": "36",
+            "school_level": "211",
+            "end_time_month": "",
+            "school_name": "南京航空航天大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "计算机图形学，计算机网络，数据结构，操作系统，编译原理，汇编语言",
+            "start_time_year": "",
+            "location": "南京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": ""
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "计算机科学与技术",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-上海-上海-浦东新区",
+        "current_location": "上海浦东新区",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1990",
+        "birthplace_norm": "",
+        "num_work_experience": 1,
+        "current_position": "研发工程师",
+        "work_start_year": "2019",
+        "political_status": "",
+        "current_company": "阿里巴巴",
+        "school_name": "南京航空航天大学",
+        "ethnic": "",
+        "recent_graduate_year": "",
+        "name": "张政霖",
+        "lastupdate_time": "2024-03-09-05-24-33",
+        "gender": "",
+        "age": 34,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "软件/互联网开发/系统集成",
+            "start_time_year": "2019",
+            "company_name": "阿里巴巴",
+            "report_to": "",
+            "department": "搜索事业部",
+            "underling_num": "",
+            "job_title": "研发工程师",
+            "start_time_month": "09"
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [],
+        "skills": [
+            "C++",
+            "Jsp",
+            "Java",
+            "MySQL",
+            "吉他",
+            "运营",
+            "客服"
+        ],
+        "self_evaluation": "个人评价                  主搜日常需求的开发和维护。\n本人做事稳重，对待工作认真，责任心                         南京航空公司\n2013.09\n较强，待人真诚，善于沟通，时刻保持学                          wrapper开发\n-2015.09   负责机票事业部航班信息的抓取工作；\n习，积极拥抱变化。喜欢java 开发，具备一\n主要参与开发抓取不同航空公司航班信息的wrapper，将抓\n定的软件分析、设计、开发和应用能力，拥\n回的数据解析成约定的格式，供机票查询结果使用。\n有较强的学习能力与团队精神，能够很快的\n适应工作环境。                                     项目信息",
+        "awards": [],
+        "it_skills": [
+            "C++",
+            "Java",
+            "MySQL"
+        ],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

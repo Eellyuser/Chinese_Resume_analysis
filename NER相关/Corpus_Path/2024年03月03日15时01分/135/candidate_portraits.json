@@ -1,0 +1,293 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "媒体营销",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "媒体营销",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "运营策略",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "数据报告",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "运营推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "标书制作",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "营销策划",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "网络推广渠道",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "网络舆情监控",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "市场推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "公关",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "运维",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "文化/体育/娱乐/社交",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "市场推广专员",
+                "type": "job_title"
+            },
+            {
+                "tag": "运营推广主管",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "市场营销",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            },
+            {
+                "tag": "高级营销员",
+                "type": "certificate"
+            },
+            {
+                "tag": "华南大学生创意营销大赛一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "挑战杯创业计划大赛省级铜奖",
+                "type": "award"
+            },
+            {
+                "tag": "获国家奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写",
+            "有丰富的运营经验，对媒体推广、运营、网络推广、策划、运营推广、市场推广等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好",
+            "技术达标",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.4063955505930307,
+            "title": {
+                "l2": "市场",
+                "l3": "市场营销",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.3838389118329869,
+            "title": {
+                "l2": "市场",
+                "l3": "网络推广",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.3511344195201115,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "淘宝运营",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.25703583264795865,
+            "title": {
+                "l2": "市场",
+                "l3": "广告市场调研",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.13656861675901075,
+            "title": {
+                "l2": "市场",
+                "l3": "广告拓展",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 70,
+        "average_industry_time": 70,
+        "average_work_time": 70,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 8.5,
+        "leadership": 7,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "媒体营销",
+            "score": 1
+        },
+        {
+            "skill": "运营策略",
+            "score": 1
+        },
+        {
+            "skill": "数据报告",
+            "score": 1
+        },
+        {
+            "skill": "运营推广",
+            "score": 1
+        },
+        {
+            "skill": "标书制作",
+            "score": 0.8
+        },
+        {
+            "skill": "营销策划",
+            "score": 0.8
+        },
+        {
+            "skill": "网络推广渠道",
+            "score": 0.7
+        },
+        {
+            "skill": "网络舆情监控",
+            "score": 0.7
+        },
+        {
+            "skill": "市场推广",
+            "score": 0.7
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "公关",
+            "score": 0.7
+        },
+        {
+            "skill": "投放",
+            "score": 0.7
+        },
+        {
+            "skill": "运维",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.1747068613767624,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13588888888",
+        "QQ": "",
+        "wechat": "",
+        "email": "service@500d.me",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "负责社团组织建设，社团机构的管理，协调各部工作;组织策划社团的成立大会、\n招新等运维活动;  大学一直担任班长 ， 荣获“优秀班干”",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "大学职业发展社",
+            "start_time_year": "2017",
+            "location": "",
+            "department": "",
+            "job_title": "社长",
+            "start_time_month": "03"
+        },
+        {
+            "description": " 2018 年荣获第四届全国大学生广告艺术设计\n负责学生会建设，组织机构的管理，协调各部工作;组织策划学生会的成立大会、\n大赛江西赛区平 面作品类三等奖。\n招新等运维活动;\n 校园文化节“微观江大，聚焦精彩”微博评选\n大赛中获 “十大美友”奖",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "学生会主席",
+            "start_time_year": "2017",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "03"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "会计",
+            "degree": "大专",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "07",
+            "school_name": "江西交通职业技术学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "市场调查与预测，国际市场营销，基本会计，市场营销，心理学，统计学",
+            "start_time_year": "2016",
+            "location": "南昌",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "会计",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-江西-南昌",
+        "current_location": "江西南昌",
+        "expect_location_norm": "",
+        "desired_salary": "1997/10/",
+        "birthplace": "",
+        "degree": "大专",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "中级",
+        "national_identity_number": "",
+        "date_of_birth": "1997-10-12",
+        "birthplace_norm": "",
+        "num_work_experience": 5,
+        "current_position": "市场部推广专员",
+        "work_start_year": "2019",
+        "political_status": "党员",
+        "current_company": "华道数据集团",
+        "school_name": "江西交通职业技术学院",
+        "ethnic": "",
+        "recent_graduate_year": "2019",
+        "name": "郭礼钰",
+        "lastupdate_time": "2024-03-08-08-13-02",
+        "gender": "",
+        "age": 27,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "协助筹备圣荣科技大型市场推新疆站系列活动；作为品牌大使向观众、来宾媒\n体推广品牌；",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2019",
+            "company_name": "华道数据集团",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "市场部推广专员",
+            "start_time_month": "07"
+        }
+    ],
+    "others": {
+        "language": [
+            "粤语",
+            "英语",
+            "普通话"
+        ],
+        "certificate": [],
+        "skills": [
+            "Ci",
+            "Word",
+            "Axure",
+            "策划",
+            "营销",
+            "会计",
+            "摄影",
+            "粤语",
+            "运维",
+            "平面",
+            "美术",
+            "Personal",
+            "Photoshop",
+            "Education",
+            "心理学",
+            "普通话",
+            "Illustrator",
+            "国际贸易",
+            "市场营销",
+            "网络推广",
+            "艺术设计"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "面作品类三等奖"
+        ],
+        "it_skills": [
+            "Photoshop"
+        ],
+        "business_skills": [
+            "Word",
+            "会计",
+            "网络推广"
+        ]
+    },
+    "resume_rawtext": ""
+}

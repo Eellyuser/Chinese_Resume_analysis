@@ -1,0 +1,227 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "宣传广告",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "宣传广告",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "广告设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "MICROSOFT POWERPOINT",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ADOBE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "平面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "设计",
+                "type": "job_title"
+            },
+            {
+                "tag": "ADOBE ADOBE 中国认证设计师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "日语",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "22到26岁",
+                "type": "age"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "英语六级证书",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在3段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 6,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.3730883810383885,
+            "title": {
+                "l2": "市场",
+                "l3": "广告客户",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2928834753508897,
+            "title": {
+                "l2": "市场",
+                "l3": "广告创意",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2578976857994257,
+            "title": {
+                "l2": "服务业",
+                "l3": "运动健身教练",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.2562409416550675,
+            "title": {
+                "l2": "服务业",
+                "l3": "婚礼策划",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.17868551562252297,
+            "title": {
+                "l2": "移动开发",
+                "l3": "APP设计",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.16843100902658745,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 31,
+        "average_industry_time": null,
+        "average_work_time": 23.25,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 7.3999999999999995,
+        "education": 5,
+        "honor": 6
+    },
+    "predicted_skills": [
+        {
+            "skill": "宣传广告",
+            "score": 1
+        },
+        {
+            "skill": "广告设计",
+            "score": 1
+        },
+        {
+            "skill": "word",
+            "score": 0.8
+        },
+        {
+            "skill": "microsoft powerpoint",
+            "score": 0.7
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "adobe",
+            "score": 0.7
+        },
+        {
+            "skill": "平面设计",
+            "score": 0.7
+        },
+        {
+            "skill": "美术",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.3559175133705139,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间0年8个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

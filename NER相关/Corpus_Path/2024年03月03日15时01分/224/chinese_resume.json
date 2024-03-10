@@ -1,0 +1,148 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "",
+        "wechat": "",
+        "email": "",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "负责组织和安排各项活动，做好活动策划，现场执行等各项工作；\n负责办公用品管理、团内事物规划、工作表格制定、稿件数量统计等",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "大学生记者团",
+            "start_time_year": "2013",
+            "location": "",
+            "department": "",
+            "job_title": "办公策划部干事",
+            "start_time_month": "08"
+        },
+        {
+            "description": "负责组织和安排各项活动，做好活动策划，现场执行等各项工作；\n负责办公用品管理、团内事物规划、工作表格制定、稿件数量统计等",
+            "end_time_year": "2013",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "大学生记者团",
+            "start_time_year": "2012",
+            "location": "",
+            "department": "",
+            "job_title": "办公策划部干事",
+            "start_time_month": "08"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "信息管理系统",
+            "degree": "",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "湖北工业大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2011",
+            "location": "武汉",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "信息管理系统",
+        "expect_location": "湖北武汉",
+        "current_salary": "",
+        "current_location_norm": "中国-湖北-武汉",
+        "current_location": "湖北武汉",
+        "expect_location_norm": "中国-湖北-武汉",
+        "desired_salary": "1992.10",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1992-10",
+        "birthplace_norm": "",
+        "num_work_experience": 9,
+        "current_position": "审计",
+        "work_start_year": "2015",
+        "political_status": "党员",
+        "current_company": "武汉乾元会计师事务所",
+        "school_name": "湖北工业大学",
+        "ethnic": "",
+        "recent_graduate_year": "2015",
+        "name": "李育泉",
+        "lastupdate_time": "2024-03-08-08-22-42",
+        "gender": "",
+        "age": 32,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "工作描述:\n发票的开具，保管和核销。应收应付款的汇总。财会资料的收集、汇编和归档，协助编制财务报表；\n协助审计组长开展现场审计工作，按审计准则实施审计程序，编制审计底稿，编写审计报告初稿以及资料底稿的整\n理归档；\n负责开具凭证抽查，向银行发函询证账面金额的正确性，验证会计记录和披露的正确性；\n协助注册会计完成开票、抄税、报税等其它会计事项。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "汇编",
+                "财务",
+                "审计",
+                "财会",
+                "会计"
+            ],
+            "company_type": "",
+            "industry": "金融",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "财务/审计/税务",
+            "start_time_year": "2015",
+            "company_name": "武汉乾元会计师事务所",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "审计",
+            "start_time_month": "08"
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [
+            "ceac"
+        ],
+        "skills": [
+            "汇编",
+            "会计",
+            "财会",
+            "Resume",
+            "财务",
+            "审计",
+            "策划",
+            "Personal",
+            "活动策划",
+            "应用软件"
+        ],
+        "self_evaluation": "自我评价  Self-assessment \n性格方面: 乐观开朗，积极向上，诚实守信，乐于助人；\n学习方面: 学习认真，在涉猎自身知识的同时也涉猎可知识；\n工作方面: 负责踏实，具有强烈的团队合作精神和较强工作能力。",
+        "awards": [],
+        "it_skills": [],
+        "business_skills": [
+            "会计"
+        ]
+    },
+    "resume_rawtext": ""
+}

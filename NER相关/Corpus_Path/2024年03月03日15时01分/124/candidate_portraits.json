@@ -1,0 +1,132 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "英语",
+                "type": "major"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "女",
+                "type": "gender"
+            },
+            {
+                "tag": "团员",
+                "type": "political_status"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "英语六级",
+                "type": "certificate"
+            },
+            {
+                "tag": "年米马拉松比赛二等奖",
+                "type": "award"
+            },
+            {
+                "tag": "年获创业大赛一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "年获学院优秀班干部",
+                "type": "award"
+            },
+            {
+                "tag": "多次获得奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "年国家奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [
+            "院校背景不错，本科学历，毕业于211院校"
+        ],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "国内211",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 9,
+        "leadership": 7,
+        "workexp": 5,
+        "education": 7,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "笔译",
+            "score": 0.7
+        },
+        {
+            "skill": "写作",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "6000_to_8000",
+    "predicted_turnover": null,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "平面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ADOBE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "团队精神",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "制造业",
+                "type": "industry"
+            },
+            {
+                "tag": "服务业",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告设计",
+                "type": "standard_title"
+            },
+            {
+                "tag": "平面设计师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "设计专业",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "英语四六级证书",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在3段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": 44,
+        "average_work_time": 33,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 8,
+        "education": 5,
+        "honor": 6
+    },
+    "predicted_skills": [
+        {
+            "skill": "平面设计",
+            "score": 1
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "adobe",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.2987830340862274,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

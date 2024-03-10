@@ -1,0 +1,247 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "数学建模",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "网络推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "费用报销",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "行政事务",
+                "type": "professional_skill",
+                "subclass": "行政管理"
+            },
+            {
+                "tag": "对外联络",
+                "type": "professional_skill",
+                "subclass": "行政管理"
+            },
+            {
+                "tag": "帐务",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "盘点",
+                "type": "professional_skill",
+                "subclass": "物流管理"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "表达能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "机械/汽车/航天",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "财务/人力资源/行政-行政/高级管理-高级管理人员",
+                "type": "standard_title"
+            },
+            {
+                "tag": "财务/人力资源/行政-财务-财务管理",
+                "type": "standard_title"
+            },
+            {
+                "tag": "产品实习生",
+                "type": "job_title"
+            },
+            {
+                "tag": "财务实习生",
+                "type": "job_title"
+            },
+            {
+                "tag": "行政总监",
+                "type": "job_title"
+            },
+            {
+                "tag": "管理经验",
+                "type": "management"
+            },
+            {
+                "tag": "中国500强企业",
+                "type": "company_class"
+            },
+            {
+                "tag": "世界500强企业",
+                "type": "company_class"
+            },
+            {
+                "tag": "龙头互联网企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [
+            {
+                "tag": "政治学与行政学",
+                "type": "major"
+            },
+            {
+                "tag": "TOP10院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "985工程院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "团员",
+                "type": "political_status"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "国家级一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "国家级金奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "龙头互联网企业从业经历",
+            "中国500强企业从业经历",
+            "世界500强企业从业经历",
+            "拥有良好的团队建设能力与协调能力,具有优秀的团队管理能力,积累了一定团队管理经验与能力",
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "名企经历",
+            "管理经验",
+            "稳定性高",
+            "国内TOP10"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 9,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 8.5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "行政/高级管理",
+                "l3": "高级管理人员",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "财务",
+                "l3": "财务管理",
+                "l1": "财务/人力资源/行政"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 27.5,
+        "average_industry_time": 36.666666666666664,
+        "average_work_time": 27.5,
+        "work_stability": "跳槽频繁"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 7,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 8.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "数学建模",
+            "score": 0.7
+        },
+        {
+            "skill": "网络推广",
+            "score": 0.7
+        },
+        {
+            "skill": "费用报销",
+            "score": 0.5
+        },
+        {
+            "skill": "行政事务",
+            "score": 0.5
+        },
+        {
+            "skill": "对外联络",
+            "score": 0.5
+        },
+        {
+            "skill": "帐务",
+            "score": 0.5
+        },
+        {
+            "skill": "盘点",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.17743675410747528,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间0年6个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

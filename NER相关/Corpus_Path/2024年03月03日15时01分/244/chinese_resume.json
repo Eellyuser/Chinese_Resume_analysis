@@ -1,0 +1,127 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13999999999",
+        "QQ": "2345768",
+        "wechat": "",
+        "email": "2345768@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "财务管理",
+            "degree": "本科",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "school_rank": "12",
+            "school_level": "985 211",
+            "end_time_month": "01",
+            "school_name": "东南大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "财务管理",
+            "start_time_year": "2015",
+            "location": "南京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "财务管理",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-北京-北京",
+        "current_location": "北京",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "江苏南京",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "资深",
+        "national_identity_number": "",
+        "date_of_birth": "",
+        "birthplace_norm": "中国-江苏-南京",
+        "num_work_experience": 5,
+        "current_position": "销售",
+        "work_start_year": "2019",
+        "political_status": "",
+        "current_company": "奈森设计有限公司",
+        "school_name": "东南大学",
+        "ethnic": "",
+        "recent_graduate_year": "2019",
+        "name": "张孟涵",
+        "lastupdate_time": "2024-03-08-08-28-56",
+        "gender": "女",
+        "age": null,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "985 211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "12",
+            "location": "",
+            "company_size": "",
+            "job_function": "销售管理",
+            "start_time_year": "1997",
+            "company_name": "奈森设计有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "销售",
+            "start_time_month": "02"
+        }
+    ],
+    "others": {
+        "language": [
+            "雅思",
+            "英语"
+        ],
+        "certificate": [
+            "cet-4",
+            "cet-6",
+            "会计从业资格证书",
+            "会计初级证",
+            "国家计算机二级证书",
+            "雅思"
+        ],
+        "skills": [
+            "优化",
+            "会计",
+            "摄影",
+            "Office",
+            "财务",
+            "营销",
+            "心理学",
+            "财务管理",
+            "视频制作"
+        ],
+        "self_evaluation": "",
+        "awards": [],
+        "it_skills": [
+            "Office"
+        ],
+        "business_skills": [
+            "会计",
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

@@ -1,0 +1,120 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13800000000",
+        "QQ": "235664",
+        "wechat": "",
+        "email": "235664@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "护理",
+            "degree": "",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "广州市第三人民医院进修",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2017",
+            "location": "广州",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        },
+        {
+            "ranking": "",
+            "major": "护理",
+            "degree": "",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "school_rank": "133",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "广州医科大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "心理学，管理学",
+            "start_time_year": "2013",
+            "location": "广州",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "护理",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "2019.9-2021.9",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1995-05-06",
+        "birthplace_norm": "",
+        "num_work_experience": 6,
+        "current_position": "",
+        "work_start_year": "2017",
+        "political_status": "党员",
+        "current_company": "",
+        "school_name": "广州市第三人民医院进修",
+        "ethnic": "汉族",
+        "recent_graduate_year": "2018",
+        "name": "王圣如",
+        "lastupdate_time": "2024-03-08-07-52-38",
+        "gender": "女",
+        "age": 29,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [
+            "英语四级"
+        ],
+        "certificate": [
+            "护士资格证",
+            "护师资格证",
+            "英语四级",
+            "计算机一级"
+        ],
+        "skills": [
+            "内科",
+            "医学",
+            "急救",
+            "心理学",
+            "管理学",
+            "教育培训",
+            "医疗器械"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "荣获特别奉献奖",
+            "年获得我校心理剧大赛三等奖",
+            "年暑假社会实践活动中获得个人现金奖"
+        ],
+        "it_skills": [],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

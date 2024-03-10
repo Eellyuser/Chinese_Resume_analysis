@@ -1,0 +1,45 @@
+{
+  "name": "陈伯薇",
+  "birth_date": "1990/12/8",
+  "tel": "15031088898",
+  "email": "chenbowei@qq.com",
+  "address": "北京",
+  "wechat": "456879745",
+  "expected_salary": "8K",
+  "self_evaluation": "Friendly, sincere, meticulous, focused, responsible, strong learning and adaptability skills, enjoys communicating with others, loves life, serious, quiet and introverted, good at thinking and researching, solid writing skills, strong in editing, proofreading, and planning.",
+  "work_experience": [
+    {
+      "time_range": "2018.08至今",
+      "company": "建龙设计网科技公司",
+      "project_name": "爱存爱贷项目（P2P线上平台）",
+      "technology_stack": ["jdk", "tomcat", "spring", "hibernate", "struts2"],
+      "database": "Mysql",
+      "responsibilities": "Maintenance and redesign of project functionalities and web pages."
+    },
+    {
+      "time_range": "2014.08-2018.08",
+      "company": "奥润设计网科技公司",
+      "project_name": "爱存爱贷项目（P2P线上平台）",
+      "responsibilities": "Maintenance and redesign of project functionalities and web pages."
+    },
+    {
+      "time_range": "2012.08-2014.08",
+      "company": "森仟设计网科技公司",
+      "project_name": "爱存爱贷项目（P2P线上平台）",
+      "responsibilities": "Maintenance and redesign of project functionalities and web pages."
+    }
+  ],
+  "education_background": {
+    "time_range": "2008.03-2012.06",
+    "school": "中国科学院大学",
+    "responsibilities": "Magazine content planning, editorial meetings, task allocation, article writing, pressing deadlines, editing, modifying manuscripts, and overseeing the printing process."
+  },
+  "skills": ["JQUERY", "HTML/CSS", "PHOTOSHOP", "JAVASCRIPT", "TOMCAT", "MYSQL"],
+  "honors": [
+    "Class monitor throughout university, awarded 'Outstanding Class Cadre'",
+    "Publicity Minister in the Entrepreneurship Association at school",
+    "Third Prize at the 4th National College Students Advertising Art Design Competition in Jiangxi",
+    "Awarded 'Top Ten Campus Beauties' in the campus culture festival Weibo competition"
+  ],
+  "interests": ["Gaming", "Traveling", "Reading", "Basketball"]
+}

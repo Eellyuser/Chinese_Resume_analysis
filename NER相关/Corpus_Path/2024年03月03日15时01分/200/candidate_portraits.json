@@ -1,0 +1,305 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "媒体推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "媒体推广",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "市场推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "运维",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "社团组织",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "产品策划",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "ILLUSTRATOR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "AXURE",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "广告设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "网络推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "UI",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "CI",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "CI",
+                "type": "professional_skill",
+                "subclass": "常用软件"
+            },
+            {
+                "tag": "CI",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告拓展",
+                "type": "standard_title"
+            },
+            {
+                "tag": "IT/互联网-前端开发-UI/UX",
+                "type": "standard_title"
+            },
+            {
+                "tag": "市场经理",
+                "type": "job_title"
+            },
+            {
+                "tag": "UI 设计实习",
+                "type": "job_title"
+            },
+            {
+                "tag": "产品策划",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "大专学历",
+                "type": "degree"
+            },
+            {
+                "tag": "粤语",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "3-5年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "粤语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "年荣获第四届全国大学生广告艺术设计大赛平面作品类三等奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "有丰富的运营经验，对市场推广、媒体推广、广告策划、策划、宣传、网络推广等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "稳定性高",
+            "技术达标"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5.5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "市场",
+                "l3": "广告拓展",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "前端开发",
+                "l3": "UI/UX",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.3760296403890222,
+            "title": {
+                "l2": "市场",
+                "l3": "广告品牌管理",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.30095655589429415,
+            "title": {
+                "l2": "产品",
+                "l3": "产品经理",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.12301380371668372,
+            "title": {
+                "l2": "市场",
+                "l3": "广告会展",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 17.75,
+        "average_industry_time": null,
+        "average_work_time": 17.75,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 6.8,
+        "education": 6,
+        "honor": 6
+    },
+    "predicted_skills": [
+        {
+            "skill": "媒体推广",
+            "score": 0.9
+        },
+        {
+            "skill": "市场推广",
+            "score": 0.9
+        },
+        {
+            "skill": "运维",
+            "score": 0.9
+        },
+        {
+            "skill": "社团组织",
+            "score": 0.8
+        },
+        {
+            "skill": "产品策划",
+            "score": 0.8
+        },
+        {
+            "skill": "illustrator",
+            "score": 0.7
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "axure",
+            "score": 0.7
+        },
+        {
+            "skill": "广告设计",
+            "score": 0.7
+        },
+        {
+            "skill": "word",
+            "score": 0.7
+        },
+        {
+            "skill": "网络推广",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "ui",
+            "score": 0.7
+        },
+        {
+            "skill": "粤语",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        },
+        {
+            "skill": "美术",
+            "score": 0.7
+        },
+        {
+            "skill": "ci",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": 0.23962171375751495,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

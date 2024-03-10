@@ -1,0 +1,188 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13500000000",
+        "QQ": "",
+        "wechat": "",
+        "email": "Yeqian@163.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "汉语言文学",
+            "degree": "本科",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "school_rank": "20",
+            "school_level": "985 211",
+            "end_time_month": "06",
+            "school_name": "北京师范大学",
+            "abroad_country": "",
+            "GPA": "4.68",
+            "courses": "现代汉语，古代汉语",
+            "start_time_year": "2012",
+            "location": "北京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "汉语言文学",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1994",
+        "birthplace_norm": "",
+        "num_work_experience": 8,
+        "current_position": "创始人&市场负责人",
+        "work_start_year": "2016",
+        "political_status": "",
+        "current_company": "风雨工作室",
+        "school_name": "北京师范大学",
+        "ethnic": "",
+        "recent_graduate_year": "2016",
+        "name": "叶茜",
+        "lastupdate_time": "2024-03-08-07-49-50",
+        "gender": "",
+        "age": 30,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "985 211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "创始人&市场负责人 文笔流畅，多次在校内刊物上发表文章，\n带领 4 人小组组建了风飞雨工作室，主要致 熟练软文写作；\n力于品牌建设，以及市场营销搭建工作；网\n善于沟通、具有良好的团队合作能力和人\n站常态运营活动规划和推进执行，制定相关\n际交往能力。\n运营策略和指标；",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "运营",
+                "搭建",
+                "写作",
+                "市场营销"
+            ],
+            "company_type": "",
+            "industry": "消费/零售",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2018",
+            "company_name": "风雨工作室",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "创始人&市场负责人",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": "宣传活动策划，撰写内部工作稿件及新闻报\n道；摄影、摄像、录制编辑《东城警察》电\n的集中报道；\n微博第一批种子用户，活跃于各种论坛，\n天涯，知乎，豆瓣，扒皮小能手一枚；",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "skills": [
+                "活动策划",
+                "摄像",
+                "摄影"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "2017",
+            "company_name": "东城区公安局某某分局政工监督室",
+            "report_to": "",
+            "department": "宣传科",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": "策划网站主题活动，确定主题内容，网站微 #奖学金#\n博微信宣传；配合每期公益电影的宣传，负\n连续 3 个学年获国家一等奖学金；\n责联系场地策划电影展；总结电影展览的成 #活动获奖#\n果并且撰写成文发布到论坛推广；尝试过多 #活动获奖#\n种文体写作，包括微电影剧本、企业宣传 校企面对面广告策划比赛公益类作品最\n文、演讲稿、广告语等； 佳创意奖；\n#团体奖项#\n#团体奖项#",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "skills": [
+                "写作",
+                "策划",
+                "演讲"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "2016",
+            "company_name": "北京时光印象信息科技有限公司",
+            "report_to": "",
+            "department": "推广组",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": "07"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语",
+            "汉语",
+            "托福"
+        ],
+        "certificate": [
+            "cet-6",
+            "托福"
+        ],
+        "skills": [
+            "摄像",
+            "摄影",
+            "Office",
+            "写作",
+            "营销",
+            "运营",
+            "策划",
+            "搭建",
+            "演讲",
+            "Indesign",
+            "Photoshop",
+            "会声会影",
+            "活动策划",
+            "运营推广",
+            "市场营销"
+        ],
+        "self_evaluation": "视专题栏目及负责联系各大媒体对新闻事件\n的集中报道；\n微博第一批种子用户，活跃于各种论坛，\n天涯，知乎，豆瓣，扒皮小能手一枚；\n 2018.07-至今      风雨工作室\n创始人&市场负责人                 文笔流畅，多次在校内刊物上发表文章，\n带领 4 人小组组建了风飞雨工作室，主要致     熟练软文写作；\n力于品牌建设，以及市场营销搭建工作；网\n善于沟通、具有良好的团队合作能力和人\n站常态运营活动规划和推进执行，制定相关\n际交往能力。\n运营策略和指标；",
+        "awards": [
+            "移动杯校园营销大赛团体第一名",
+            "个学年获国家一等奖学金",
+            "活动获奖",
+            "佳创意奖"
+        ],
+        "it_skills": [
+            "Office",
+            "Photoshop"
+        ],
+        "business_skills": [
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

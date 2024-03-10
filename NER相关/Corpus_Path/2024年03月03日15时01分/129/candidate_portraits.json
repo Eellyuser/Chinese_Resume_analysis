@@ -1,0 +1,324 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "统计数据",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "模块设计",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "单元测试",
+                "type": "professional_skill",
+                "subclass": "软件测试"
+            },
+            {
+                "tag": "数据库",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "编码",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "WINDOWS",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "收发",
+                "type": "professional_skill",
+                "subclass": "物流管理"
+            },
+            {
+                "tag": "快递",
+                "type": "professional_skill",
+                "subclass": "物流管理"
+            },
+            {
+                "tag": "ORACLE",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "LINUX",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "公共关系",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "JAVA",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "产品管理",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "项目管理",
+                "type": "professional_skill",
+                "subclass": "项目管理"
+            },
+            {
+                "tag": "活动策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "协调能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任感",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "设计师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "硕士学历",
+                "type": "degree"
+            },
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "学科教学（语文）",
+                "type": "major"
+            },
+            {
+                "tag": "汉语言文学",
+                "type": "major"
+            },
+            {
+                "tag": "985工程院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "湖北武汉",
+                "type": "current_location"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "汉语",
+                "type": "language",
+                "level": "基本掌握"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "拥有硕士学位",
+            "院校背景不错，本科学历，毕业于985院校",
+            "院校背景不错，硕士学历，毕业于985院校"
+        ],
+        "others": [],
+        "tags": [
+            "稳定性高",
+            "国内985/211"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 7.5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 8,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5.5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5.5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.4895288883330985,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.3082455550636587,
+            "title": {
+                "l2": "公务员",
+                "l3": "普通文员",
+                "l1": "政府工作"
+            }
+        },
+        {
+            "score": 0.2615298805981145,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "柜员",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.23750897389337847,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "建筑装潢",
+                "l1": "房产/建筑/物业管理"
+            }
+        },
+        {
+            "score": 0.2302245643382268,
+            "title": {
+                "l2": "生产/采购/物流",
+                "l3": "物流工人",
+                "l1": "采购/贸易/交通/物流"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 63.5,
+        "average_industry_time": null,
+        "average_work_time": 63.5,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8.4,
+        "education": 9,
+        "honor": 5
+    },
+    "predicted_skills": [
+        {
+            "skill": "统计数据",
+            "score": 1
+        },
+        {
+            "skill": "归档",
+            "score": 1
+        },
+        {
+            "skill": "模块设计",
+            "score": 0.9
+        },
+        {
+            "skill": "单元测试",
+            "score": 0.9
+        },
+        {
+            "skill": "数据库",
+            "score": 0.9
+        },
+        {
+            "skill": "编码",
+            "score": 0.9
+        },
+        {
+            "skill": "windows",
+            "score": 0.8
+        },
+        {
+            "skill": "收发",
+            "score": 0.8
+        },
+        {
+            "skill": "快递",
+            "score": 0.8
+        },
+        {
+            "skill": "oracle",
+            "score": 0.7
+        },
+        {
+            "skill": "linux",
+            "score": 0.7
+        },
+        {
+            "skill": "公共关系",
+            "score": 0.7
+        },
+        {
+            "skill": "java",
+            "score": 0.7
+        },
+        {
+            "skill": "产品管理",
+            "score": 0.7
+        },
+        {
+            "skill": "项目管理",
+            "score": 0.7
+        },
+        {
+            "skill": "活动策划",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "15000_to_20000",
+    "predicted_turnover": 0.2856902778148651,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间1年2个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

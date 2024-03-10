@@ -1,0 +1,324 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "广告摄影",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "编辑图片",
+                "type": "professional_skill",
+                "subclass": "影视"
+            },
+            {
+                "tag": "编辑图片",
+                "type": "professional_skill",
+                "subclass": "运营编辑"
+            },
+            {
+                "tag": "广告设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "系统设计",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "VI系统",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "设计宣传",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "手绘能力",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "界面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "视觉设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "设计规范",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "GUI",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "PR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PR",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "AI",
+                "type": "professional_skill",
+                "subclass": "算法"
+            },
+            {
+                "tag": "AI",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "插画",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "AE",
+                "type": "professional_skill",
+                "subclass": "影视"
+            },
+            {
+                "tag": "PS",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "设计助理",
+                "type": "job_title"
+            },
+            {
+                "tag": "设计师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "硕士学历",
+                "type": "degree"
+            },
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "插画",
+                "type": "major"
+            },
+            {
+                "tag": "印刷美术设计",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "上海浦东新区",
+                "type": "current_location"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "雅思",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "拥有硕士学位"
+        ],
+        "others": [],
+        "tags": [
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5.5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 8.5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 8.5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.3093806276833669,
+            "title": {
+                "l2": "市场",
+                "l3": "广告创意",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.16825933773820753,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 40.5,
+        "average_industry_time": null,
+        "average_work_time": 40.5,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 7.3999999999999995,
+        "education": 7,
+        "honor": 6
+    },
+    "predicted_skills": [
+        {
+            "skill": "广告摄影",
+            "score": 1
+        },
+        {
+            "skill": "办公软件",
+            "score": 1
+        },
+        {
+            "skill": "编辑图片",
+            "score": 1
+        },
+        {
+            "skill": "广告设计",
+            "score": 1
+        },
+        {
+            "skill": "调研",
+            "score": 1
+        },
+        {
+            "skill": "材料",
+            "score": 1
+        },
+        {
+            "skill": "系统设计",
+            "score": 0.9
+        },
+        {
+            "skill": "文案",
+            "score": 0.9
+        },
+        {
+            "skill": "vi系统",
+            "score": 0.8
+        },
+        {
+            "skill": "设计宣传",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "手绘能力",
+            "score": 0.7
+        },
+        {
+            "skill": "界面设计",
+            "score": 0.7
+        },
+        {
+            "skill": "视觉设计",
+            "score": 0.7
+        },
+        {
+            "skill": "设计规范",
+            "score": 0.7
+        },
+        {
+            "skill": "gui",
+            "score": 0.7
+        },
+        {
+            "skill": "pr",
+            "score": 0.7
+        },
+        {
+            "skill": "ai",
+            "score": 0.7
+        },
+        {
+            "skill": "插画",
+            "score": 0.7
+        },
+        {
+            "skill": "ae",
+            "score": 0.7
+        },
+        {
+            "skill": "美术",
+            "score": 0.7
+        },
+        {
+            "skill": "ps",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "15000_to_20000",
+    "predicted_turnover": 0.2646394968032837,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

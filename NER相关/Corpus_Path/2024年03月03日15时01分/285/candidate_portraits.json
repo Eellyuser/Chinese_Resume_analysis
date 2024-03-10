@@ -1,0 +1,206 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "财务会计",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "日常财务核算",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "积极向上",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "科研",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "会计学",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "会计从业资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "会计电算化",
+                "type": "certificate"
+            },
+            {
+                "tag": "初级会计师",
+                "type": "certificate"
+            },
+            {
+                "tag": "英语证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "获校级优秀学Th干部",
+                "type": "award"
+            },
+            {
+                "tag": "获国家励志奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "获校级一等奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "Th标兵",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [],
+        "others": [],
+        "tags": [
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 7,
+        "其他": 5,
+        "工程师": 6,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 8.5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.34654479643967306,
+            "title": {
+                "l2": "财务",
+                "l3": "CFO/首席财务官",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.342341842682819,
+            "title": {
+                "l2": "翻译",
+                "l3": "法语翻译",
+                "l1": "咨询/法律/教育/翻译"
+            }
+        },
+        {
+            "score": 0.33538736688768434,
+            "title": {
+                "l2": "工程师",
+                "l3": "轨道交通工程",
+                "l1": "传统工业/工程"
+            }
+        },
+        {
+            "score": 0.3222707904294967,
+            "title": {
+                "l2": "工程师",
+                "l3": "电磁工程师",
+                "l1": "传统工业/工程"
+            }
+        },
+        {
+            "score": 0.2548478250538735,
+            "title": {
+                "l2": "后端开发",
+                "l3": "Ruby",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.24324627489862014,
+            "title": {
+                "l2": "税务审计",
+                "l3": "审计",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.1786565068615218,
+            "title": {
+                "l2": "财务",
+                "l3": "会计",
+                "l1": "财务/人力资源/行政"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 8,
+        "average_industry_time": 8,
+        "average_work_time": 8,
+        "work_stability": "跳槽频繁"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 6.2,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "财务会计",
+            "score": 0.7
+        },
+        {
+            "skill": "招聘",
+            "score": 0.7
+        },
+        {
+            "skill": "日常财务核算",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.18974792957305908,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

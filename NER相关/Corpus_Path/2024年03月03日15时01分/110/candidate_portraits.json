@@ -1,0 +1,171 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "平面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ADOBE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "数学建模",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "协调能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告设计",
+                "type": "standard_title"
+            },
+            {
+                "tag": "平面设计师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "理科",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "22到26岁",
+                "type": "age"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "英语四六级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "年全国中学生数学建模大赛国家二等奖",
+                "type": "award"
+            },
+            {
+                "tag": "年中学第九届数学建模大赛一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "年四川省挑战主持人大赛第一名",
+                "type": "award"
+            },
+            {
+                "tag": "年四川省演讲比赛三等奖",
+                "type": "award"
+            },
+            {
+                "tag": "年国家励志一等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 46.5,
+        "average_industry_time": null,
+        "average_work_time": 23.25,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 7.5,
+        "leadership": 6,
+        "workexp": 7.3999999999999995,
+        "education": 5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "平面设计",
+            "score": 1
+        },
+        {
+            "skill": "adobe",
+            "score": 0.7
+        },
+        {
+            "skill": "数学建模",
+            "score": 0.7
+        },
+        {
+            "skill": "演讲",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": 0.24449221789836884,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间0年7个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

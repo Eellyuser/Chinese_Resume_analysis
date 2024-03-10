@@ -1,0 +1,226 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "活动策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "宣传",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "EXCEL",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "证券投资",
+                "type": "professional_skill",
+                "subclass": "理财相关"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "PPT",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "微积分",
+                "type": "professional_skill",
+                "subclass": "数理基础"
+            },
+            {
+                "tag": "组织能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "消费/零售",
+                "type": "industry"
+            },
+            {
+                "tag": "政府工作-公务员-普通文员",
+                "type": "standard_title"
+            },
+            {
+                "tag": "经理助理",
+                "type": "job_title"
+            }
+        ],
+        "education": [],
+        "basic": [
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "c1驾驶证",
+                "type": "certificate"
+            },
+            {
+                "tag": "在新生军训中荣获优秀标兵",
+                "type": "award"
+            },
+            {
+                "tag": "优秀学生干部",
+                "type": "award"
+            },
+            {
+                "tag": "全程交易奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 8.5,
+        "其他": 9,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "公务员",
+                "l3": "普通文员",
+                "l1": "政府工作"
+            }
+        },
+        {
+            "score": 0.36188304241616714,
+            "title": {
+                "l2": "服务业",
+                "l3": "娱乐服务",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.2750111086616788,
+            "title": {
+                "l2": "服务业",
+                "l3": "酒店服务",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.16310584892215407,
+            "title": {
+                "l2": "服务业",
+                "l3": "运动健身教练",
+                "l1": "服务业"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 46.5,
+        "average_industry_time": null,
+        "average_work_time": 46.5,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 9.5,
+        "leadership": 10,
+        "workexp": 7.3999999999999995,
+        "education": 6.5,
+        "honor": 9
+    },
+    "predicted_skills": [
+        {
+            "skill": "活动策划",
+            "score": 1
+        },
+        {
+            "skill": "桥梁",
+            "score": 1
+        },
+        {
+            "skill": "宣传",
+            "score": 0.8
+        },
+        {
+            "skill": "前台",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "excel",
+            "score": 0.7
+        },
+        {
+            "skill": "证券投资",
+            "score": 0.7
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "word",
+            "score": 0.7
+        },
+        {
+            "skill": "ppt",
+            "score": 0.7
+        },
+        {
+            "skill": "微积分",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": 0.2534496486186981,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

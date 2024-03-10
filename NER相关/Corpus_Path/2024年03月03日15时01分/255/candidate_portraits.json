@@ -1,0 +1,336 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "品牌推广",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "网络营销",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "销售技巧",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "客户服务",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            },
+            {
+                "tag": "线上推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "宣传推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "EXCEL",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "电子商务法",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "绘声绘影",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "网络推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "SPSS",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "运营管理",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "数据库",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "PPT",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "电商",
+                "type": "professional_skill",
+                "subclass": "电子商务"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告品牌管理",
+                "type": "standard_title"
+            },
+            {
+                "tag": "销售/客服/市场-市场-网络推广",
+                "type": "standard_title"
+            },
+            {
+                "tag": "品牌推广专员",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "大专学历",
+                "type": "degree"
+            },
+            {
+                "tag": "电子商务",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "广东珠海",
+                "type": "current_location"
+            },
+            {
+                "tag": "广东珠海",
+                "type": "expect_location"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "国家计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "大学生英语四级",
+                "type": "certificate"
+            },
+            {
+                "tag": "机动车驾驶证",
+                "type": "certificate"
+            },
+            {
+                "tag": "曾担任系学生会外联部干部",
+                "type": "award"
+            },
+            {
+                "tag": "市场营销大赛二等奖",
+                "type": "award"
+            },
+            {
+                "tag": "电子商务大赛一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "校三等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通",
+            "有丰富的销售经验，对品牌推广、营销学、网络营销、营销策略、市场营销、销售技巧等技能或工具有深入的理解",
+            "有丰富的运营经验，对线上推广、网店运营、运营管理、运营、公众号、网络推广、宣传等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好",
+            "技术达标",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "市场",
+                "l3": "广告品牌管理",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "市场",
+                "l3": "网络推广",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 34,
+        "average_industry_time": null,
+        "average_work_time": 34,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 5.5,
+        "leadership": 6,
+        "workexp": 6.8,
+        "education": 6,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "品牌推广",
+            "score": 0.9
+        },
+        {
+            "skill": "网络营销",
+            "score": 0.9
+        },
+        {
+            "skill": "销售技巧",
+            "score": 0.9
+        },
+        {
+            "skill": "客户服务",
+            "score": 0.9
+        },
+        {
+            "skill": "线上推广",
+            "score": 0.8
+        },
+        {
+            "skill": "宣传推广",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "excel",
+            "score": 0.7
+        },
+        {
+            "skill": "电子商务法",
+            "score": 0.7
+        },
+        {
+            "skill": "绘声绘影",
+            "score": 0.7
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "word",
+            "score": 0.7
+        },
+        {
+            "skill": "网络推广",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        },
+        {
+            "skill": "spss",
+            "score": 0.7
+        },
+        {
+            "skill": "运营管理",
+            "score": 0.7
+        },
+        {
+            "skill": "数据库",
+            "score": 0.7
+        },
+        {
+            "skill": "ppt",
+            "score": 0.7
+        },
+        {
+            "skill": "电商",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "6000_to_8000",
+    "predicted_turnover": 0.2399938851594925,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

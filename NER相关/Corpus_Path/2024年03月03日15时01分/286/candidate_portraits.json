@@ -1,0 +1,230 @@
+{
+    "desired_salary": "4000_to_6000",
+    "tags": {
+        "skills": [
+            {
+                "tag": "EXCEL表格",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "WINDOWS",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "产品销售",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "商务礼仪",
+                "type": "professional_skill",
+                "subclass": "行政管理"
+            },
+            {
+                "tag": "OA",
+                "type": "professional_skill",
+                "subclass": "常用软件"
+            },
+            {
+                "tag": "收银",
+                "type": "professional_skill",
+                "subclass": "零售业"
+            },
+            {
+                "tag": "结算",
+                "type": "professional_skill",
+                "subclass": "审计"
+            },
+            {
+                "tag": "团队协作",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "服务意识",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "严谨细心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "逻辑思维",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "积极主动",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "表达能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "商务英语",
+                "type": "major"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "上海浦东新区",
+                "type": "current_location"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            },
+            {
+                "tag": "4K-6K",
+                "type": "salary"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [
+            "院校背景不错，本科学历，毕业于211院校"
+        ],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "国内211",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 5,
+        "education": 7,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "excel表格",
+            "score": 0.7
+        },
+        {
+            "skill": "windows",
+            "score": 0.7
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "产品销售",
+            "score": 0.7
+        },
+        {
+            "skill": "商务礼仪",
+            "score": 0.7
+        },
+        {
+            "skill": "接待",
+            "score": 0.7
+        },
+        {
+            "skill": "oa",
+            "score": 0.7
+        },
+        {
+            "skill": "收银",
+            "score": 0.7
+        },
+        {
+            "skill": "写作",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        },
+        {
+            "skill": "结算",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": 1,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

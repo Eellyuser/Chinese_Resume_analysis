@@ -1,0 +1,108 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "心理咨询",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "运维",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            }
+        ],
+        "professional": [],
+        "education": [
+            {
+                "tag": "硕士学历",
+                "type": "degree"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "3-5年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "心理咨询师",
+                "type": "certificate"
+            },
+            {
+                "tag": "优秀共青团干部",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [
+            "拥有硕士学位"
+        ],
+        "others": [],
+        "tags": []
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 9,
+        "leadership": 7,
+        "workexp": 5,
+        "education": 7,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "心理咨询",
+            "score": 0.7
+        },
+        {
+            "skill": "运维",
+            "score": 0.7
+        },
+        {
+            "skill": "策划",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": null,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

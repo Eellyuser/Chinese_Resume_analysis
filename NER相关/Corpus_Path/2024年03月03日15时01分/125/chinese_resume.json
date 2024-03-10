@@ -1,0 +1,148 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13656547899",
+        "QQ": "123456789",
+        "wechat": "",
+        "email": "123456789@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "社团部部长 学院奖学金。为人诚恳勤奋好学脚\n踏实地，有较强的团队精神，工作\n主要是负责和组织学生在学校周边的农民工私立\n积极进取，态度认真。\n学校进行支教活动 负责联系学校和社团 ， 辅助社\n长管理社团，进行活动策划",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "end_time_month": "09",
+            "organization_name": "大学行知助学社",
+            "start_time_year": "2014",
+            "location": "",
+            "department": "",
+            "job_title": "社团部部长",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "本科",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "school_rank": "32",
+            "school_level": "211",
+            "end_time_month": "01",
+            "school_name": "华东理工大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "市场调查与预测，管理会计，基本会计，市场营销，财务管理，心理学，统计学",
+            "start_time_year": "2013",
+            "location": "上海",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        },
+        {
+            "ranking": "",
+            "major": "财务管理",
+            "degree": "大专",
+            "end_time_year": "2013",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "上海科技技术职业学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "高级财务管理，中级财务会计，国际财务管理，证券投资学，会计学基础，管理会计，财务管理，税法",
+            "start_time_year": "2010",
+            "location": "中国上海",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-上海-上海-静安区",
+        "current_location": "上海静安区",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1992-12-07",
+        "birthplace_norm": "",
+        "num_work_experience": 9,
+        "current_position": "",
+        "work_start_year": "2013",
+        "political_status": "",
+        "current_company": "",
+        "school_name": "华东理工大学",
+        "ethnic": "",
+        "recent_graduate_year": "2015",
+        "name": "黄彦霖",
+        "lastupdate_time": "2024-03-08-07-51-42",
+        "gender": "女",
+        "age": 32,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [],
+        "skills": [
+            "PPT",
+            "Word",
+            "Excel",
+            "营销",
+            "会计",
+            "财务",
+            "文案",
+            "Photoshop",
+            "心理学",
+            "Illustrator",
+            "活动策划",
+            "平面设计",
+            "财务会计",
+            "市场营销",
+            "证券投资",
+            "财务管理",
+            "网页设计"
+        ],
+        "self_evaluation": "本人性格热情开朗，待人友好，为",
+        "awards": [
+            "年获营销大赛一等奖",
+            "年国家奖学金",
+            "学院奖学金",
+            "年创业杯大赛铜奖"
+        ],
+        "it_skills": [
+            "PPT",
+            "Excel",
+            "Photoshop"
+        ],
+        "business_skills": [
+            "Word",
+            "Excel",
+            "会计",
+            "财务会计"
+        ]
+    },
+    "resume_rawtext": ""
+}

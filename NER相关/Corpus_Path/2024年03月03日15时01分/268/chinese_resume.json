@@ -1,0 +1,126 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13156782345",
+        "QQ": "43125234",
+        "wechat": "",
+        "email": "43125234@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "负责与部员组织学校的各种文艺活动及配合其他部门的工作 ， 增强\n了自己团队合作意识及默默奉献的精神。\n通过组织每年的文艺活动，提高了我的组织能力与协调能力。在班\n内担任组织委员充分利用\n课余时间，积极参加如社区医院服务等。",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "end_time_month": "03",
+            "organization_name": "对C语言有有一定了解",
+            "start_time_year": "2016",
+            "location": "",
+            "department": "",
+            "job_title": "学生会文艺部副部长",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "",
+            "degree": "本科",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "school_rank": "133",
+            "school_level": "",
+            "end_time_month": "06",
+            "school_name": "广州医科大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2015",
+            "location": "广州",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "广东广州",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "中级",
+        "national_identity_number": "",
+        "date_of_birth": "1997-07-04",
+        "birthplace_norm": "中国-广东-广州",
+        "num_work_experience": 5,
+        "current_position": "",
+        "work_start_year": "2020",
+        "political_status": "",
+        "current_company": "安定医院",
+        "school_name": "广州医科大学",
+        "ethnic": "",
+        "recent_graduate_year": "2019",
+        "name": "黄育霖",
+        "lastupdate_time": "2024-03-08-08-36-25",
+        "gender": "",
+        "age": 27,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "分泌、妇科科、产科、精神科、血透、社区等科室轮转值班。跟随\n技能证书 护士长完成当班工作。并得到院领导及病人家属的好评。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "2020",
+            "company_name": "安定医院",
+            "report_to": "",
+            "department": "呼吸科",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": "09"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语六级证书",
+            "英语六级"
+        ],
+        "certificate": [
+            "大学生英语六级证书",
+            "护士资格证"
+        ],
+        "skills": [
+            "内科",
+            "C语言"
+        ],
+        "self_evaluation": "",
+        "awards": [],
+        "it_skills": [
+            "C语言"
+        ],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

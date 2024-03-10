@@ -1,0 +1,213 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "INDIVIDUAL",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "文案写作",
+                "type": "professional_skill",
+                "subclass": "运营编辑"
+            },
+            {
+                "tag": "PPT",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告市场调研",
+                "type": "standard_title"
+            },
+            {
+                "tag": "市场专员",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "市场营销",
+                "type": "major"
+            },
+            {
+                "tag": "TOP2院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "TOP10院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "985工程院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            },
+            {
+                "tag": "全国大学生创意营销大赛一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "获国家奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "院校背景不错，本科学历，毕业于全国TOP2院校"
+        ],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "国内TOP2",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 9,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.6356431789156114,
+            "title": {
+                "l2": "市场",
+                "l3": "广告市场调研",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.21278555858638712,
+            "title": {
+                "l2": "市场",
+                "l3": "市场营销",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.1515712624980014,
+            "title": {
+                "l2": "市场",
+                "l3": "广告拓展",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 8.5,
+        "leadership": 7,
+        "workexp": 8,
+        "education": 8.5,
+        "honor": 8
+    },
+    "predicted_skills": [
+        {
+            "skill": "individual",
+            "score": 0.7
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "文案写作",
+            "score": 0.7
+        },
+        {
+            "skill": "ppt",
+            "score": 0.7
+        },
+        {
+            "skill": "策划",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "6000_to_8000",
+    "predicted_turnover": 0.205098494887352,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

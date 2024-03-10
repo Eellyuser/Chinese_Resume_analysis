@@ -1,0 +1,306 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "出入库",
+                "type": "professional_skill",
+                "subclass": "物流管理"
+            },
+            {
+                "tag": "团队管理",
+                "type": "professional_skill",
+                "subclass": "管理"
+            },
+            {
+                "tag": "管理工作",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "学生管理",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "公文写作",
+                "type": "professional_skill",
+                "subclass": "行政管理"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "档案管理",
+                "type": "professional_skill",
+                "subclass": "人力资源"
+            },
+            {
+                "tag": "VFP",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "人事",
+                "type": "professional_skill",
+                "subclass": "人力资源"
+            },
+            {
+                "tag": "执行能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "团队精神",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "组织能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "教育培训",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "西安智学教育有限公司总经理助理",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "文秘",
+                "type": "major"
+            },
+            {
+                "tag": "985工程院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "上海",
+                "type": "current_location"
+            },
+            {
+                "tag": "上海",
+                "type": "expect_location"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "全国计算机二级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "普通话一级甲等",
+                "type": "certificate"
+            },
+            {
+                "tag": "英语四级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "全国英语四级",
+                "type": "certificate"
+            },
+            {
+                "tag": "驾驶证",
+                "type": "certificate"
+            },
+            {
+                "tag": "大学生创业创新大赛三等奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "院校背景不错，本科学历，毕业于985院校"
+        ],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通"
+        ],
+        "tags": [
+            "稳定性高",
+            "国内985/211",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 9,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5.5,
+        "人事/行政/高级管理": 7.5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.4125600097584329,
+            "title": {
+                "l2": "公务员",
+                "l3": "普通文员",
+                "l1": "政府工作"
+            }
+        },
+        {
+            "score": 0.26823453515633766,
+            "title": {
+                "l2": "市场",
+                "l3": "广告会展",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.21429769073852403,
+            "title": {
+                "l2": "服务业",
+                "l3": "酒店服务",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.19972981663811196,
+            "title": {
+                "l2": "行政/高级管理",
+                "l3": "CEO/总裁/总经理",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.1877101736034553,
+            "title": {
+                "l2": "教育",
+                "l3": "学校行政/咨询/法律/教育/科研/教师/校长",
+                "l1": "咨询/法律/教育/翻译"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": 40.5,
+        "average_work_time": 40.5,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 8.5,
+        "leadership": 7,
+        "workexp": 7.3999999999999995,
+        "education": 8,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "出入库",
+            "score": 1
+        },
+        {
+            "skill": "接待",
+            "score": 1
+        },
+        {
+            "skill": "接听",
+            "score": 1
+        },
+        {
+            "skill": "团队管理",
+            "score": 0.9
+        },
+        {
+            "skill": "管理工作",
+            "score": 0.9
+        },
+        {
+            "skill": "学生管理",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "公文写作",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        },
+        {
+            "skill": "档案管理",
+            "score": 0.7
+        },
+        {
+            "skill": "vfp",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "人事",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "6000_to_8000",
+    "predicted_turnover": 0.2887507379055023,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

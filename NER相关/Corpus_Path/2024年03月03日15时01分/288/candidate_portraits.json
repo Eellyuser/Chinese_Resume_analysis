@@ -1,0 +1,213 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "编制报表",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "收支",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "日常财务核算",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "企业财务",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "财务分析",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "职业规划",
+                "type": "professional_skill",
+                "subclass": "教育培训"
+            },
+            {
+                "tag": "财务会计",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "积极向上",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "会计学",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "会计从业资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "会计电算化",
+                "type": "certificate"
+            },
+            {
+                "tag": "初级会计师",
+                "type": "certificate"
+            },
+            {
+                "tag": "英语证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "校级优秀学生干部",
+                "type": "award"
+            },
+            {
+                "tag": "国家励志奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "三好学生标兵",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "有丰富的财务经验，对企业财务、财务分析、财务核算、财务管理、财务会计等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "稳定性高",
+            "技术达标",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5.5,
+        "教育/翻译/服务业": 5,
+        "其他": 5.5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 10
+    },
+    "predicted_titles": [
+        {
+            "score": 0.3737549196071305,
+            "title": {
+                "l2": "财务",
+                "l3": "会计",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.24568181308111758,
+            "title": {
+                "l2": "财务",
+                "l3": "CFO/首席财务官",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.180563267311752,
+            "title": {
+                "l2": "财务",
+                "l3": "财务管理",
+                "l1": "财务/人力资源/行政"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 40.5,
+        "average_industry_time": null,
+        "average_work_time": 40.5,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 7.3999999999999995,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "编制报表",
+            "score": 1
+        },
+        {
+            "skill": "收支",
+            "score": 1
+        },
+        {
+            "skill": "招聘",
+            "score": 1
+        },
+        {
+            "skill": "日常财务核算",
+            "score": 0.8
+        },
+        {
+            "skill": "企业财务",
+            "score": 0.7
+        },
+        {
+            "skill": "财务分析",
+            "score": 0.7
+        },
+        {
+            "skill": "职业规划",
+            "score": 0.7
+        },
+        {
+            "skill": "财务会计",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": 0.285790354013443,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

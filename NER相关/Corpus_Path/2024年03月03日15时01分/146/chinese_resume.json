@@ -1,0 +1,118 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "15031088888",
+        "QQ": "123456",
+        "wechat": "",
+        "email": "123456@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "策划杂志内容，召开编辑会议，分配工作任务，撰写刊首文按照时间周期\n催稿，审稿，修改稿件，将完稿交与研究会秘书长审阅与印刷厂商谈印刷\n基本资料\n事宜，检查样本，督促印刷厂按时按量完成印刷,",
+            "end_time_year": "",
+            "still_active": 0,
+            "end_time_month": "",
+            "organization_name": "设计师",
+            "start_time_year": "",
+            "location": "",
+            "department": "",
+            "job_title": "设计师",
+            "start_time_month": ""
+        },
+        {
+            "description": "北京清华学院校联系部 ， 副部长 2015",
+            "end_time_year": "1995",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "北京清华学院校联系部",
+            "start_time_year": "1994",
+            "location": "北京",
+            "department": "",
+            "job_title": "副部长",
+            "start_time_month": "12"
+        },
+        {
+            "description": "策划杂志内容，召开编辑会议，分配工作任务，撰写刊首文按照时间周期\n学历: 本科\n催稿，审稿，修改稿件\n专业: 项目经理\n北京清华学院校联系部 ， 副部长 2016",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "清华大学",
+            "start_time_year": "2012",
+            "location": "北京",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "01"
+        }
+    ],
+    "education_experience": [],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-北京-北京",
+        "current_location": "北京",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "上海",
+        "degree": "硕士",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1994-12-08",
+        "birthplace_norm": "中国-上海-上海",
+        "num_work_experience": 0,
+        "current_position": "",
+        "work_start_year": "",
+        "political_status": "党员",
+        "current_company": "",
+        "school_name": "",
+        "ethnic": "",
+        "recent_graduate_year": "",
+        "name": "特等",
+        "lastupdate_time": "2024-03-08-07-58-15",
+        "gender": "",
+        "age": 30,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [],
+        "certificate": [],
+        "skills": [
+            "Word",
+            "html",
+            "Java",
+            "Excel",
+            "策划",
+            "Photoshop",
+            "项目经理",
+            "艺术设计",
+            "广告设计",
+            "平面设计"
+        ],
+        "self_evaluation": "电脑水平                     我为人友善、真诚、做事细致、专注，有很强的责任心，学习能力与适\n应能力强，喜欢与他人交谈，热爱生活性格标签是认真，有着沉静内敛，\nPhotoshop          80%\n善于思考和研究的特质，作为本硕皆为新闻学专业的文科生，与文字为\nWord               80%\n伴多年，文字功底扎实，文字编辑、把关、策划能力强。\nExcel              80%",
+        "awards": [
+            "年获得研究生第一学年特等奖学金"
+        ],
+        "it_skills": [
+            "html",
+            "Java",
+            "Excel",
+            "Photoshop"
+        ],
+        "business_skills": [
+            "Word",
+            "Excel"
+        ]
+    },
+    "resume_rawtext": ""
+}

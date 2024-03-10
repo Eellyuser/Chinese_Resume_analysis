@@ -1,0 +1,261 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "总账",
+                "type": "professional_skill",
+                "subclass": "审计"
+            },
+            {
+                "tag": "安防系统集成",
+                "type": "professional_skill",
+                "subclass": "安防"
+            },
+            {
+                "tag": "公司财务",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "FLASH",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "SPSS",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "UI",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "年审",
+                "type": "professional_skill",
+                "subclass": "审计"
+            },
+            {
+                "tag": "结算",
+                "type": "professional_skill",
+                "subclass": "审计"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "科研",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "实习生",
+                "type": "job_title"
+            }
+        ],
+        "education": [],
+        "basic": [
+            {
+                "tag": "中级",
+                "type": "level"
+            },
+            {
+                "tag": "3-5年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "全国计算机等级二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "会计从业资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "初级会计证",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5.5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 8,
+        "产品": 5,
+        "金融": 8.5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.3572587821925056,
+            "title": {
+                "l2": "财务",
+                "l3": "会计",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.2886998508496953,
+            "title": {
+                "l2": "生物/制药/医疗/护理",
+                "l3": "生物技术",
+                "l1": "生物/制药/医疗"
+            }
+        },
+        {
+            "score": 0.23550306489281117,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "清算人员",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.2299078198978588,
+            "title": {
+                "l2": "技术支持",
+                "l3": "安防系统工程",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.2128333979096355,
+            "title": {
+                "l2": "税务审计",
+                "l3": "审计",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.20762525896313413,
+            "title": {
+                "l2": "技术支持",
+                "l3": "HelpDesk/服务台",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.1968716761440548,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "金融经纪人",
+                "l1": "金融"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 16.75,
+        "average_industry_time": 33.5,
+        "average_work_time": 16.75,
+        "work_stability": "跳槽频繁"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 7.3999999999999995,
+        "education": 6.5,
+        "honor": 8
+    },
+    "predicted_skills": [
+        {
+            "skill": "出纳",
+            "score": 1
+        },
+        {
+            "skill": "总账",
+            "score": 0.9
+        },
+        {
+            "skill": "安防系统集成",
+            "score": 0.8
+        },
+        {
+            "skill": "公司财务",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "flash",
+            "score": 0.7
+        },
+        {
+            "skill": "spss",
+            "score": 0.7
+        },
+        {
+            "skill": "ui",
+            "score": 0.7
+        },
+        {
+            "skill": "美容",
+            "score": 0.7
+        },
+        {
+            "skill": "年审",
+            "score": 0.5
+        },
+        {
+            "skill": "结算",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": 0.13262107968330383,
+    "risks": {
+        "occupation": [
+            "候选人在2020年2月至2020年6月存在工作空档期",
+            "候选人在2020年9月至2021年8月存在工作空档期",
+            "候选人存在3段工作经历时长不足1年，某段时间内工作不够稳定"
+        ],
+        "education": [],
+        "tags": [
+            "存在职业空档期",
+            "曾工作不稳定"
+        ]
+    }
+}

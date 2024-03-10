@@ -1,0 +1,220 @@
+{
+    "project_experience": [
+        {
+            "project_name": "2015.06 为南阳市桐柏县阳光半岛房地产项目制作“桐柏醉美啤酒节”主题微信",
+            "description": "宣传页面和抽奖活动程序；",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [],
+            "end_time_month": "",
+            "location": "",
+            "start_time_year": "",
+            "company_name": "",
+            "job_function": "房地产开发",
+            "job_title": "",
+            "start_time_month": ""
+        },
+        {
+            "project_name": "为南阳市镇平县上花轿婚纱摄影首届“魅力达人秀”活动制作微信晒照",
+            "description": "片投票程序，对接微信相关 API，程序上线不到一个月，便得到了上百万的访问量，\n其中峰值一日达到 2 万多 IP 访问量；",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [
+                "api"
+            ],
+            "end_time_month": "",
+            "location": "",
+            "start_time_year": "",
+            "company_name": "",
+            "job_function": "广告传媒影视",
+            "job_title": "",
+            "start_time_month": ""
+        },
+        {
+            "project_name": "为南阳房顾问网络有限公司开发房地产营销系统，系统采用",
+            "description": "ThinkPHP+Bootstrap+jQuery 进行开发，并为 IOS 和安卓客户端编写了接口；",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [
+                "thinkphp",
+                "jquery",
+                "接口",
+                "bootstrap",
+                "ios"
+            ],
+            "end_time_month": "",
+            "location": "",
+            "start_time_year": "",
+            "company_name": "",
+            "job_function": "JAVA",
+            "job_title": "",
+            "start_time_month": ""
+        }
+    ],
+    "contact_info": {
+        "phone_number": "13800138000",
+        "QQ": "",
+        "wechat": "",
+        "email": "",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "金融与投资",
+            "degree": "本科",
+            "end_time_year": "2013",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "07",
+            "school_name": "英国巴斯大学",
+            "abroad_country": "英国",
+            "GPA": "",
+            "courses": "国际金融管理，货币银行学，政治经济学，证券投资学，西方经济学，国际经济学，财政学，保险学",
+            "start_time_year": "2009",
+            "location": "英国英格兰巴斯市",
+            "department": "管理学院",
+            "study_model": "",
+            "abroad": 1,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "金融与投资",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "资深",
+        "national_identity_number": "",
+        "date_of_birth": "1991",
+        "birthplace_norm": "",
+        "num_work_experience": 11,
+        "current_position": "营业部柜员",
+        "work_start_year": "2013",
+        "political_status": "",
+        "current_company": "广州银行",
+        "school_name": "英国巴斯大学",
+        "ethnic": "",
+        "recent_graduate_year": "2013",
+        "name": "李毓",
+        "lastupdate_time": "2024-03-08-07-55-45",
+        "gender": "",
+        "age": 33,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": " 根据客户的需求提供专业的银行业务咨询和办理；\n 协助产品经理完成每期的产品促销，选择卖家和产品，保证促销活动的完成；\n 受理客户的意见建议，并做好记录反馈；",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "产品经理"
+            ],
+            "company_type": "",
+            "industry": "金融",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "证券/期货/投资管理/服务",
+            "start_time_year": "2018",
+            "company_name": "广州银行",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "营业部柜员",
+            "start_time_month": "10"
+        },
+        {
+            "salary": "",
+            "description": " 组织开展投资顾问业务，完成客基础服务工作；\n负责经纪人业务的规范管理和业务推进；\n负责各类创新业务的拓展和推进；",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "金融",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "销售行政/商务",
+            "start_time_year": "2015",
+            "company_name": "广发银行",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "营业部开户业务",
+            "start_time_month": "10"
+        },
+        {
+            "salary": "",
+            "description": " 负责外币及人民币柜台业务，包括储蓄、汇款等，确保按照操作规程办理业务\n 提供标准柜台服务，热情接待客户，及时准确地办理柜面业务；\n33 岁 完成分行/支行安排的其他工作\n广东省广州市",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "金融",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "销售管理",
+            "start_time_year": "2013",
+            "company_name": "东亚银行（中国）有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "客户经理",
+            "start_time_month": "10"
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [
+            "cet-6",
+            "计算机二级"
+        ],
+        "skills": [
+            "Ios",
+            "API",
+            "接口",
+            "营销",
+            "Jquery",
+            "摄影",
+            "Thinkphp",
+            "管理学",
+            "Bootstrap",
+            "保险学",
+            "经济学",
+            "房地产",
+            "财政学",
+            "产品经理",
+            "证券投资",
+            "国际金融",
+            "政治经济学"
+        ],
+        "self_evaluation": "本人有十年银行从业经历，在担任农行江苏省分行营业部对公客户经理期间，主要\n负责财政、机关事业团体、学校、医院以及部队等非企业法人客户营销、关系维护\n以及相关产品的推广等工作;本人有丰富的对公业务营销经验,具备较强的调查、分\n析以及材料组织能力；具有较强的市场拓展能力，掌握一定的客户资源；另外本人\n还熟悉银行—保险业合作流程；具备相应的信贷知识。",
+        "awards": [],
+        "it_skills": [
+            "API"
+        ],
+        "business_skills": [
+            "产品经理"
+        ]
+    },
+    "resume_rawtext": ""
+}

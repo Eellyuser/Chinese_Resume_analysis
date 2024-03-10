@@ -1,0 +1,173 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "平面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ILLUSTRATOR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ADOBE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "室内设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "文化/体育/娱乐/社交",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告设计",
+                "type": "standard_title"
+            },
+            {
+                "tag": "平面设计师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "设计",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "22到26岁",
+                "type": "age"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "粤语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "英语四六级证书",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在3段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": 46.5,
+        "average_work_time": 23.25,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 8,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 7.3999999999999995,
+        "education": 5,
+        "honor": 6
+    },
+    "predicted_skills": [
+        {
+            "skill": "平面设计",
+            "score": 1
+        },
+        {
+            "skill": "illustrator",
+            "score": 0.7
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "adobe",
+            "score": 0.7
+        },
+        {
+            "skill": "室内设计",
+            "score": 0.7
+        },
+        {
+            "skill": "粤语",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "6000_to_8000",
+    "predicted_turnover": 0.3106764554977417,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间0年9个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

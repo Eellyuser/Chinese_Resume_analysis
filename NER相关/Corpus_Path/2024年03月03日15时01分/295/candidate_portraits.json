@@ -1,0 +1,161 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "负责管理",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "微生物",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "临床",
+                "type": "professional_skill",
+                "subclass": "医疗相关"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "制药/医疗",
+                "type": "industry"
+            },
+            {
+                "tag": "算机各项操作",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "大专学历",
+                "type": "degree"
+            },
+            {
+                "tag": "临床医学",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 6,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 7.5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.4376616872152695,
+            "title": {
+                "l2": "生产/采购/物流",
+                "l3": "物流工人",
+                "l1": "采购/贸易/交通/物流"
+            }
+        },
+        {
+            "score": 0.38861932752042716,
+            "title": {
+                "l2": "服务业",
+                "l3": "美容整形师",
+                "l1": "服务业"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 7.3999999999999995,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "负责管理",
+            "score": 1
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "微生物",
+            "score": 0.7
+        },
+        {
+            "skill": "内科",
+            "score": 0.7
+        },
+        {
+            "skill": "临床",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.24415501952171326,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

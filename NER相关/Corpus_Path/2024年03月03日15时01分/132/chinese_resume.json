@@ -1,0 +1,166 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13000000000",
+        "QQ": "5464654",
+        "wechat": "",
+        "email": "5464654@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "PHOTOSHOP",
+            "end_time_year": "",
+            "still_active": 0,
+            "end_time_month": "",
+            "organization_name": "的成立大会",
+            "start_time_year": "",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": ""
+        },
+        {
+            "description": "OFFICE SOFT\n负责社团组织建设，社团机构的管理，协调各部门工作，组织策划社团\nHTML/CSS\n的成立大会，竞选会，团队培训，招新等运动活动。\nJAVASCRIPT",
+            "end_time_year": "2022",
+            "still_active": 0,
+            "end_time_month": "07",
+            "organization_name": "立德设计公司",
+            "start_time_year": "2021",
+            "location": "",
+            "department": "",
+            "job_title": "设计师",
+            "start_time_month": "07"
+        },
+        {
+            "description": "JQUERY\n负责社团组织建设，社团机构的管理，协调各部门工作，组织策划社团\n的成立大会，竞选会，团队培训，招新等运动活动。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "end_time_month": "03",
+            "organization_name": "牛菲尔公司",
+            "start_time_year": "2022",
+            "location": "",
+            "department": "",
+            "job_title": "设计师",
+            "start_time_month": "07"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "艺术设计",
+            "degree": "本科",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "school_rank": "139",
+            "school_level": "211",
+            "end_time_month": "07",
+            "school_name": "南昌大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2016",
+            "location": "南昌",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "艺术设计",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1998",
+        "birthplace_norm": "",
+        "num_work_experience": 4,
+        "current_position": "设计师",
+        "work_start_year": "2020",
+        "political_status": "",
+        "current_company": "赤雪设计公司",
+        "school_name": "南昌大学",
+        "ethnic": "",
+        "recent_graduate_year": "2020",
+        "name": "薄康柔",
+        "lastupdate_time": "2024-03-08-07-53-53",
+        "gender": "",
+        "age": 26,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2020",
+            "company_name": "赤雪设计公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "设计师",
+            "start_time_month": "07"
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [],
+        "skills": [
+            "Web",
+            "App",
+            "Jquery",
+            "Office",
+            "策划",
+            "足球",
+            "HTML/CSS",
+            "Photoshop",
+            "JavaScript",
+            "Illustrator",
+            "交互设计",
+            "艺术设计",
+            "产品开发",
+            "需求分析"
+        ],
+        "self_evaluation": "深度互联网从业人员，对互联网保持高度的敏感性和关注度，熟悉产品开发流\n程，有很强的产品规划、需求分析、交互设计能力，能独立承担 APP 和 WEB\n项目的管控工作，善于沟通，贴近用户。\n善于独立思考，有良好的接受能力和学习能力，以及遇到问题解决问题的能力。\n有团结精神，能吃苦，有上进心。具备一定的项目开发和管理经验，具有高度\n的团队合作精神及良好的团队经营合作经验。\n薄康柔",
+        "awards": [
+            "挑战杯创业计划大赛省级铜奖",
+            "获得国家奖学金",
+            "荣获休休干部",
+            "类三等奖"
+        ],
+        "it_skills": [
+            "Office",
+            "HTML/CSS",
+            "Photoshop",
+            "JavaScript"
+        ],
+        "business_skills": [
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

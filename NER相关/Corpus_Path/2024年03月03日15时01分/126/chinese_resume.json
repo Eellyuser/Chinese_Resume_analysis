@@ -1,0 +1,152 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "15812344321",
+        "QQ": "",
+        "wechat": "",
+        "email": "songhe@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "广州白云学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "电子商务概论，数据结构，专业英语，市场营销，网页设计，国际贸易",
+            "start_time_year": "2014",
+            "location": "广东省广州市",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-广东-广州",
+        "current_location": "广东广州",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1996",
+        "birthplace_norm": "",
+        "num_work_experience": 6,
+        "current_position": "市场营销",
+        "work_start_year": "2018",
+        "political_status": "",
+        "current_company": "软通动力科技有限公司",
+        "school_name": "广州白云学院",
+        "ethnic": "",
+        "recent_graduate_year": "2018",
+        "name": "宋合",
+        "lastupdate_time": "2024-03-08-07-52-01",
+        "gender": "",
+        "age": 28,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "⚫ 主负责公司线上端资源的销售工作，公司主要资源以广点通、智慧推、小米、360、沃门户等。\n⚫ 实时了解行业的变化，跟踪客户的详细数据，为客户定制更完善的投放计划，合作过的客户有（珍爱网、世纪佳\n⚫ 主负责公司线上端资源的销售工作，公司主要资源以广点通、智慧推、小米、360、沃门户等。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "市场营销"
+            ],
+            "company_type": "",
+            "industry": "软件外包",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2020",
+            "company_name": "软通动力科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "市场营销",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": "⚫ 主负责公司线上端资源的销售工作，公司主要资源以广点通、智慧推、小米、360、沃门户等。\n⚫ 实时了解行业的变化，跟踪客户的详细数据，为客户定制更完善的投放计划，合作过的客户有（珍爱网、\n⚫ 主负责公司线上端资源的销售工作，公司主要资源以广点通、智慧推、小米、360、沃门户等。",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "skills": [
+                "市场营销"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2018",
+            "company_name": "雄艺科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "市场营销",
+            "start_time_month": "07"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [
+            "全国计算机二级",
+            "大学英语四六级"
+        ],
+        "skills": [
+            "Ui",
+            "Web",
+            "App",
+            "电商",
+            "Office",
+            "策划",
+            "运营",
+            "网络营销",
+            "国际贸易",
+            "数据结构",
+            "需求分析",
+            "电子商务",
+            "网页设计",
+            "产品开发",
+            "市场营销"
+        ],
+        "self_evaluation": "",
+        "awards": [],
+        "it_skills": [
+            "Office"
+        ],
+        "business_skills": [
+            "Office",
+            "电子商务"
+        ]
+    },
+    "resume_rawtext": ""
+}

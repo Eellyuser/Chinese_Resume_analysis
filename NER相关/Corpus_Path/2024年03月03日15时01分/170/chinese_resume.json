@@ -1,0 +1,168 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "",
+        "wechat": "",
+        "email": "",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "平面设计",
+            "degree": "中专",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "石家庄文化传媒学校",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "平面设计",
+            "start_time_year": "2015",
+            "location": "石家庄",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "平面设计",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "上海",
+        "degree": "中专",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "中级",
+        "national_identity_number": "",
+        "date_of_birth": "2000",
+        "birthplace_norm": "中国-上海-上海",
+        "num_work_experience": 6,
+        "current_position": "平面设计师",
+        "work_start_year": "2018",
+        "political_status": "",
+        "current_company": "影鲜设计顾问有限公司",
+        "school_name": "石家庄文化传媒学校",
+        "ethnic": "汉族",
+        "recent_graduate_year": "2018",
+        "name": "何甄",
+        "lastupdate_time": "2024-03-08-08-05-52",
+        "gender": "",
+        "age": 24,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "◼ 对公司的网站后台周期性的修改和维护\n◼ 对公司所有的宣传广告全程负责一直到完成阶段",
+            "end_time_year": "2023",
+            "still_active": 0,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "服务业",
+            "end_time_month": "01",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2021",
+            "company_name": "影鲜设计顾问有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": "◼ 对公司的网站后台周期性的修改和维护\n◼ 对公司所有的宣传广告全程负责一直到完成阶段",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "服务业",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2019",
+            "company_name": "星彩设计顾问有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": "◼ 对公司的网站后台周期性的修改和维护\n◼ 对公司所有的宣传广告全程负责一直到完成阶段",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "服务业",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2018",
+            "company_name": "卿勉设计顾问有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "07"
+        }
+    ],
+    "others": {
+        "language": [
+            "粤语",
+            "英语四六级证",
+            "日语",
+            "英语"
+        ],
+        "certificate": [
+            "英语四六级证书"
+        ],
+        "skills": [
+            "Adobe",
+            "粤语",
+            "日语",
+            "Photoshop",
+            "MS Office",
+            "Illustrator",
+            "平面设计"
+        ],
+        "self_evaluation": "",
+        "awards": [],
+        "it_skills": [
+            "Photoshop",
+            "MS Office"
+        ],
+        "business_skills": [
+            "MS Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

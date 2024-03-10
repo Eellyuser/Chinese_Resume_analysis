@@ -1,0 +1,60 @@
+{
+  "name": "蔡佳蓉",
+  "career_objective": "互联网软件开发工程师",
+  "self_evaluation": "具有良好的自我学习能力，专业知识扎实，积极的工作态度，能独立工作，具备团队精神。",
+  "basic_information": {
+    "birth_date": "1990/12/12",
+    "phone": "13588888888",
+    "email": "caijiarong@qq.com",
+    "address": "广东广州"
+  },
+  "education_background": [
+    {
+      "time": "2008.9-2012.6",
+      "school": "汕头大学",
+      "major": "计算机科学",
+      "degree": "本科"
+    }
+  ],
+  "work_experience": [
+    {
+      "time": "2019.7-至今",
+      "company": "上海索易互联网公司",
+      "position": "网络部",
+      "project_name": "爱存爱贷项目（P2P线上平台）",
+      "software_environment": "jdk+tomcat+spring+hibernate+struts2",
+      "database": "Mysql",
+      "description": "负责爱存爱贷项目功能的维护及页面的重新设计和编写。"
+    },
+    {
+      "time": "2015.7-2019.7",
+      "company": "优曼互联网公司",
+      "position": "软件工程师",
+      "project_name": "济医附院绩效考核系统",
+      "software_environment": "jdk+tomcat+spring+ibatis+struts1",
+      "description": "负责病例分型及绩效得分计算。"
+    },
+    {
+      "time": "2012.7-2015.7",
+      "company": "宝山软件有限公司",
+      "position": "软件工程师",
+      "project_name": "济医附院绩效考核系统",
+      "software_environment": "jdk+tomcat+spring+ibatis+struts1",
+      "description": "负责病例分型及绩效得分计算。"
+    }
+  ],
+  "skills_and_certifications": [
+    "MYSQL",
+    "TOMCAT",
+    "Java",
+    "Linux",
+    "Windows/UNIX编程",
+    "图形图像学"
+  ],
+  "honors": [
+    "优秀班干",
+    "宣传部长",
+    "全国大学生广告艺术设计大赛广东赛区平面作品类三等奖"
+  ],
+  "interests": "详细信息未提供"
+}

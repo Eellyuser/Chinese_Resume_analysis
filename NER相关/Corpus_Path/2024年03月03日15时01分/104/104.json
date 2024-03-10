@@ -1,0 +1,81 @@
+{
+  "name": "AI汪喜祥GUANYUELAN",
+  "career_objective": "Interested in finance-related positions, with a personality described as honest, patient, diligent, responsible, adaptable, with a strong team spirit and overall quality. Has a strong interest in graphic design.",
+  "work_experience": [
+    {
+      "time": "2018.7-2023.3",
+      "org": "奇宏设计信息科技有限公司",
+      "work_desc": "Involved in accounting fundamentals, tax law, cost accounting, financial accounting, computerized accounting, special accounting issues, intermediate financial management, and accounting report preparation."
+    },
+    {
+      "time": "2015.7-2018.7",
+      "org": "朗赛设计信息科技有限公司",
+      "work_desc": "Similar responsibilities as above."
+    },
+    {
+      "time": "2012.7-2015.7",
+      "org": "宏森设计信息科技有限公司",
+      "work_desc": "Similar responsibilities as above."
+    }
+  ],
+  "personal_info": {
+    "age": 32,
+    "tel": "13800138000",
+    "email": "224438888@qq.com",
+    "live": "Guangdong Province, Guangzhou City"
+  },
+  "education": [
+    {
+      "time": "2009-2012",
+      "school": "佛山一中",
+      "degree": "High School",
+      "edu_desc": "Science major"
+    },
+    {
+      "time": "2013.3-2013.6",
+      "school": "小鹅通软件培训机构",
+      "degree": "Training",
+      "edu_desc": "Attended advertising art design training"
+    }
+  ],
+  "awards": [
+    {
+      "time": "2014/03",
+      "award": "First Prize in Advertising Design"
+    },
+    {
+      "time": "2014/06",
+      "award": "First Prize in Advertising Design"
+    },
+    {
+      "time": "2014/09",
+      "award": "First Prize in Advertising Design"
+    },
+    {
+      "time": "2016/03",
+      "award": "First Prize in Advertising Design"
+    },
+    {
+      "time": "2016/06",
+      "award": "First Prize in College Student Advertising Design"
+    },
+    {
+      "time": "2016/09",
+      "award": "First Prize in Advertising Design"
+    },
+    {
+      "time": "2018/03",
+      "award": "First Prize in Advertising Design"
+    },
+    {
+      "time": "2018/06",
+      "award": "First Prize in Advertising Design"
+    },
+    {
+      "time": "2018/09",
+      "award": "First Prize in Advertising Design"
+    }
+  ],
+  "skills": "Proficient in Illustrator, jQuery, InDesign, Flash, AfterEffect, HTML/CSS",
+  "interests": "Swimming, basketball, movies, writing, photography, and running"
+}

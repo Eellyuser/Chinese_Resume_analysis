@@ -1,0 +1,239 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "ILLUSTRATOR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "广告设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "网络推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "运维",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "CI",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "CI",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "CI",
+                "type": "professional_skill",
+                "subclass": "常用软件"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "蓝天集团-运营",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "大专学历",
+                "type": "degree"
+            },
+            {
+                "tag": "市场营销",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "22到26岁",
+                "type": "age"
+            },
+            {
+                "tag": "中共党员",
+                "type": "political_status"
+            },
+            {
+                "tag": "广东深圳",
+                "type": "current_location"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "面作品类三等奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [],
+        "others": [
+            "有丰富的运营经验，对媒体推广、策划、运营、市场推广、广告策划、宣传、网络推广等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "技术达标"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 9,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.46244843181015866,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "网站运营",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.29292643932771667,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "编辑运营",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2446251288621246,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "淘宝运营",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": 24,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 9,
+        "leadership": 7,
+        "workexp": 5.6,
+        "education": 6,
+        "honor": 6
+    },
+    "predicted_skills": [
+        {
+            "skill": "运营",
+            "score": 0.9
+        },
+        {
+            "skill": "illustrator",
+            "score": 0.7
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "广告设计",
+            "score": 0.7
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "word",
+            "score": 0.7
+        },
+        {
+            "skill": "网络推广",
+            "score": 0.7
+        },
+        {
+            "skill": "运维",
+            "score": 0.7
+        },
+        {
+            "skill": "策划",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        },
+        {
+            "skill": "ci",
+            "score": 0.7
+        },
+        {
+            "skill": "美术",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.2341969758272171,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间3年8个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

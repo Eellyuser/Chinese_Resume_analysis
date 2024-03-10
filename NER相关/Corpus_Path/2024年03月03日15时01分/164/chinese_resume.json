@@ -1,0 +1,169 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13588888888",
+        "QQ": "",
+        "wechat": "",
+        "email": "service@500d.me",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "广告摄影、三维动画基础、CI 设计与制作、 2019.7-2020.7 天光科技集团 市场部实习生\n多媒体影视制作、中外美术史、艺术概论、\n协助筹备“不可思议”大型市场推广州站系列活动；作为品牌大使向观众、来\n平面广告设计、广告策划、计算机文化基础、\n宾媒体推广品牌；\n广告传播学。",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "end_time_month": "07",
+            "organization_name": "招新等运维活动",
+            "start_time_year": "2019",
+            "location": "",
+            "department": "",
+            "job_title": "设计与制作、",
+            "start_time_month": "07"
+        },
+        {
+            "description": "负责社团组织建设，社团机构的管理，协调各部工作;组织策划社团的成立大会、\n招新等运维活动;",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "学生会",
+            "start_time_year": "2017",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "03"
+        },
+        {
+            "description": "负责社团组织建设，社团机构的管理，协调各部工作;组织策划社团的成立大会、\n 大学一直担任班长 ， 荣获“优秀班干” 招新等运维活动;\n 在校园创业者协会担任“宣传部长”\n 2011 年荣获第四届全国大学生广告艺术\n设计大赛山东赛区平 面作品类三等奖。",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "职业发展社",
+            "start_time_year": "2017",
+            "location": "",
+            "department": "",
+            "job_title": "社长",
+            "start_time_month": "03"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "大专",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "12",
+            "school_name": "深圳职业学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "市场调查与预测，国际市场营销，基本会计，市场营销，心理学，统计学",
+            "start_time_year": "1998",
+            "location": "广东深圳",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "12"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-广东-深圳",
+        "current_location": "广东深圳",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "大专",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1998-12-12",
+        "birthplace_norm": "",
+        "num_work_experience": 8,
+        "current_position": "蓝天集团-运营",
+        "work_start_year": "2020",
+        "political_status": "党员",
+        "current_company": "蓝天集团",
+        "school_name": "深圳职业学院",
+        "ethnic": "",
+        "recent_graduate_year": "2016",
+        "name": "陈嘉惠",
+        "lastupdate_time": "2024-03-08-08-03-51",
+        "gender": "",
+        "age": 26,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "2022",
+            "still_active": 0,
+            "skills": [
+                "运营"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "公关/媒介",
+            "start_time_year": "2020",
+            "company_name": "蓝天集团",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "蓝天集团-运营",
+            "start_time_month": "08"
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [],
+        "skills": [
+            "Ci",
+            "Word",
+            "Resume",
+            "运营",
+            "策划",
+            "营销",
+            "会计",
+            "摄影",
+            "运维",
+            "平面",
+            "美术",
+            "Personal",
+            "Photoshop",
+            "心理学",
+            "Illustrator",
+            "国际贸易",
+            "广告设计",
+            "市场营销",
+            "网络推广"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "面作品类三等奖"
+        ],
+        "it_skills": [
+            "Photoshop"
+        ],
+        "business_skills": [
+            "Word",
+            "会计",
+            "网络推广"
+        ]
+    },
+    "resume_rawtext": ""
+}

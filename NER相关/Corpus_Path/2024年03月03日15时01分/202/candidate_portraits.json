@@ -1,0 +1,223 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "宣传广告",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "宣传广告",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "ILLUSTRATOR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ADOBE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "平面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "家居设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "服务业",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "设计师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "设计",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "粤语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "英语四六级证书",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5.5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 6,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 9,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5.5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.45794480912788327,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.29591132676283793,
+            "title": {
+                "l2": "服务业",
+                "l3": "导游",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.29354481513933517,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "建筑装潢",
+                "l1": "房产/建筑/物业管理"
+            }
+        },
+        {
+            "score": 0.26536994423792515,
+            "title": {
+                "l2": "市场",
+                "l3": "SEO",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2485103757327816,
+            "title": {
+                "l2": "市场",
+                "l3": "广告创意",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.23871872899923702,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "柜员",
+                "l1": "金融"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 50.5,
+        "average_industry_time": 50.5,
+        "average_work_time": 50.5,
+        "work_stability": "跳槽频繁"
+    },
+    "predicted_capability": {
+        "language": 8,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 8,
+        "education": 5,
+        "honor": 6
+    },
+    "predicted_skills": [
+        {
+            "skill": "宣传广告",
+            "score": 1
+        },
+        {
+            "skill": "illustrator",
+            "score": 0.7
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "adobe",
+            "score": 0.7
+        },
+        {
+            "skill": "平面设计",
+            "score": 0.7
+        },
+        {
+            "skill": "家居设计",
+            "score": 0.7
+        },
+        {
+            "skill": "粤语",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.2045104056596756,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间0年6个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

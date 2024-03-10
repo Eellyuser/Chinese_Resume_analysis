@@ -1,0 +1,150 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "",
+        "wechat": "",
+        "email": "",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "本科",
+            "end_time_year": "2013",
+            "still_active": 0,
+            "school_rank": "68",
+            "school_level": "211",
+            "end_time_month": "07",
+            "school_name": "合肥工业大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "国际市场营销，消费者行为学，宏观经济学，微观经济学，市场营销，财务管理，统计学，管理学，经济法，会计学",
+            "start_time_year": "2009",
+            "location": "合肥",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-安徽-合肥",
+        "current_location": "安徽合肥",
+        "expect_location_norm": "",
+        "desired_salary": "4-6k合肥体重90kg",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "资深",
+        "national_identity_number": "",
+        "date_of_birth": "1991-04-06",
+        "birthplace_norm": "",
+        "num_work_experience": 11,
+        "current_position": "市场营销",
+        "work_start_year": "2013",
+        "political_status": "团员",
+        "current_company": "元卓科技有限公司",
+        "school_name": "合肥工业大学",
+        "ethnic": "汉族",
+        "recent_graduate_year": "2013",
+        "name": "冯成轩",
+        "lastupdate_time": "2024-03-08-07-54-12",
+        "gender": "女",
+        "age": 33,
+        "marital_status": "未婚",
+        "current_status": "",
+        "school_type": "211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "工作描述:\n⚫ 公司线上端资源的销售工作，公司主要资源以广点通、智慧推、小米、360、沃门户等\n⚫ 经实时了解行业的变化，跟踪客户的详细数据，为客户定制更完善的投放计划，合作过的客户有（珍爱网、世纪\n佳缘、56 视频、京东等客户）",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "市场营销"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2018",
+            "company_name": "元卓科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "市场营销",
+            "start_time_month": "09"
+        },
+        {
+            "salary": "",
+            "description": "工作描述:\n⚫ 主负责公司线上端资源的销售工作，公司主要资源以广点通、智慧推、小米、360、沃门户等。\n⚫ 实时了解行业的变化，跟踪客户的详细数据，为客户定制更完善的投放计划，合作过的客户有（珍爱网、世纪佳\n缘、56 视频、京东等客户）",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "skills": [
+                "市场营销"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "09",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2013",
+            "company_name": "凯佳科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "市场营销",
+            "start_time_month": "09"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [
+            "全国计算机二级",
+            "大学英语四六级",
+            "英语四六级",
+            "计算机二级"
+        ],
+        "skills": [
+            "Web",
+            "App",
+            "会计",
+            "Office",
+            "经济学",
+            "管理学",
+            "财务管理",
+            "宏观经济",
+            "产品开发",
+            "需求分析",
+            "市场营销"
+        ],
+        "self_evaluation": "唉\n深度互联网从业人员，对互联网保持高度的敏感性和关注度，熟悉产品开发流程，有很强的产品规划，需求分析，互\n交设计能力，能独立承担，APP 和 WEB 项目的管控工作，善于沟通，贴近用户。",
+        "awards": [],
+        "it_skills": [
+            "Office"
+        ],
+        "business_skills": [
+            "会计",
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

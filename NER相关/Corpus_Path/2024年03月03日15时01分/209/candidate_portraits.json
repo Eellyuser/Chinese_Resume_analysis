@@ -1,0 +1,227 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "WPS",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "ADOBE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "机动车驾驶",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "公共关系",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "协调能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "教育培训",
+                "type": "industry"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "企业管理",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "男",
+                "type": "gender"
+            },
+            {
+                "tag": "22到26岁",
+                "type": "age"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "专业技能证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "机动车驾驶证",
+                "type": "certificate"
+            },
+            {
+                "tag": "英语四级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "业计划移动专项赛银奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通"
+        ],
+        "tags": [
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5.5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 6,
+        "人事/行政/高级管理": 7,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 7.5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.34408590676670425,
+            "title": {
+                "l2": "项目管理",
+                "l3": "项目经理",
+                "l1": "项目/质量/高级管理"
+            }
+        },
+        {
+            "score": 0.33307433225052224,
+            "title": {
+                "l2": "市场",
+                "l3": "广告客户",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.32283976098277356,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "基金经理",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.27072245918411436,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "银行客户管理",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.2695707884467819,
+            "title": {
+                "l2": "市场",
+                "l3": "广告传媒影视",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2597067523691038,
+            "title": {
+                "l2": "咨询",
+                "l3": "咨询顾问",
+                "l1": "咨询/法律/教育/翻译"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 4,
+        "average_industry_time": null,
+        "average_work_time": 4,
+        "work_stability": "跳槽频繁"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 5.6,
+        "education": 6.5,
+        "honor": 9
+    },
+    "predicted_skills": [
+        {
+            "skill": "wps",
+            "score": 0.8
+        },
+        {
+            "skill": "adobe",
+            "score": 0.7
+        },
+        {
+            "skill": "机动车驾驶",
+            "score": 0.7
+        },
+        {
+            "skill": "公共关系",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "策划",
+            "score": 0.7
+        },
+        {
+            "skill": "推广",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "6000_to_8000",
+    "predicted_turnover": 0.327156662940979,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

@@ -1,0 +1,288 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "INDESIGN",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "论坛推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "策划网站",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "宣传活动策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "微信公众平台",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "合作能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "执行力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "团队合作",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "文化/体育/娱乐/社交",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "推广组实习生",
+                "type": "job_title"
+            },
+            {
+                "tag": "宣传科实习生",
+                "type": "job_title"
+            },
+            {
+                "tag": "龙头互联网企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "汉语言文学",
+                "type": "major"
+            },
+            {
+                "tag": "985工程院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "22到26岁",
+                "type": "age"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            }
+        ],
+        "others": [
+            {
+                "tag": "汉语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "移动杯校园营销大赛团体第一名",
+                "type": "award"
+            },
+            {
+                "tag": "个学年获国家一等奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "最佳创意奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "龙头互联网企业从业经历"
+        ],
+        "education": [
+            "院校背景不错，本科学历，毕业于985院校"
+        ],
+        "others": [
+            "有丰富的运营经验，对运营、广告策划、策划、宣传、活动策划等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "名企经历",
+            "国内985/211",
+            "技术达标"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5.5,
+        "其他": 9,
+        "工程师": 5,
+        "运营/客服/销售/市场": 6,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5.5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.3163588452787227,
+            "title": {
+                "l2": "市场",
+                "l3": "广告会展",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.3078498113938153,
+            "title": {
+                "l2": "市场",
+                "l3": "广告媒介",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2489107702232432,
+            "title": {
+                "l2": "生产/采购/物流",
+                "l3": "网站相关",
+                "l1": "采购/贸易/交通/物流"
+            }
+        },
+        {
+            "score": 0.2347303844980341,
+            "title": {
+                "l2": "服务业",
+                "l3": "娱乐服务",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.21399347231996996,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "记者",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.11815671628621494,
+            "title": {
+                "l2": "市场",
+                "l3": "广告策划",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 9.25,
+        "average_industry_time": 12.333333333333334,
+        "average_work_time": 9.25,
+        "work_stability": "跳槽频繁"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 8.5,
+        "leadership": 6,
+        "workexp": 6.2,
+        "education": 8,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "写作",
+            "score": 0.8
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "indesign",
+            "score": 0.7
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "论坛推广",
+            "score": 0.7
+        },
+        {
+            "skill": "策划网站",
+            "score": 0.7
+        },
+        {
+            "skill": "软文",
+            "score": 0.7
+        },
+        {
+            "skill": "摄像",
+            "score": 0.7
+        },
+        {
+            "skill": "运营",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        },
+        {
+            "skill": "宣传活动策划",
+            "score": 0.5
+        },
+        {
+            "skill": "微信公众平台",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": 0.2742628753185272,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

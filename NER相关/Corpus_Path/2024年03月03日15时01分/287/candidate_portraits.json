@@ -1,0 +1,266 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "现场施工管理",
+                "type": "professional_skill",
+                "subclass": "建筑工程"
+            },
+            {
+                "tag": "审核设计",
+                "type": "professional_skill",
+                "subclass": "审计"
+            },
+            {
+                "tag": "室内装修",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "装修设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "设计管理",
+                "type": "professional_skill",
+                "subclass": "管理"
+            },
+            {
+                "tag": "成本管理",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "工程施工",
+                "type": "professional_skill",
+                "subclass": "建筑工程"
+            },
+            {
+                "tag": "施工图",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "室内装饰设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "3DMAX",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "工程预算",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "室内设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "CAD",
+                "type": "professional_skill",
+                "subclass": "工业设计"
+            },
+            {
+                "tag": "PS",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "室内装饰设计师",
+                "type": "job_title"
+            },
+            {
+                "tag": "设计助理",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "室内设计",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": []
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 9,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5.5,
+        "工程师": 5.5,
+        "运营/客服/销售/市场": 6,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.34639759581506935,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "建筑装潢",
+                "l1": "房产/建筑/物业管理"
+            }
+        },
+        {
+            "score": 0.2602743365309284,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.19332806765400223,
+            "title": {
+                "l2": "项目管理",
+                "l3": "建筑项目管理",
+                "l1": "项目/质量/高级管理"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": 50.5,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 5
+    },
+    "predicted_skills": [
+        {
+            "skill": "现场施工管理",
+            "score": 1
+        },
+        {
+            "skill": "审核设计",
+            "score": 1
+        },
+        {
+            "skill": "室内装修",
+            "score": 1
+        },
+        {
+            "skill": "装修设计",
+            "score": 1
+        },
+        {
+            "skill": "设计管理",
+            "score": 1
+        },
+        {
+            "skill": "成本管理",
+            "score": 1
+        },
+        {
+            "skill": "工程施工",
+            "score": 1
+        },
+        {
+            "skill": "施工图",
+            "score": 1
+        },
+        {
+            "skill": "室内装饰设计",
+            "score": 0.7
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "3dmax",
+            "score": 0.7
+        },
+        {
+            "skill": "工程预算",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        },
+        {
+            "skill": "室内设计",
+            "score": 0.7
+        },
+        {
+            "skill": "cad",
+            "score": 0.7
+        },
+        {
+            "skill": "ps",
+            "score": 0.7
+        },
+        {
+            "skill": "制图",
+            "score": 0.7
+        },
+        {
+            "skill": "手绘",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "15000_to_20000",
+    "predicted_turnover": 0.21024902164936066,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间2年5个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

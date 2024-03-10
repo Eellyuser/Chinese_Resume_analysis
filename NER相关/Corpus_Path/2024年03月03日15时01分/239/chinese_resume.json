@@ -1,0 +1,163 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "",
+        "wechat": "",
+        "email": "123456@139.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "人格心理 本科 2013---2017\n学广东第二师范学院 \n社会心理 负责社团组织建设，社团机构的管理，协调各部门工作组织策划社团的 \n学发展与 成立大会、竞选会、团队培训、招新等运维活动。 \n工作经历",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "成立大会",
+            "start_time_year": "2013",
+            "location": "",
+            "department": "",
+            "job_title": "人格心理",
+            "start_time_month": "01"
+        },
+        {
+            "description": "",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "end_time_month": "03",
+            "organization_name": "荣誉奖项",
+            "start_time_year": "2020",
+            "location": "",
+            "department": "",
+            "job_title": "心理咨询师",
+            "start_time_month": "09"
+        },
+        {
+            "description": "",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "学年度“优秀共青团干部”",
+            "start_time_year": "2013",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "01"
+        },
+        {
+            "description": "负责社团组织建设，社团机构的管理，协调各部门工作组织策划社团的\n干部”称号\n成立大会、竞选会、团队培训、招新等运维活动。",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "年度“优秀素质拓展",
+            "start_time_year": "2013",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "01"
+        },
+        {
+            "description": "",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "学年度“志愿服务工作积极",
+            "start_time_year": "2014",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "01"
+        },
+        {
+            "description": "黎雅咨询机构\n负责社团组织建设，社团机构的管理，协调各部门工作组织策划社团的\n成立大会、竞选会、团队培训、招新等运维活动。",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "end_time_month": "03",
+            "organization_name": "第13届挑战杯广东大学生",
+            "start_time_year": "2015",
+            "location": "广东",
+            "department": "",
+            "job_title": "心理咨询师",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "",
+            "degree": "硕士",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "广东第二师范学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2017",
+            "location": "广州",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "硕士",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "",
+        "birthplace_norm": "",
+        "num_work_experience": 4,
+        "current_position": "",
+        "work_start_year": "2020",
+        "political_status": "",
+        "current_company": "",
+        "school_name": "广东第二师范学院",
+        "ethnic": "",
+        "recent_graduate_year": "2020",
+        "name": "倪怡芳",
+        "lastupdate_time": "2024-03-08-08-27-23",
+        "gender": "",
+        "age": null,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [],
+        "certificate": [
+            "心理咨询师"
+        ],
+        "skills": [
+            "策划",
+            "运维",
+            "心理学",
+            "心理咨询"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "优秀共青团干部"
+        ],
+        "it_skills": [],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

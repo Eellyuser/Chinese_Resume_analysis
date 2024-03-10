@@ -1,0 +1,94 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "表达能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "积极主动",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "初级",
+                "type": "level"
+            }
+        ],
+        "others": [
+            {
+                "tag": "普通话水平二级甲等",
+                "type": "certificate"
+            },
+            {
+                "tag": "教师资格证书",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [],
+        "others": [],
+        "tags": []
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 5,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "普通话",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": null,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "AFTER EFFECTS",
+                "type": "professional_skill",
+                "subclass": "影视"
+            },
+            {
+                "tag": "ILLUSTRATOR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "DREAMWEAVER",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "INDESIGN",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "CHINESE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "运维",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "管理经验",
+                "type": "management"
+            }
+        ],
+        "education": [],
+        "basic": [
+            {
+                "tag": "初级",
+                "type": "level"
+            }
+        ],
+        "others": [
+            {
+                "tag": "挑战杯创业计划大赛省级铜奖",
+                "type": "award"
+            },
+            {
+                "tag": "挑战杯创业计划大赛省级奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "拥有良好的团队建设能力与协调能力,具有优秀的团队管理能力,积累了一定团队管理经验与能力"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "管理经验"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 9,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.5492248862687641,
+            "title": {
+                "l2": "行政/高级管理",
+                "l3": "高级人事管理",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.2980509842392417,
+            "title": {
+                "l2": "教育",
+                "l3": "学校行政/咨询/法律/教育/科研/教师/校长",
+                "l1": "咨询/法律/教育/翻译"
+            }
+        },
+        {
+            "score": 0.15272412949199415,
+            "title": {
+                "l2": "市场",
+                "l3": "广告创意",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": 12,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 8.5,
+        "leadership": 7,
+        "workexp": 5.6,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "after effects",
+            "score": 0.7
+        },
+        {
+            "skill": "illustrator",
+            "score": 0.7
+        },
+        {
+            "skill": "dreamweaver",
+            "score": 0.7
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "indesign",
+            "score": 0.7
+        },
+        {
+            "skill": "chinese",
+            "score": 0.7
+        },
+        {
+            "skill": "运维",
+            "score": 0.7
+        },
+        {
+            "skill": "运营",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": null,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

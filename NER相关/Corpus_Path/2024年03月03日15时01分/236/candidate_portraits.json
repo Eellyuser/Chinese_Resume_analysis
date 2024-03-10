@@ -1,0 +1,293 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "平面设计软件",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "策划方案",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "创意设计",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "客户沟通",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            },
+            {
+                "tag": "项目管理",
+                "type": "professional_skill",
+                "subclass": "项目管理"
+            },
+            {
+                "tag": "EXCEL",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "FLASH",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "ILLUSTRATOR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "CORELDRAW",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ANDROID",
+                "type": "professional_skill",
+                "subclass": "安卓开发"
+            },
+            {
+                "tag": "计算机辅助设计",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "3DMAX",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "IOS",
+                "type": "professional_skill",
+                "subclass": "ios开发"
+            },
+            {
+                "tag": "UI",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "沟通能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "文化/体育/娱乐/社交",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告设计",
+                "type": "standard_title"
+            },
+            {
+                "tag": "平面设计师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "硕士学历",
+                "type": "degree"
+            },
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "平面设计",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "广东广州",
+                "type": "current_location"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "征集活动入围奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "拥有硕士学位"
+        ],
+        "others": [],
+        "tags": [
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 9,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 7.5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8.4,
+        "education": 7,
+        "honor": 6
+    },
+    "predicted_skills": [
+        {
+            "skill": "平面设计软件",
+            "score": 1
+        },
+        {
+            "skill": "策划方案",
+            "score": 1
+        },
+        {
+            "skill": "办公软件",
+            "score": 1
+        },
+        {
+            "skill": "创意设计",
+            "score": 1
+        },
+        {
+            "skill": "客户沟通",
+            "score": 1
+        },
+        {
+            "skill": "沟通能力",
+            "score": 1
+        },
+        {
+            "skill": "项目管理",
+            "score": 1
+        },
+        {
+            "skill": "印刷",
+            "score": 1
+        },
+        {
+            "skill": "excel",
+            "score": 0.8
+        },
+        {
+            "skill": "flash",
+            "score": 0.8
+        },
+        {
+            "skill": "word",
+            "score": 0.8
+        },
+        {
+            "skill": "illustrator",
+            "score": 0.7
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "coreldraw",
+            "score": 0.7
+        },
+        {
+            "skill": "android",
+            "score": 0.7
+        },
+        {
+            "skill": "计算机辅助设计",
+            "score": 0.7
+        },
+        {
+            "skill": "3dmax",
+            "score": 0.7
+        },
+        {
+            "skill": "ios",
+            "score": 0.7
+        },
+        {
+            "skill": "ui",
+            "score": 0.7
+        },
+        {
+            "skill": "美术",
+            "score": 0.7
+        },
+        {
+            "skill": "手绘",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": 0.19542638957500458,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

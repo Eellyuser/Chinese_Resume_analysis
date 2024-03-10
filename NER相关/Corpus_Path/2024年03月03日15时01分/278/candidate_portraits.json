@@ -1,0 +1,288 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "R开发",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "LINUX操作系统",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "WINDOWS",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "MYSQL",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "计算机网络",
+                "type": "professional_skill",
+                "subclass": "计算机基础"
+            },
+            {
+                "tag": "JAVA",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "数据结构",
+                "type": "professional_skill",
+                "subclass": "计算机基础"
+            },
+            {
+                "tag": "J2EE",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "汇编语言",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "JSP",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "C++",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "IOS",
+                "type": "professional_skill",
+                "subclass": "ios开发"
+            },
+            {
+                "tag": "数据库",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "EDA",
+                "type": "professional_skill",
+                "subclass": "硬件开发"
+            },
+            {
+                "tag": "客服",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            },
+            {
+                "tag": "后端开发",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "WRAPPER开发",
+                "type": "job_title"
+            }
+        ],
+        "education": [],
+        "basic": [
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": []
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 8.5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5.5,
+        "互联网": 5.5,
+        "产品": 5,
+        "金融": 7
+    },
+    "predicted_titles": [
+        {
+            "score": 0.42910564754210884,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "银行客户管理",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.3970002617825512,
+            "title": {
+                "l2": "服务业",
+                "l3": "飞机人员",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.2988139777528266,
+            "title": {
+                "l2": "后端开发",
+                "l3": "游戏开发工程师",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.2720803747050646,
+            "title": {
+                "l2": "生产/采购/物流",
+                "l3": "业务跟单",
+                "l1": "采购/贸易/交通/物流"
+            }
+        },
+        {
+            "score": 0.20499107654509496,
+            "title": {
+                "l2": "市场",
+                "l3": "广告拓展",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.19800866167235393,
+            "title": {
+                "l2": "移动开发",
+                "l3": "手机软件开发",
+                "l1": "IT/互联网"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 70,
+        "average_industry_time": null,
+        "average_work_time": 70,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 8.8,
+        "education": 6.5,
+        "honor": 5
+    },
+    "predicted_skills": [
+        {
+            "skill": "pm",
+            "score": 1
+        },
+        {
+            "skill": "r开发",
+            "score": 0.9
+        },
+        {
+            "skill": "运营",
+            "score": 0.8
+        },
+        {
+            "skill": "linux操作系统",
+            "score": 0.7
+        },
+        {
+            "skill": "windows",
+            "score": 0.7
+        },
+        {
+            "skill": "mysql",
+            "score": 0.7
+        },
+        {
+            "skill": "计算机网络",
+            "score": 0.7
+        },
+        {
+            "skill": "java",
+            "score": 0.7
+        },
+        {
+            "skill": "数据结构",
+            "score": 0.7
+        },
+        {
+            "skill": "j2ee",
+            "score": 0.7
+        },
+        {
+            "skill": "汇编语言",
+            "score": 0.7
+        },
+        {
+            "skill": "jsp",
+            "score": 0.7
+        },
+        {
+            "skill": "c++",
+            "score": 0.7
+        },
+        {
+            "skill": "ios",
+            "score": 0.7
+        },
+        {
+            "skill": "数据库",
+            "score": 0.7
+        },
+        {
+            "skill": "eda",
+            "score": 0.7
+        },
+        {
+            "skill": "存储",
+            "score": 0.7
+        },
+        {
+            "skill": "客服",
+            "score": 0.7
+        },
+        {
+            "skill": "后端开发",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "20000_to_30000",
+    "predicted_turnover": 0.19993236660957336,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

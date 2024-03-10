@@ -1,0 +1,152 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "138-1234-4321",
+        "QQ": "123456789",
+        "wechat": "",
+        "email": "123456789@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": " 积极参与学生会的各项活动，与其他干事一起参与各类学生活动的策划；\n 完成其他学生会的工作任务，成功举办多次大型活动，如“迎新晚会”、“送毕业生晚会”等。",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "院学生会",
+            "start_time_year": "2016",
+            "location": "",
+            "department": "",
+            "job_title": "干事",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "本科",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "07",
+            "school_name": "中国社会科学院大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "市场调查与预测，国际市场营销，基本会计，市场营销，统计学",
+            "start_time_year": "2016",
+            "location": "北京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "",
+        "birthplace_norm": "",
+        "num_work_experience": 4,
+        "current_position": "运营实习生",
+        "work_start_year": "2020",
+        "political_status": "",
+        "current_company": "北京乔布科技有限公司",
+        "school_name": "中国社会科学院大学",
+        "ethnic": "",
+        "recent_graduate_year": "2020",
+        "name": "林宗其",
+        "lastupdate_time": "2024-03-08-08-21-08",
+        "gender": "",
+        "age": null,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": " 要负责撰写软文，协助运营执行推广活动 ；\n 负责公司自媒体（如微博、微信公众）的信息发布及维护；\n 业绩: 所负责的微博热点活动参与数量单条超过 1,000 人，获得 1,000 次转发，回复 500 条。",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "skills": [
+                "运营"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "互联网产品/运营管理",
+            "start_time_year": "2020",
+            "company_name": "北京乔布科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "运营实习生",
+            "start_time_month": "07"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语六级",
+            "英语",
+            "普通话"
+        ],
+        "certificate": [
+            "国家计算机二级",
+            "大学英语六级",
+            "普通话二级甲等",
+            "驾照"
+        ],
+        "skills": [
+            "H5",
+            "C1",
+            "会计",
+            "Office",
+            "策划",
+            "运营",
+            "文案",
+            "心理学",
+            "普通话",
+            "活动策划",
+            "沟通能力",
+            "市场营销",
+            "办公软件"
+        ],
+        "self_evaluation": "   有运营实习及活动策划经历，熟悉新媒体渠道和用户；\n   熟悉常用微信编辑器的使用方法，能使用 Maka 等工具制作简单的 H5 页面，也能根据公司要求制定\n新媒体活动方案，并确保活动的良好执行；\n   同时，我具备良好的沟通能力和团队协作能力，能快速融入团队。",
+        "awards": [
+            "获校二等奖学金",
+            "国家励志奖学金",
+            "年获得校综合奖学金"
+        ],
+        "it_skills": [
+            "C1",
+            "Office",
+            "办公软件"
+        ],
+        "business_skills": [
+            "会计",
+            "Office",
+            "办公软件"
+        ]
+    },
+    "resume_rawtext": ""
+}

@@ -1,0 +1,305 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "销售",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "需求分析",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "建设项目",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "功能设计",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "产品开发",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "宏观经济",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "交互设计",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "产品规划",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "WEB",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "电子/通信/硬件",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-市场营销",
+                "type": "standard_title"
+            },
+            {
+                "tag": "软件工程师",
+                "type": "job_title"
+            },
+            {
+                "tag": "市场营销",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "市场营销",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "中共党员",
+                "type": "political_status"
+            },
+            {
+                "tag": "广东深圳",
+                "type": "current_location"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "普通话一级甲等",
+                "type": "certificate"
+            },
+            {
+                "tag": "全国计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-4",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通",
+            "有丰富的产品设计经验，对产品开发、需求分析、交互设计、功能设计、产品规划等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好",
+            "技术达标",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 9,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 8.5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "市场",
+                "l3": "市场营销",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.4665681105867261,
+            "title": {
+                "l2": "后端开发",
+                "l3": "C语言",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.20019489147723069,
+            "title": {
+                "l2": "硬件",
+                "l3": "嵌入式软件",
+                "l1": "硬件/通信"
+            }
+        },
+        {
+            "score": 0.13323699793604324,
+            "title": {
+                "l2": "后端开发",
+                "l3": ".NET",
+                "l1": "IT/互联网"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 57.5,
+        "average_industry_time": 57.5,
+        "average_work_time": 57.5,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6.5,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 8
+    },
+    "predicted_skills": [
+        {
+            "skill": "投放",
+            "score": 1
+        },
+        {
+            "skill": "营销",
+            "score": 1
+        },
+        {
+            "skill": "销售",
+            "score": 1
+        },
+        {
+            "skill": "需求分析",
+            "score": 0.8
+        },
+        {
+            "skill": "策划",
+            "score": 0.8
+        },
+        {
+            "skill": "写作",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "建设项目",
+            "score": 0.7
+        },
+        {
+            "skill": "功能设计",
+            "score": 0.7
+        },
+        {
+            "skill": "产品开发",
+            "score": 0.7
+        },
+        {
+            "skill": "宏观经济",
+            "score": 0.7
+        },
+        {
+            "skill": "交互设计",
+            "score": 0.7
+        },
+        {
+            "skill": "产品规划",
+            "score": 0.7
+        },
+        {
+            "skill": "web",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "施工",
+            "score": 0.7
+        },
+        {
+            "skill": "调研",
+            "score": 0.7
+        },
+        {
+            "skill": "运营",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "15000_to_20000",
+    "predicted_turnover": 0.1885496824979782,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

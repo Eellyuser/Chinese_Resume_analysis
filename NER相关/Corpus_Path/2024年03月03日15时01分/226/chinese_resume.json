@@ -1,0 +1,155 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "1456789",
+        "wechat": "",
+        "email": "1456789@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "1.组织业余活动、服务学生生活文案工作；课堂教学、组织业余活动、生活文案工作；\n2.熟练掌握并加强了组织活动与教学能力；巩固并检验了自己英语学习的知识水平。",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "学院青年志愿者协会财务部",
+            "start_time_year": "2016",
+            "location": "",
+            "department": "",
+            "job_title": "部长",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "护理学",
+            "degree": "本科",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "school_rank": "59",
+            "school_level": "",
+            "end_time_month": "06",
+            "school_name": "南京医科大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2015",
+            "location": "南京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "护理学",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "中级",
+        "national_identity_number": "",
+        "date_of_birth": "1997",
+        "birthplace_norm": "",
+        "num_work_experience": 5,
+        "current_position": "医生",
+        "work_start_year": "2019",
+        "political_status": "",
+        "current_company": "上海赫尔森康复医院",
+        "school_name": "南京医科大学",
+        "ethnic": "",
+        "recent_graduate_year": "2019",
+        "name": "吴韵如",
+        "lastupdate_time": "2024-03-08-08-23-19",
+        "gender": "",
+        "age": 27,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "1.负责神经系统疾病的病情诊断、治疗方案策划、病情追踪、病历书写以及治疗方案变更时的方案建议；\n2.负责特种诊断的诊断确认，例如: 心电图分析、CT 分析、DR 分析；\n3.负责在联合治疗时，科室间的诊断和治疗方案的联系与沟通，以及进度协调。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "策划"
+            ],
+            "company_type": "",
+            "industry": "制药/医疗",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "医院/医疗/护理",
+            "start_time_year": "2020",
+            "company_name": "上海赫尔森康复医院",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "医生",
+            "start_time_month": "09"
+        },
+        {
+            "salary": "",
+            "description": "1.负责各项仪器操作，按时完成诊断报告；参加 会议和临床病例讨论会；\n2.遵守各项规章制度，掌握仪器设备的原理、性能、使用技术，熟悉操作规程，做好防护，防差错工作；",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "skills": [
+                "性能"
+            ],
+            "company_type": "",
+            "industry": "制药/医疗",
+            "end_time_month": "09",
+            "location": "",
+            "company_size": "",
+            "job_function": "医院/医疗/护理",
+            "start_time_year": "2019",
+            "company_name": "南京市华熙医院有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "医生",
+            "start_time_month": "09"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [],
+        "skills": [
+            "文案",
+            "策划",
+            "内科",
+            "财务",
+            "营销",
+            "性能",
+            "Education"
+        ],
+        "self_evaluation": "自我评价        About Me\n本人性格热情开朗，待人友好，为人真诚谦虚。能吃苦耐劳，尽职尽责，有耐心。学习认真，成绩优秀，品学\n兼优 ， 连续三年获得学院奖学金。为人诚恳、脚踏实地 ， 积极进取挑战。有较强的团队精神 ， 工作积极 ， 勤奋\n刻苦，态度认真。抗压能力和强烈的责任感。",
+        "awards": [
+            "年创业杯大赛获得团体比赛铜奖",
+            "年获营销大赛一等奖",
+            "年荣获学院优秀班干部",
+            "年国家奖学金",
+            "连续三年获得学院奖学金"
+        ],
+        "it_skills": [],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

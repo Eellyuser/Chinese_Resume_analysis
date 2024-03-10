@@ -1,0 +1,244 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "管理工作",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "宣传",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "行政",
+                "type": "professional_skill",
+                "subclass": "行政管理"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "公文写作",
+                "type": "professional_skill",
+                "subclass": "行政管理"
+            },
+            {
+                "tag": "WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "协调能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "组织办好公司",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "行政管理",
+                "type": "major"
+            },
+            {
+                "tag": "TOP2院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "TOP10院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "985工程院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "男",
+                "type": "gender"
+            },
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "上海",
+                "type": "current_location"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "国家计算机二级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "英语六级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "国家英语六级",
+                "type": "certificate"
+            },
+            {
+                "tag": "教师资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "会计证书",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "院校背景不错，本科学历，毕业于全国TOP2院校"
+        ],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "国内TOP2",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5.5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 8,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.3640714978630199,
+            "title": {
+                "l2": "行政/高级管理",
+                "l3": "高级管理人员",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.35613622270952877,
+            "title": {
+                "l2": "人事",
+                "l3": "薪酬绩效人事",
+                "l1": "财务/人力资源/行政"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 8.5,
+        "honor": 9
+    },
+    "predicted_skills": [
+        {
+            "skill": "管理工作",
+            "score": 1
+        },
+        {
+            "skill": "宣传",
+            "score": 1
+        },
+        {
+            "skill": "行政",
+            "score": 1
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "公文写作",
+            "score": 0.7
+        },
+        {
+            "skill": "word",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "20000_to_30000",
+    "predicted_turnover": 0.17277932167053223,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间2年3个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

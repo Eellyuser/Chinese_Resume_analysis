@@ -1,0 +1,152 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13156788765",
+        "QQ": "21384795",
+        "wechat": "",
+        "email": "21384795@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "end_time_month": "",
+            "organization_name": "李小爱",
+            "start_time_year": "",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": ""
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "本科",
+            "end_time_year": "",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "",
+            "school_name": "浙江传媒学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "基础会计学，市场营销",
+            "start_time_year": "",
+            "location": "杭州",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": ""
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "中级",
+        "national_identity_number": "",
+        "date_of_birth": "",
+        "birthplace_norm": "",
+        "num_work_experience": 5,
+        "current_position": "置业顾问",
+        "work_start_year": "2019",
+        "political_status": "",
+        "current_company": "碧桂园集团南宁分公司",
+        "school_name": "浙江传媒学院",
+        "ethnic": "",
+        "recent_graduate_year": "",
+        "name": "李小爱",
+        "lastupdate_time": "2024-03-08-08-29-15",
+        "gender": "",
+        "age": null,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "热情接待客户、掌握销售流程，把楼盘的优势突然，吸引客户购房，促进成交做到每日回访客户，周末\n发祝福短语进行维护客户，或邀约到售楼部参加活动以及制定每月销售计划，通过渠道获取更多客户，\n完成当月销售任务。 每个月对竞争项目的市场调查，做分析表，找出优劣势从而更好的为洽谈时多一\n些有力 的数据签合同、按揭资料的准备以及履行售后服务。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "消费/零售",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "房地产开发/经纪/中介",
+            "start_time_year": "2020",
+            "company_name": "碧桂园集团南宁分公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "置业顾问",
+            "start_time_month": "09"
+        },
+        {
+            "salary": "",
+            "description": "接待客户，给客户讲解沙盘，介绍户型，了解客户的意向和购买力，帮助客户选择合适的户型，置业方\n案，主要是促进成交，完成公司安排的任务。 针对不同性格的客户，分析客户、用不同的方式去销\n售。 对于公司的重要销售方案，做好保密工作，遵守营销道德。 遇到客户异议的问题，多想对策，找\n出客户异议的根源，并及时处理。",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "skills": [
+                "营销"
+            ],
+            "company_type": "",
+            "industry": "服务业",
+            "end_time_month": "09",
+            "location": "",
+            "company_size": "",
+            "job_function": "房地产开发/经纪/中介",
+            "start_time_year": "2019",
+            "company_name": "安居客地产咨询有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "置业顾问",
+            "start_time_month": "09"
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [
+            "cet-6",
+            "计算机二级",
+            "高级营销员"
+        ],
+        "skills": [
+            "会计",
+            "营销",
+            "数据分析",
+            "市场营销",
+            "计算机应用"
+        ],
+        "self_evaluation": "爱市场销售工作，有着十分饱满的激情。从事两年房产销售工作并积累了大量的实践经验。\n在工作任职期间做事情认真负责。\n荣誉证书\nCET-6，优秀的听说写能力 计算机二级，熟悉计算机各项操作 高级营销员，国家职业资格四级",
+        "awards": [],
+        "it_skills": [
+            "计算机应用"
+        ],
+        "business_skills": [
+            "会计",
+            "数据分析"
+        ]
+    },
+    "resume_rawtext": ""
+}

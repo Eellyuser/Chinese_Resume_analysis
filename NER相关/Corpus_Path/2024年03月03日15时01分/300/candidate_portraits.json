@@ -1,0 +1,249 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "WPS",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "ADOBE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "机动车驾驶",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "公共关系",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "平面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "协调能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "策划总监",
+                "type": "job_title"
+            },
+            {
+                "tag": "策划专员",
+                "type": "job_title"
+            },
+            {
+                "tag": "管理经验",
+                "type": "management"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "平面设计",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "女",
+                "type": "gender"
+            },
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "专业技能证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "机动车驾驶证",
+                "type": "certificate"
+            },
+            {
+                "tag": "英语四级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "计划移动专项赛银奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "拥有良好的团队建设能力与协调能力,具有优秀的团队管理能力,积累了一定团队管理经验与能力",
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通"
+        ],
+        "tags": [
+            "管理经验",
+            "稳定性高",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 7,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 9,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.5132052932363006,
+            "title": {
+                "l2": "市场",
+                "l3": "广告创意",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.38799637667417286,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "房地产开发",
+                "l1": "房产/建筑/物业管理"
+            }
+        },
+        {
+            "score": 0.2711424522162008,
+            "title": {
+                "l2": "市场",
+                "l3": "广告公关",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2596226811026782,
+            "title": {
+                "l2": "市场",
+                "l3": "广告策划",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.1523809422231489,
+            "title": {
+                "l2": "生产/采购/物流",
+                "l3": "网站相关",
+                "l1": "采购/贸易/交通/物流"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 40,
+        "average_industry_time": null,
+        "average_work_time": 40,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 7.3999999999999995,
+        "education": 6.5,
+        "honor": 9
+    },
+    "predicted_skills": [
+        {
+            "skill": "策划",
+            "score": 1
+        },
+        {
+            "skill": "推广",
+            "score": 0.9
+        },
+        {
+            "skill": "wps",
+            "score": 0.8
+        },
+        {
+            "skill": "adobe",
+            "score": 0.7
+        },
+        {
+            "skill": "机动车驾驶",
+            "score": 0.7
+        },
+        {
+            "skill": "公共关系",
+            "score": 0.7
+        },
+        {
+            "skill": "平面设计",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.24292178452014923,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

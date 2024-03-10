@@ -1,0 +1,53 @@
+{
+  "position_applied_for": "PHP工程师",
+  "tel": "18123456789",
+  "email": "office@microsoft.com",
+  "birthday": "1992.10.11",
+  "name": "张冠杰",
+  "education_background": {
+    "school": "四川旅游学院",
+    "major": "旅游管理专业",
+    "degree": "本科",
+    "time": "2010.09-2014.07",
+    "GPA": "3.7/4.0",
+    "class_rank": "3/30"
+  },
+  "skills": [
+    "熟悉LNMP开发栈",
+    "掌握PHP语言和Yaf开发框架",
+    "熟悉MySQL及SQL性能调试",
+    "熟悉Memcache/Redis等缓存存储技术",
+    "了解XML/HTML/JS/Ajax等Web前端技术"
+  ],
+  "work_experience": [
+    {
+      "company": "去哪儿网",
+      "position": "PHP工程师",
+      "time": "2018.09至今",
+      "description": "负责完成移动产品的架构分析、设计及核心研发，参与后台系统架构、性能、安全、扩展等优化的设计和实现。"
+    },
+    {
+      "company": "途牛网",
+      "position": "PHP工程师",
+      "time": "2015.09-2018.09",
+      "description": "负责网站功能分析，框架设计，整体规划，数据库设计，代码实现，后期测试以及代码优化。"
+    },
+    {
+      "company": "携程网",
+      "position": "PHP工程师",
+      "time": "2014.09-2015.09",
+      "description": "负责服务端功能设计和开发，参与产品功能的优化、重构。"
+    }
+  ],
+  "self_assessment": "重基础，爱突破，重技术，爱钻研，重创新，爱合作，重沟通，爱交流。",
+  "programming_skills": {
+    "PHP": "高级",
+    "C++": "中级",
+    "JAVA": "中级",
+    "CSS": "初级",
+    "HTML": "初级",
+    "Oracle": "初级",
+    "MySQL": "初级",
+    "English": "初级"
+  }
+}

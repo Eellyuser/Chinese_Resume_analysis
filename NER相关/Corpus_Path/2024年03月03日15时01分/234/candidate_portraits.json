@@ -1,0 +1,263 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "营销策略",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "销售策略",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "营销策划",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "策划营销",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "视频制作",
+                "type": "professional_skill",
+                "subclass": "影视"
+            },
+            {
+                "tag": "团队协作",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "团队合作",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "诚实守信",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "分析问题",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "消费/零售",
+                "type": "industry"
+            },
+            {
+                "tag": "服务业",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-销售-销售",
+                "type": "standard_title"
+            },
+            {
+                "tag": "营销策划",
+                "type": "job_title"
+            },
+            {
+                "tag": "销售",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "硕士学历",
+                "type": "degree"
+            },
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "国际管理",
+                "type": "major"
+            },
+            {
+                "tag": "财务管理",
+                "type": "major"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "北京",
+                "type": "current_location"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "国家计算机二级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "会计从业资格证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "会计初级证",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-4",
+                "type": "certificate"
+            },
+            {
+                "tag": "雅思",
+                "type": "certificate"
+            },
+            {
+                "tag": "校级营销策划大赛三等奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "拥有硕士学位",
+            "院校背景不错，硕士学历，毕业于211院校",
+            "院校背景不错，本科学历，毕业于211院校"
+        ],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "国内211",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 6,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 10,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "销售",
+                "l3": "销售",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2912652705948178,
+            "title": {
+                "l2": "市场",
+                "l3": "市场营销",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.1604474378932613,
+            "title": {
+                "l2": "市场",
+                "l3": "广告拓展",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 34,
+        "average_industry_time": 34,
+        "average_work_time": 34,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 6.5,
+        "leadership": 6,
+        "workexp": 6.8,
+        "education": 7.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "营销策略",
+            "score": 0.9
+        },
+        {
+            "skill": "销售策略",
+            "score": 0.9
+        },
+        {
+            "skill": "营销策划",
+            "score": 0.9
+        },
+        {
+            "skill": "策划营销",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "视频制作",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.2534801959991455,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间0年8个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

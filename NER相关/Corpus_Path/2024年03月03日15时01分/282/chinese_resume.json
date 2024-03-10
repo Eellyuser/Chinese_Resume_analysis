@@ -1,0 +1,192 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "18275849320",
+        "QQ": "",
+        "wechat": "",
+        "email": "office@caiyiyun.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "⚫ 组建了考研交流小组和找工作信息分享小组，组织出游江西武功山；\n⚫ 带领班级获得校级先进班级的荣誉称号（学院仅三个名额）",
+            "end_time_year": "2022",
+            "still_active": 0,
+            "end_time_month": "05",
+            "organization_name": "北京大学商学院金融",
+            "start_time_year": "2021",
+            "location": "北京",
+            "department": "",
+            "job_title": "团支部书记",
+            "start_time_month": "09"
+        },
+        {
+            "description": "⚫ 带领 32 名队员 10 次成功挑战团队活动，举办队员交流活动 5 次。",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "北京大学素质拓展课",
+            "start_time_year": "2020",
+            "location": "北京",
+            "department": "",
+            "job_title": "队长",
+            "start_time_month": "09"
+        },
+        {
+            "description": "⚫ 担任院刊《晓晓》的副编辑，成功地组织了《晓晓》发刊会；\n⚫ 担任记者团记者，采访和报道校内重大活动，在院网站发表文章 2 篇。",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "end_time_month": "07",
+            "organization_name": "北京大学商学院学生会宣传部",
+            "start_time_year": "2019",
+            "location": "北京",
+            "department": "",
+            "job_title": "副部长",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "金融学",
+            "degree": "本科",
+            "end_time_year": "2022",
+            "still_active": 0,
+            "school_rank": "2",
+            "school_level": "985 211",
+            "end_time_month": "01",
+            "school_name": "北京大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "金融学",
+            "start_time_year": "2018",
+            "location": "北京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "金融学",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "北京",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "2000",
+        "birthplace_norm": "中国-北京-北京",
+        "num_work_experience": 2,
+        "current_position": "大堂副理",
+        "work_start_year": "2022",
+        "political_status": "团员",
+        "current_company": "中国银行奉贤分行",
+        "school_name": "北京大学",
+        "ethnic": "",
+        "recent_graduate_year": "2022",
+        "name": "蔡宜芸",
+        "lastupdate_time": "2024-03-08-08-40-47",
+        "gender": "女",
+        "age": 24,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "985 211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "⚫ 客户存贷业务咨询；协助客户填写信用卡申请资料、网上银行激活等；\n⚫ 参与会计主管团队 2011 年度支付结算工作调研，并参与编写业务分析和发展报告；\n⚫ 熟悉了银行业务和工作的基本内容，出色完成了领导交付的任务。",
+            "end_time_year": "2023",
+            "still_active": 0,
+            "skills": [
+                "会计"
+            ],
+            "company_type": "",
+            "industry": "金融",
+            "end_time_month": "01",
+            "location": "",
+            "company_size": "",
+            "job_function": "商超/酒店/娱乐管理/服务",
+            "start_time_year": "2022",
+            "company_name": "中国银行奉贤分行",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "大堂副理",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": "⚫ 参加公司成立的筹备工作，负责日常会议的安排和主持，收发快递，资料整理等；\n⚫ 积累了一定的团队管理经验，锻炼了执行能力，能协调统一多项任务。",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "skills": [
+                "主持",
+                "团队管理"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "高级管理",
+            "start_time_year": "2021",
+            "company_name": "金地商务有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "总经理助理",
+            "start_time_month": "06"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语",
+            "英语四级"
+        ],
+        "certificate": [
+            "会计从业资格证",
+            "全国计算机二级",
+            "英语四级",
+            "证券从业资格证"
+        ],
+        "skills": [
+            "会计",
+            "财会",
+            "Office",
+            "主持",
+            "金融学",
+            "羽毛球",
+            "团队管理",
+            "办公软件"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "优秀团队奖",
+            "优秀学生干部"
+        ],
+        "it_skills": [
+            "Office",
+            "办公软件"
+        ],
+        "business_skills": [
+            "会计",
+            "Office",
+            "团队管理",
+            "办公软件"
+        ]
+    },
+    "resume_rawtext": ""
+}

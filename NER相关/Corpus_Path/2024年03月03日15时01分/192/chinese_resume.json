@@ -1,0 +1,146 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "",
+        "wechat": "",
+        "email": "",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "大专",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "07",
+            "school_name": "广州番禺职业技术学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "市场调查与预测，国际市场营销，货币银行学，公共关系学，基本会计，市场营销，国际贸易，统计学，广告学，经济法",
+            "start_time_year": "2015",
+            "location": "广州",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "大专",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1996",
+        "birthplace_norm": "",
+        "num_work_experience": 6,
+        "current_position": "市场部主管",
+        "work_start_year": "2018",
+        "political_status": "",
+        "current_company": "百岛科技集团",
+        "school_name": "广州番禺职业技术学院",
+        "ethnic": "",
+        "recent_graduate_year": "2018",
+        "name": "苏俊安",
+        "lastupdate_time": "2024-03-08-08-12-44",
+        "gender": "",
+        "age": 28,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "⧫ 协助筹备“不可思议”大型市场推广广州站系列活动；\n⧫ 作为品牌大使向观众、来宾和媒体推百岛集团旗下的品牌；\n⧫ 联络各家媒体如南方都市晚报、广州日报，G4 频道对本次活动进行报道；",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2018",
+            "company_name": "百岛科技集团",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "市场部主管",
+            "start_time_month": "08"
+        },
+        {
+            "salary": "",
+            "description": "⧫ 负责社团组织建设，社团机构的管理，协调各部门工作;\n⧫ 组织策划社团的成立大会、竞选会、团队培训、招新等运维活动;",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "skills": [
+                "策划",
+                "运维"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "06",
+            "location": "",
+            "company_size": "",
+            "job_function": "高级管理",
+            "start_time_year": "2016",
+            "company_name": "广州番禺职业技术学院职业发展社",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "社长",
+            "start_time_month": "06"
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [
+            "cet-6"
+        ],
+        "skills": [
+            "会计",
+            "Resume",
+            "策划",
+            "营销",
+            "运维",
+            "国际贸易",
+            "网络推广",
+            "市场营销",
+            "计算机应用"
+        ],
+        "self_evaluation": "⧫    本人是市场营销专业毕业生，有丰富的营销知识体系做基础；\n⧫    对于市场营销方面的前沿和动向有一定的了解，善于分析和吸取经验\n⧫    熟悉网络推广，尤其是社会化媒体方面，有独到的见解和经验\n⧫    个性开朗，容易相处，团队荣誉感强",
+        "awards": [
+            "挑战杯创业计划大赛省级铜奖",
+            "获国家奖学金",
+            "学生创意营销大赛一等奖"
+        ],
+        "it_skills": [
+            "计算机应用"
+        ],
+        "business_skills": [
+            "会计",
+            "网络推广"
+        ]
+    },
+    "resume_rawtext": ""
+}

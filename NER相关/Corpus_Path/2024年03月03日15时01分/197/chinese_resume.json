@@ -1,0 +1,178 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13512344321",
+        "QQ": "",
+        "wechat": "",
+        "email": "liwangjing@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "电气工程及其自动化",
+            "degree": "中专",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "06",
+            "school_name": "上海燎原中等专业学校",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "电子技术基础，电力电子技术，经济学原理，信号与系统，电机学，电路",
+            "start_time_year": "2013",
+            "location": "上海",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "电气工程及其自动化",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-上海-上海",
+        "current_location": "上海",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "中专",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "资深",
+        "national_identity_number": "",
+        "date_of_birth": "1999",
+        "birthplace_norm": "",
+        "num_work_experience": 8,
+        "current_position": "",
+        "work_start_year": "2016",
+        "political_status": "",
+        "current_company": "国家电网上海发电厂",
+        "school_name": "上海燎原中等专业学校",
+        "ethnic": "",
+        "recent_graduate_year": "2016",
+        "name": "李旺劲",
+        "lastupdate_time": "2024-03-08-08-14-17",
+        "gender": "",
+        "age": 25,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "工作内容:\n在电厂参加安规学习，跟随检修组学习、参观车间Th产工作。\n结合Th产设备，对发电厂的实际Th产状况进行深入了解，提高专业素养。\n理论结合实际，对以往所学的专业知识进行系统总结，提高对以后工作环境的了解。熟\n悉本专业目前工程Th产中使用的新技术、新设备、新材料等，为毕业设计收集资料。参\n加实际的Th产Th活，提高对安全经济运行的认识，树立严肃认真的工作作风。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "2018",
+            "company_name": "国家电网上海发电厂",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": "08"
+        },
+        {
+            "salary": "",
+            "description": "工作内容:\n查交通照明灯运行情况 负责对区交通管理局和区供电局联系和沟通。\n团队成员合作制定调查计划，制作调查问卷，并且进行几段繁华路段的实际考察。\n对各种调查结果和情况，结合实际数据，进行分析并提出建议和倡议。\n校内实践",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "skills": [
+                "电气工程"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "08",
+            "location": "",
+            "company_size": "",
+            "job_function": "电子/电器/半导体/仪器仪表",
+            "start_time_year": "2016",
+            "company_name": "赴上海浦东区调",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "电气工程师助理",
+            "start_time_month": "08"
+        },
+        {
+            "salary": "",
+            "description": "工作内容:\n协助图书管理员整理图书，做好图书借调管理工作。\n调查图书馆运行情况，宣传先进理念。\n主要目的是走出校园，体验社会Th活。",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "skills": [
+                "管理工作"
+            ],
+            "company_type": "",
+            "industry": "文化/体育/娱乐/社交",
+            "end_time_month": "08",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2013",
+            "company_name": "江苏省图书馆",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "江苏省图书馆",
+            "start_time_month": "10"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [
+            "cet-4",
+            "计算机二级"
+        ],
+        "skills": [
+            "电磁",
+            "制图",
+            "Office",
+            "电机",
+            "MATLAB",
+            "电气",
+            "Autocad",
+            "C语言",
+            "经济学",
+            "电子技术",
+            "管理工作",
+            "电气工程",
+            "计算机应用",
+            "计算机技术"
+        ],
+        "self_evaluation": "拥有扎实的电气专业知识，动手实验能力强，可胜任设计、维修等方面的技术型工作，可经\n常出差。希望能够从事与电气工程有关的系统运行、自动控制、电力电子技术、信息处理、\n试验技术、研制开发、经济管理以及电子与计算机应用等领域的工作。",
+        "awards": [
+            "获得优秀学Th干部",
+            "荣获优秀团员",
+            "艺术活动优秀奖"
+        ],
+        "it_skills": [
+            "Office",
+            "MATLAB",
+            "C语言",
+            "计算机应用",
+            "计算机技术"
+        ],
+        "business_skills": [
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

@@ -1,0 +1,159 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13122334455",
+        "QQ": "12345678",
+        "wechat": "",
+        "email": "12345678@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "工商管理",
+            "degree": "大专",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "06",
+            "school_name": "上海城建职业学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "数据库原理与应用，管理信息系统，管理学，经济学",
+            "start_time_year": "2011",
+            "location": "上海",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "工商管理",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "大专",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "资深",
+        "national_identity_number": "",
+        "date_of_birth": "1993",
+        "birthplace_norm": "",
+        "num_work_experience": 10,
+        "current_position": "市场经理",
+        "work_start_year": "2014",
+        "political_status": "",
+        "current_company": "世联科技股份有限公司",
+        "school_name": "上海城建职业学院",
+        "ethnic": "",
+        "recent_graduate_year": "2014",
+        "name": "黄儒纯",
+        "lastupdate_time": "2024-03-08-08-17-07",
+        "gender": "",
+        "age": 31,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "photoshop ⚫ 负责组内员工的日常沟通和各项 KPI 的提升；\n良好 ⚫ 每月做一次自己管理的员工团队业务分析以及发展动向；",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "photoshop",
+                "kpi"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2017",
+            "company_name": "世联科技股份有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "市场经理",
+            "start_time_month": "07"
+        },
+        {
+            "salary": "",
+            "description": "⚫ 负责组内员工的日常沟通和各项 KPI 的提升；",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "skills": [
+                "kpi",
+                "客服"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "客服/售前/售后技术支持",
+            "start_time_year": "2014",
+            "company_name": "交通银行信用卡客服中心",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "客服",
+            "start_time_month": "07"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [],
+        "skills": [
+            "Kpi",
+            "Word",
+            "运营",
+            "营销",
+            "客服",
+            "唱歌",
+            "Photoshop",
+            "经济学",
+            "数据库",
+            "羽毛球",
+            "管理学",
+            "办公软件",
+            "产品设计",
+            "信息检索",
+            "工商管理"
+        ],
+        "self_evaluation": "旅游         唱歌\n本人性格开朗、活泼，做事认真负责，喜欢挑战，具有良好的沟通能\n力和团队精神。\n羽毛球         电影",
+        "awards": [
+            "挑战杯创业计划大赛省级铜奖",
+            "获国家奖学金",
+            "上海城建职业学院创意营销大赛一等奖"
+        ],
+        "it_skills": [
+            "Photoshop",
+            "办公软件",
+            "信息检索"
+        ],
+        "business_skills": [
+            "Word",
+            "办公软件",
+            "产品设计",
+            "工商管理"
+        ]
+    },
+    "resume_rawtext": ""
+}

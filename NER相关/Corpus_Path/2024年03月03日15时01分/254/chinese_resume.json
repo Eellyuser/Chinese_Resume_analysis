@@ -1,0 +1,123 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13533445678",
+        "QQ": "123456",
+        "wechat": "",
+        "email": "123456@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "划社团的成立大会、竞选会、团队培训、招新等运维活动。",
+            "end_time_year": "",
+            "still_active": 0,
+            "end_time_month": "",
+            "organization_name": "吴思翰",
+            "start_time_year": "",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": ""
+        },
+        {
+            "description": "教育程度 FORMAL\n软件操作\nEDUCATION上海对外经贸大学\nEXPERIENCE\nInDesign 硕士\n负责社团组织建设，社团机构的管理，协调各部门工作组织策\nIllustrator 划社团的成立大会、竞选会、团队培训、招新等运维活动。\nPhotoshop 上海对外经贸大学\n本科\nAfter Effects 负责社团组织建设，社团机构的管理，协调各部门工作组织策\n划社团的成立大会、竞选会、团队培训、招新等运维活动。\nDreamweaver",
+            "end_time_year": "1994",
+            "still_active": 0,
+            "end_time_month": "09",
+            "organization_name": "划社团的成立大会",
+            "start_time_year": "1994",
+            "location": "",
+            "department": "",
+            "job_title": "软件操作",
+            "start_time_month": "08"
+        }
+    ],
+    "education_experience": [],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "",
+        "birthplace_norm": "",
+        "num_work_experience": 0,
+        "current_position": "总监",
+        "work_start_year": "",
+        "political_status": "",
+        "current_company": "杰森科技有限公司",
+        "school_name": "",
+        "ethnic": "",
+        "recent_graduate_year": "",
+        "name": "吴思翰",
+        "lastupdate_time": "2024-03-08-08-32-03",
+        "gender": "",
+        "age": null,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "",
+            "location": "",
+            "company_size": "",
+            "job_function": "销售管理",
+            "start_time_year": "",
+            "company_name": "杰森科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "总监",
+            "start_time_month": ""
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [],
+        "skills": [
+            "Resume",
+            "运营",
+            "运维",
+            "Chinese",
+            "English",
+            "Indesign",
+            "Photoshop",
+            "Education",
+            "Illustrator",
+            "Dreamweaver",
+            "After Effects"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "挑战杯创业计划大赛省级铜奖",
+            "挑战杯创业计划大赛省级奖"
+        ],
+        "it_skills": [
+            "Photoshop"
+        ],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

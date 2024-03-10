@@ -1,0 +1,201 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "临床",
+                "type": "professional_skill",
+                "subclass": "医疗相关"
+            },
+            {
+                "tag": "JAVA",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "软件分析",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "C语言",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "团队合作",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "协调能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "组织能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "教育培训",
+                "type": "industry"
+            },
+            {
+                "tag": "制药/医疗",
+                "type": "industry"
+            },
+            {
+                "tag": "生物/制药/医疗-生物/制药/医疗/护理-护士",
+                "type": "standard_title"
+            }
+        ],
+        "education": [],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "大学生英语六级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "护士资格证书",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 10,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "生物/制药/医疗/护理",
+                "l3": "护士",
+                "l1": "生物/制药/医疗"
+            }
+        },
+        {
+            "score": 0.4143517538681326,
+            "title": {
+                "l2": "生物/制药/医疗/护理",
+                "l3": "临床研究",
+                "l1": "生物/制药/医疗"
+            }
+        },
+        {
+            "score": 0.2736539529686694,
+            "title": {
+                "l2": "生物/制药/医疗/护理",
+                "l3": "理疗师",
+                "l1": "生物/制药/医疗"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 41.5,
+        "average_industry_time": 41.5,
+        "average_work_time": 41.5,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 8,
+        "leadership": 6,
+        "workexp": 7.3999999999999995,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "临床",
+            "score": 1
+        },
+        {
+            "skill": "针灸",
+            "score": 1
+        },
+        {
+            "skill": "检查",
+            "score": 1
+        },
+        {
+            "skill": "java",
+            "score": 0.8
+        },
+        {
+            "skill": "软件分析",
+            "score": 0.7
+        },
+        {
+            "skill": "c语言",
+            "score": 0.7
+        },
+        {
+            "skill": "内科",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": 0.24774833023548126,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

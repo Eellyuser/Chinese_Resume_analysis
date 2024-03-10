@@ -1,0 +1,321 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "广告策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "广告策划",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "班主任",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "脚本",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "审稿",
+                "type": "professional_skill",
+                "subclass": "运营编辑"
+            },
+            {
+                "tag": "AXURE RP",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "ANDROID",
+                "type": "professional_skill",
+                "subclass": "安卓开发"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "VISIO",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "文字编辑",
+                "type": "professional_skill",
+                "subclass": "运营编辑"
+            },
+            {
+                "tag": "JAVA",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "IOS",
+                "type": "professional_skill",
+                "subclass": "ios开发"
+            },
+            {
+                "tag": "C++",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "WEB",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "数据库",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "适应能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "文化/体育/娱乐/社交",
+                "type": "industry"
+            },
+            {
+                "tag": "咨询/法律/教育/翻译-教育-学校行政/咨询/法律/教育/科研/教师/校长",
+                "type": "standard_title"
+            },
+            {
+                "tag": "孝前冲刺班班主任",
+                "type": "job_title"
+            },
+            {
+                "tag": "内刊《传媒艺术先锋》执行主编",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "硕士学历",
+                "type": "degree"
+            },
+            {
+                "tag": "新闻传播",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "河北邯郸",
+                "type": "current_location"
+            },
+            {
+                "tag": "河北邯郸",
+                "type": "expect_location"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "德语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "cet6",
+                "type": "certificate"
+            },
+            {
+                "tag": "月获得研究生第一学年特等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "拥有硕士学位"
+        ],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5.5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 7.5,
+        "人事/行政/高级管理": 9,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "教育",
+                "l3": "学校行政/咨询/法律/教育/科研/教师/校长",
+                "l1": "咨询/法律/教育/翻译"
+            }
+        },
+        {
+            "score": 0.5207820895881967,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "编辑运营",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 42,
+        "average_industry_time": null,
+        "average_work_time": 42,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 7.3999999999999995,
+        "education": 7,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "广告策划",
+            "score": 1
+        },
+        {
+            "skill": "班主任",
+            "score": 1
+        },
+        {
+            "skill": "监督",
+            "score": 1
+        },
+        {
+            "skill": "脚本",
+            "score": 1
+        },
+        {
+            "skill": "检查",
+            "score": 0.8
+        },
+        {
+            "skill": "印刷",
+            "score": 0.8
+        },
+        {
+            "skill": "审稿",
+            "score": 0.8
+        },
+        {
+            "skill": "axure rp",
+            "score": 0.7
+        },
+        {
+            "skill": "android",
+            "score": 0.7
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "visio",
+            "score": 0.7
+        },
+        {
+            "skill": "文字编辑",
+            "score": 0.7
+        },
+        {
+            "skill": "java",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        },
+        {
+            "skill": "ios",
+            "score": 0.7
+        },
+        {
+            "skill": "c++",
+            "score": 0.7
+        },
+        {
+            "skill": "web",
+            "score": 0.7
+        },
+        {
+            "skill": "数据库",
+            "score": 0.7
+        },
+        {
+            "skill": "演讲",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 1,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间0年11个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

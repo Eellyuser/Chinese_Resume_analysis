@@ -1,0 +1,149 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [],
+        "professional": [],
+        "education": [
+            {
+                "tag": "硕士学历",
+                "type": "degree"
+            },
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "音乐学",
+                "type": "major"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "汉语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "高级中学教师资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "普通话一级乙等",
+                "type": "certificate"
+            },
+            {
+                "tag": "年中央音乐学院第四届乐评比赛二等奖",
+                "type": "award"
+            },
+            {
+                "tag": "首届图书推广大使选拔赛优秀奖",
+                "type": "award"
+            },
+            {
+                "tag": "校园诗歌朗诵节一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "国家研究生一等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [
+            "拥有硕士学位",
+            "院校背景不错，硕士学历，毕业于211院校"
+        ],
+        "others": [],
+        "tags": [
+            "国内211"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 8,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5.5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.48792729695646814,
+            "title": {
+                "l2": "教育",
+                "l3": "音乐美术老师",
+                "l1": "咨询/法律/教育/翻译"
+            }
+        },
+        {
+            "score": 0.28274600758990565,
+            "title": {
+                "l2": "市场",
+                "l3": "广告传媒影视",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.2293266954536262,
+            "title": {
+                "l2": "市场",
+                "l3": "广告编辑",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 5.5,
+        "leadership": 5,
+        "workexp": 5,
+        "education": 7.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "写作",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": null,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

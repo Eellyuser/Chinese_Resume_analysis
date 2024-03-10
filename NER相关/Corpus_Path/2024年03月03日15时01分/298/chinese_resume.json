@@ -1,0 +1,141 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13877665544",
+        "QQ": "123123",
+        "wechat": "",
+        "email": "123123@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "姓名\n⚫ 作为队长 ， 带领两位队员参与美国大学生数学建模比赛（MCM） ， 联系\n李志宏 导师，统筹策划整个建模思路。\n出生年月 ⚫ 负责建立模型解决问题，全权负责后期论文的翻译工作，并取得国际二2000.06.22 等奖的成绩。 \n地址",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "北美大学生数学建模国际比赛（MCM）",
+            "start_time_year": "2021",
+            "location": "",
+            "department": "",
+            "job_title": "队长",
+            "start_time_month": "02"
+        },
+        {
+            "description": "电话 ⚫ 参与由 AIESEC 组织的海外志愿者活动，去往非洲国家毛里求斯。\n13877665544 ⚫ 为当地妇女进行募捐，根据自己专业知识与当地 NGO 谈判，得到赞助资\n金，鼓励当地妇女进行小额贷款。\nEmail\n⚫ 为当地孩子翻新新校区，动手能力有很大的提高。",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "end_time_month": "09",
+            "organization_name": "上海市浦东新区东方尚博园",
+            "start_time_year": "2020",
+            "location": "上海",
+            "department": "",
+            "job_title": "海外志愿者",
+            "start_time_month": "03"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "保险",
+            "degree": "本科",
+            "end_time_year": "2022",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "华东政法大学",
+            "abroad_country": "",
+            "GPA": "3.6",
+            "courses": "",
+            "start_time_year": "2018",
+            "location": "上海",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "保险",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-上海-上海-浦东新区",
+        "current_location": "上海浦东新区",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "",
+        "birthplace_norm": "",
+        "num_work_experience": 2,
+        "current_position": "",
+        "work_start_year": "2022",
+        "political_status": "",
+        "current_company": "",
+        "school_name": "华东政法大学",
+        "ethnic": "",
+        "recent_graduate_year": "2022",
+        "name": "李志宏",
+        "lastupdate_time": "2024-03-09-05-24-52",
+        "gender": "",
+        "age": null,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [
+            "雅思",
+            "英语",
+            "汉语"
+        ],
+        "certificate": [
+            "cet6",
+            "雅思"
+        ],
+        "skills": [
+            "SPSS",
+            "Excel",
+            "Office",
+            "策划",
+            "法律",
+            "钢琴",
+            "文案",
+            "MATLAB",
+            "翻译",
+            "足球",
+            "Photoshop",
+            "经济学",
+            "Microsoft",
+            "Dreamweaver",
+            "数学建模"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "获国际二等奖",
+            "全国第三名"
+        ],
+        "it_skills": [
+            "SPSS",
+            "Excel",
+            "Office",
+            "MATLAB",
+            "Photoshop"
+        ],
+        "business_skills": [
+            "Excel",
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

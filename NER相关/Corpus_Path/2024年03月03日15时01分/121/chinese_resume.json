@@ -1,0 +1,170 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "",
+        "wechat": "",
+        "email": "151515@126.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "物流管理",
+            "degree": "本科",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "06",
+            "school_name": "湖北工业大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2011",
+            "location": "武汉",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "物流管理",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-北京-北京-通州区",
+        "current_location": "北京通州",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1992-12-18",
+        "birthplace_norm": "",
+        "num_work_experience": 9,
+        "current_position": "",
+        "work_start_year": "2015",
+        "political_status": "",
+        "current_company": "武汉筋斗云服装工作室",
+        "school_name": "湖北工业大学",
+        "ethnic": "",
+        "recent_graduate_year": "2015",
+        "name": "陈昭祥",
+        "lastupdate_time": "2024-03-08-07-50-27",
+        "gender": "",
+        "age": 32,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "团队成立: 项目筋斗云体育用品获得金奖，与队员 3 人成立筋斗云服装工作室；\n2015 届应届大学本科毕业生 运营规划: 确定目标客户群体 ， 参照校内文体活动时间进行产品供应链控制；\n市场开发: 与湖工体育部一共 23 人进行洽谈，确定 19 个院系服装供应业务合作；\n基础信息",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "运营",
+                "市场开发"
+            ],
+            "company_type": "",
+            "industry": "消费/零售",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "2018",
+            "company_name": "武汉筋斗云服装工作室",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": "10"
+        },
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "skills": [
+                "产品经理"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "互联网产品/运营管理",
+            "start_time_year": "2015",
+            "company_name": "武汉云印网络科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "产品经理经历云印杂志编辑",
+            "start_time_month": "10"
+        },
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "",
+            "company_name": "陈昭祥",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": ""
+        }
+    ],
+    "others": {
+        "language": [
+            "英语四级证书",
+            "英语",
+            "普通话"
+        ],
+        "certificate": [
+            "cet4",
+            "cet6",
+            "外语证书",
+            "普通话二级甲等证书",
+            "英语四级证书",
+            "计算机三级"
+        ],
+        "skills": [
+            "运营",
+            "市场开发",
+            "产品经理"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "校级三好学生",
+            "系级三好学生",
+            "优秀学生干部",
+            "年获得学院二等奖学金",
+            "项目筋斗云体育用品获得金奖"
+        ],
+        "it_skills": [],
+        "business_skills": [
+            "产品经理"
+        ]
+    },
+    "resume_rawtext": ""
+}

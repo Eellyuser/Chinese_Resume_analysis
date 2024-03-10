@@ -1,0 +1,202 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "",
+        "wechat": "",
+        "email": "",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "●   担任人民大学第十届戏剧节总导演 ， 担当统筹全局、整合资源、策划组织的角色\n●   对学生会成员进行招募和遴选，为学生会储备了骨干力量\n●   管理学生会财务，并负责年终各部门工作的量化考核",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "end_time_month": "10",
+            "organization_name": "中国政法大学学生会",
+            "start_time_year": "2011",
+            "location": "",
+            "department": "",
+            "job_title": "文艺部部长、主席",
+            "start_time_month": "10"
+        },
+        {
+            "description": "●   连续两届担任“中国政法大学十大新闻人物评选晚会”主持人\n●   策划并播出一档关于校园生活的新闻类节目达 10 期以上 ， 深受广大学生的欢迎",
+            "end_time_year": "2013",
+            "still_active": 0,
+            "end_time_month": "10",
+            "organization_name": "中国政法大学生电视台",
+            "start_time_year": "2011",
+            "location": "",
+            "department": "",
+            "job_title": "主持部部长、副台长",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "",
+            "degree": "",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "school_rank": "84",
+            "school_level": "211",
+            "end_time_month": "07",
+            "school_name": "中国政法大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2011",
+            "location": "北京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "北京市北京",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1993",
+        "birthplace_norm": "",
+        "num_work_experience": 9,
+        "current_position": "项目督导",
+        "work_start_year": "2015",
+        "political_status": "",
+        "current_company": "中华人民共和国司法部",
+        "school_name": "中国政法大学",
+        "ethnic": "",
+        "recent_graduate_year": "2015",
+        "name": "谢懿富",
+        "lastupdate_time": "2024-03-08-08-19-53",
+        "gender": "",
+        "age": 31,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "211",
+        "detailed_location": "北京市海淀区中关村东路",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "●   协助拟订司法行政工作方针、政策，编纂司法行政工作的发展规划及全国司法工作年鉴，校验有关法律法\n●   实时掌握全国各地司法工作动态并向上级汇报，对各地区各部门司法行政工作汇报进行初步审核\n●   培养了高度集中的注意力，谨慎细心的工作态度，直面问题的勇气以及持久的恒心耐力\n●   策划组织开展针对大一新生初入大学适应不良问题的小组活动 ， 领导项目成员共 20 人 ， 负责项目进度的\n安排与监督、项目进行过程中问题的解决、制定与完善活动方案以及审批报销活动物资等工作\n●   锻炼了资源整合、沟通协调、团队合作、创新思维等能力，全面提升领导力",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "策划",
+                "法律"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2018",
+            "company_name": "中华人民共和国司法部",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "项目督导",
+            "start_time_month": "08"
+        },
+        {
+            "salary": "",
+            "description": "●   协助社区主任开展日常工作并策划社区活动，入户走访当地区居民，对其社会活动进行微观分析\n●   进入北京社会福利院协助督导开展社会调查，实地参与福利院日常行政工作，深度访谈福利院员工 5 人以\n上并负责访谈记录的撰写与整理",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "skills": [
+                "社会活动",
+                "策划"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "08",
+            "location": "",
+            "company_size": "",
+            "job_function": "证券/期货/投资管理/服务",
+            "start_time_year": "2015",
+            "company_name": "北京市民政局",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "调研员",
+            "start_time_month": "08"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语",
+            "托福"
+        ],
+        "certificate": [
+            "人力资源三级证书",
+            "托福"
+        ],
+        "skills": [
+            "PPT",
+            "Word",
+            "SPSS",
+            "Excel",
+            "Office",
+            "策划",
+            "钢琴",
+            "法律",
+            "财务",
+            "主持",
+            "Premiere",
+            "Photoshop",
+            "管理学",
+            "Microsoft",
+            "外语水平",
+            "社会活动",
+            "统计软件",
+            "人力资源",
+            "办公软件",
+            "英语听说读写"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "优秀三好学生",
+            "工作三等奖学金",
+            "优秀学生干部",
+            "新生三等奖学金",
+            "三等奖学金",
+            "优秀共青团干部",
+            "曾荣获国际国内多项比赛大奖"
+        ],
+        "it_skills": [
+            "PPT",
+            "SPSS",
+            "Excel",
+            "Office",
+            "Photoshop",
+            "统计软件",
+            "办公软件"
+        ],
+        "business_skills": [
+            "Word",
+            "Excel",
+            "Office",
+            "人力资源",
+            "办公软件"
+        ]
+    },
+    "resume_rawtext": ""
+}

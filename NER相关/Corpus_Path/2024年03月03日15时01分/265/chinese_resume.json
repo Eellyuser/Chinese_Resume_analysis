@@ -1,0 +1,137 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13133445566",
+        "QQ": "3456436",
+        "wechat": "",
+        "email": "3456436@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "本科",
+            "end_time_year": "2024",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "山西传媒学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "基础会计学，市场营销",
+            "start_time_year": "2020",
+            "location": "太原",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "山西太原",
+        "current_salary": "",
+        "current_location_norm": "中国-山西-太原",
+        "current_location": "山西太原",
+        "expect_location_norm": "中国-山西-太原",
+        "desired_salary": "2002.6.8",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "2002-06-08",
+        "birthplace_norm": "",
+        "num_work_experience": 0,
+        "current_position": "",
+        "work_start_year": "2024",
+        "political_status": "",
+        "current_company": "万科物业",
+        "school_name": "山西传媒学院",
+        "ethnic": "",
+        "recent_graduate_year": "2024",
+        "name": "金雅琪",
+        "lastupdate_time": "2024-03-08-08-35-29",
+        "gender": "",
+        "age": 22,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "万科物业 帮助客户选择合适的户型，置业方案，主要是促进成交，完成公司\n销售助理 安排的任务。 针对不同性格的客户，分析客户、用不同的方式去销\n售。 对于公司的重要销售方案，做好保密工作，遵守营销道德。 遇\n到客户异议的问题，多想对策，找出客户异议的根源，并及时处理。",
+            "end_time_year": "2022",
+            "still_active": 0,
+            "skills": [
+                "营销"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "2022",
+            "company_name": "万科物业",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": "05"
+        },
+        {
+            "salary": "",
+            "description": "万科地产有限公司 促进成交做到每日回访客户，周末发祝福短语进行维护客户，或邀\n销售助理 约到售楼部参加活动以及制定每月销售计划，通过渠道获取更多客\n户，完成当月销售任务。每个月对竞争项目的市场调查，做分析表，\n找出优劣势从而更好的为洽谈时多一些有力 的数据签合同、按揭资\n料的准备以及履行售后服务。",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "房地产/建筑",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "销售行政/商务",
+            "start_time_year": "2021",
+            "company_name": "万科地产有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "销售助理",
+            "start_time_month": "04"
+        }
+    ],
+    "others": {
+        "language": [],
+        "certificate": [
+            "cet-6",
+            "计算机二级",
+            "高级营销员"
+        ],
+        "skills": [
+            "会计",
+            "营销",
+            "市场营销",
+            "计算机应用"
+        ],
+        "self_evaluation": "爱市场销售工作，有着十分饱满的激情。从事两年房产销售工作并积累了大量的实践经验。在工\n作任职期间做事情认真负责。",
+        "awards": [],
+        "it_skills": [
+            "计算机应用"
+        ],
+        "business_skills": [
+            "会计"
+        ]
+    },
+    "resume_rawtext": ""
+}

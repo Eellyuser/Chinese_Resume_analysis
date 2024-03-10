@@ -296,6 +296,16 @@ class Selenium_Edge:
     def destory(self):
         self.driver.quit()
 
+    @locate_element
+    def send_files(self,element, folder_path, i,*args, **kwargs):
+        pdf_files = [os.path.join(folder_path, f) for f in os.listdir(folder_path) if f.endswith('.pdf')]
+        if pdf_files:
+            pdf_file_path = os.path.join(folder_path, pdf_files[i])  # Select the first PDF file
+            element.send_keys(pdf_file_path)
+            time.sleep(1)  # Adjust time as needed
+        else:
+            print("No PDF files found in the specified folder.")    
+
 class OpenCv_Util:
     def __init__(self):
         pass

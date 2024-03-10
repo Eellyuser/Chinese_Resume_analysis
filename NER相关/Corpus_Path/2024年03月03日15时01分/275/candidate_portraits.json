@@ -1,0 +1,320 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "R开发",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "J2EE",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "LINUX操作系统",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "WINDOWS",
+                "type": "professional_skill",
+                "subclass": "系统运维"
+            },
+            {
+                "tag": "MYSQL",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "数据库应用",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "计算机网络",
+                "type": "professional_skill",
+                "subclass": "计算机基础"
+            },
+            {
+                "tag": "JAVA",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "数据结构",
+                "type": "professional_skill",
+                "subclass": "计算机基础"
+            },
+            {
+                "tag": "软件分析",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "汇编语言",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "C++",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "JSP",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "PHP",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "EDA",
+                "type": "professional_skill",
+                "subclass": "硬件开发"
+            },
+            {
+                "tag": "运营",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "客服",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            },
+            {
+                "tag": "编程",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "后端开发",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "团队精神",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "服务业-服务业-飞机人员",
+                "type": "standard_title"
+            },
+            {
+                "tag": "龙头互联网企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [],
+        "basic": [
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "15年以上经验",
+                "type": "experience"
+            }
+        ],
+        "others": []
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "龙头互联网企业从业经历",
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "名企经历",
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 8.5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 9,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "服务业",
+                "l3": "飞机人员",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.3707487080116376,
+            "title": {
+                "l2": "后端开发",
+                "l3": "算法",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.3200761345463772,
+            "title": {
+                "l2": "后端开发",
+                "l3": "JAVA",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.3091751574419852,
+            "title": {
+                "l2": "后端开发",
+                "l3": "Docker",
+                "l1": "IT/互联网"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 266,
+        "average_industry_time": null,
+        "average_work_time": 266,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 8.8,
+        "education": 6.5,
+        "honor": 5
+    },
+    "predicted_skills": [
+        {
+            "skill": "r开发",
+            "score": 1
+        },
+        {
+            "skill": "pm",
+            "score": 1
+        },
+        {
+            "skill": "j2ee",
+            "score": 0.8
+        },
+        {
+            "skill": "linux操作系统",
+            "score": 0.7
+        },
+        {
+            "skill": "windows",
+            "score": 0.7
+        },
+        {
+            "skill": "mysql",
+            "score": 0.7
+        },
+        {
+            "skill": "数据库应用",
+            "score": 0.7
+        },
+        {
+            "skill": "计算机网络",
+            "score": 0.7
+        },
+        {
+            "skill": "java",
+            "score": 0.7
+        },
+        {
+            "skill": "数据结构",
+            "score": 0.7
+        },
+        {
+            "skill": "软件分析",
+            "score": 0.7
+        },
+        {
+            "skill": "汇编语言",
+            "score": 0.7
+        },
+        {
+            "skill": "c++",
+            "score": 0.7
+        },
+        {
+            "skill": "jsp",
+            "score": 0.7
+        },
+        {
+            "skill": "php",
+            "score": 0.7
+        },
+        {
+            "skill": "eda",
+            "score": 0.7
+        },
+        {
+            "skill": "运营",
+            "score": 0.7
+        },
+        {
+            "skill": "客服",
+            "score": 0.7
+        },
+        {
+            "skill": "编程",
+            "score": 0.7
+        },
+        {
+            "skill": "后端开发",
+            "score": 0.5
+        },
+        {
+            "skill": "存储",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "30000_to_40000",
+    "predicted_turnover": 0.19993236660957336,
+    "risks": {
+        "occupation": [
+            "候选人在2012年5月至2015年9月存在工作空档期"
+        ],
+        "education": [],
+        "tags": [
+            "存在职业空档期"
+        ]
+    }
+}

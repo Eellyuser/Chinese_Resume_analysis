@@ -1,0 +1,179 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "临床",
+                "type": "professional_skill",
+                "subclass": "医疗相关"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "负责管理",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "微生物",
+                "type": "professional_skill",
+                "subclass": "其它"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "制药/医疗",
+                "type": "industry"
+            }
+        ],
+        "education": [
+            {
+                "tag": "大专学历",
+                "type": "degree"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 9,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.44233680974601963,
+            "title": {
+                "l2": "生物/制药/医疗/护理",
+                "l3": "临床研究",
+                "l1": "生物/制药/医疗"
+            }
+        },
+        {
+            "score": 0.30479592932721894,
+            "title": {
+                "l2": "生物/制药/医疗/护理",
+                "l3": "外科医生",
+                "l1": "生物/制药/医疗"
+            }
+        },
+        {
+            "score": 0.2528672609267615,
+            "title": {
+                "l2": "生物/制药/医疗/护理",
+                "l3": "内科医生",
+                "l1": "生物/制药/医疗"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": 17,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 5.6,
+        "education": 6,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "诊疗",
+            "score": 0.8
+        },
+        {
+            "skill": "临床",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "负责管理",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        },
+        {
+            "skill": "微生物",
+            "score": 0.7
+        },
+        {
+            "skill": "医生",
+            "score": 0.7
+        },
+        {
+            "skill": "内科",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.2329849898815155,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

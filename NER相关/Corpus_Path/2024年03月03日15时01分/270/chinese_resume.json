@@ -1,0 +1,126 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13133445566",
+        "QQ": "4325653486",
+        "wechat": "",
+        "email": "4325653486@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "资格证书计算机技能: C语言国家二 2020.09-至今 上海健康医学院学生会文艺部副部\n长校外实践校外\n级证书，\n负责与部员组织学校的各种文艺活动及配合其他部\n对C语言有有一定了解 门的工作，增强了自己团队合作意识及默默奉献的精\n实践\n神。通过组织每年的文艺活动，提高了我的组织能力\n与协调能力。 在班内担任组织委员充分利用课余时\n间，积极参加如社区医院服务等。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "end_time_month": "03",
+            "organization_name": "C语言国家二",
+            "start_time_year": "2020",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "上海",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "中级",
+        "national_identity_number": "",
+        "date_of_birth": "2001-06-04",
+        "birthplace_norm": "中国-上海-上海",
+        "num_work_experience": 5,
+        "current_position": "",
+        "work_start_year": "2019",
+        "political_status": "",
+        "current_company": "上海健康医学院（临床护士）",
+        "school_name": "",
+        "ethnic": "",
+        "recent_graduate_year": "",
+        "name": "高咏钰",
+        "lastupdate_time": "2024-03-08-08-37-02",
+        "gender": "",
+        "age": 23,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "制药/医疗",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "医院/医疗/护理",
+            "start_time_year": "2023",
+            "company_name": "奉贤区古华医院",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "实习护士",
+            "start_time_month": "03"
+        },
+        {
+            "salary": "",
+            "description": "足、希望能有机会进入贵院工作学习，我 学习如何做好临床病人基础护理工作；照料病人，全\n会争取早日做一名优秀的白衣天使。 面了解情况，重点是危重病人；负责抢救病人、新入\n院、手术及其它特殊检查病人。 执行各种临时医嘱，\n如理疗、针灸、运动治疗室等实践操作。\n个人信息\n出生: 2001.6.4\n实习经验",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "2019",
+            "company_name": "上海健康医学院（临床护士）",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": "06"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语六级证书",
+            "英语六级"
+        ],
+        "certificate": [
+            "大学生英语六级证书"
+        ],
+        "skills": [
+            "Php",
+            "医学",
+            "内科",
+            "C语言"
+        ],
+        "self_evaluation": "",
+        "awards": [],
+        "it_skills": [
+            "C语言"
+        ],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

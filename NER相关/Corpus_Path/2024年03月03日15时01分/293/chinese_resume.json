@@ -1,0 +1,118 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "12345456",
+        "wechat": "",
+        "email": "12345456@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "政治学与行政学",
+            "degree": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "school_rank": "320",
+            "school_level": "",
+            "end_time_month": "",
+            "school_name": "长春大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "公共经济学",
+            "start_time_year": "",
+            "location": "长春",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": ""
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "政治学与行政学",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1993",
+        "birthplace_norm": "",
+        "num_work_experience": 0,
+        "current_position": "",
+        "work_start_year": "",
+        "political_status": "",
+        "current_company": "",
+        "school_name": "长春大学",
+        "ethnic": "",
+        "recent_graduate_year": "",
+        "name": "韩健毓",
+        "lastupdate_time": "2024-03-09-05-23-19",
+        "gender": "",
+        "age": 31,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [
+            "法语",
+            "普通话",
+            "日语",
+            "英语",
+            "英语四级"
+        ],
+        "certificate": [
+            "三级人力资源管理师证",
+            "大学英语四级",
+            "普通话水平测试",
+            "机动车c1驾驶证",
+            "英语四级"
+        ],
+        "skills": [
+            "C1",
+            "Top",
+            "Office",
+            "日语",
+            "法语",
+            "驾驶",
+            "政治学",
+            "经济学",
+            "管理学",
+            "Education",
+            "普通话",
+            "C1驾驶证",
+            "人力资源",
+            "办公软件",
+            "人力资源管理"
+        ],
+        "self_evaluation": "",
+        "awards": [],
+        "it_skills": [
+            "C1",
+            "Office",
+            "办公软件"
+        ],
+        "business_skills": [
+            "Office",
+            "人力资源",
+            "办公软件",
+            "人力资源管理"
+        ]
+    },
+    "resume_rawtext": ""
+}

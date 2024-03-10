@@ -1,0 +1,167 @@
+{
+    "project_experience": [
+        {
+            "project_name": "财经研究课题",
+            "description": "2016.07-2017.06 财经研究课题\n项目简介: 项目主题为当前农村社区居民关于其自身所享受的医疗保障，服务\n的满意度调查。该课题获得国家级大学生创新训练计划基金。\n所获证书",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "skills": [],
+            "end_time_month": "06",
+            "location": "",
+            "start_time_year": "2016",
+            "company_name": "",
+            "job_function": "证券分析师",
+            "job_title": "",
+            "start_time_month": "07"
+        },
+        {
+            "project_name": "财经研究课题",
+            "description": "项目简介: 项目主题为当前农村社区居民关于其自身所享受的医疗保障，服务\n2017.9 大学英语六级\n的满意度调查。该课题获得国家级大学生创新训练计划基金。\n2018.3 公共关系资格证\n2018.5 三级企业人力资源管理证",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "skills": [
+                "企业人力资源管理"
+            ],
+            "end_time_month": "06",
+            "location": "",
+            "start_time_year": "2015",
+            "company_name": "",
+            "job_function": "石油天然气技术",
+            "job_title": "",
+            "start_time_month": "07"
+        }
+    ],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "456481343",
+        "wechat": "",
+        "email": "456481343@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "本科",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "06",
+            "school_name": "广西财经学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "国际市场营销，管理信息系统，市场营销，财务管理，管理学，会计学",
+            "start_time_year": "2015",
+            "location": "南宁",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "07"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-广东-广州",
+        "current_location": "广东广州",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1995-05",
+        "birthplace_norm": "",
+        "num_work_experience": 5,
+        "current_position": "运营专员",
+        "work_start_year": "2019",
+        "political_status": "",
+        "current_company": "万华旅游网",
+        "school_name": "广西财经学院",
+        "ethnic": "",
+        "recent_graduate_year": "2019",
+        "name": "赵若喜",
+        "lastupdate_time": "2024-03-08-08-11-47",
+        "gender": "女",
+        "age": 29,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "●   分析处理销售数据，归纳设计新车二手车晨报模版，并整理派发新车二手车\n关于我 业主业务线运营市场日报及周报。\n●   推送“滴滴快报”及审核各地车主之家微信公众号推送。跟进对公加盟店合\n同，对接财务、法务机采购等部门的工作。\n善于\n分析 ● 负责领导的差旅报销等部门行政内容工作。\n沟通\n数据\n勤劳肯干\n写作\n写作",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "skills": [
+                "财务",
+                "写作",
+                "运营"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "07",
+            "location": "",
+            "company_size": "",
+            "job_function": "互联网产品/运营管理",
+            "start_time_year": "2019",
+            "company_name": "万华旅游网",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "运营专员",
+            "start_time_month": "07"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语六级",
+            "英语四级"
+        ],
+        "certificate": [
+            "人力资源管理证",
+            "公共关系资格证",
+            "大学英语六级",
+            "大学英语四级",
+            "英语六级",
+            "英语四级"
+        ],
+        "skills": [
+            "Excel",
+            "会计",
+            "财务",
+            "写作",
+            "运营",
+            "篮球",
+            "营销",
+            "管理学",
+            "数据分析",
+            "宏观经济",
+            "财务管理",
+            "市场营销",
+            "企业人力资源管理"
+        ],
+        "self_evaluation": "",
+        "awards": [],
+        "it_skills": [
+            "Excel"
+        ],
+        "business_skills": [
+            "Excel",
+            "会计",
+            "数据分析"
+        ]
+    },
+    "resume_rawtext": ""
+}

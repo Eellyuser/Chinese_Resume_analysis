@@ -1,0 +1,155 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "18686660000",
+        "QQ": "186866",
+        "wechat": "",
+        "email": "186866@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "平面设计",
+            "degree": "",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "school_rank": "21",
+            "school_level": "985 211",
+            "end_time_month": "01",
+            "school_name": "厦门大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "平面设计",
+            "start_time_year": "2012",
+            "location": "厦门",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        },
+        {
+            "ranking": "",
+            "major": "广告设计",
+            "degree": "",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "school_rank": "21",
+            "school_level": "985 211",
+            "end_time_month": "01",
+            "school_name": "厦门大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2016",
+            "location": "厦门",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "广告设计",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "硕士",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "中级",
+        "national_identity_number": "",
+        "date_of_birth": "1994",
+        "birthplace_norm": "",
+        "num_work_experience": 5,
+        "current_position": "平面设计师",
+        "work_start_year": "2019",
+        "political_status": "",
+        "current_company": "福建水之源广告有限公司",
+        "school_name": "厦门大学",
+        "ethnic": "汉族",
+        "recent_graduate_year": "2019",
+        "name": "俞星如",
+        "lastupdate_time": "2024-03-08-07-48-54",
+        "gender": "女",
+        "age": 30,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "985 211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "主要负责公司的平面设计工作，如:\n画册、宣传单、包装设计等",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2020",
+            "company_name": "福建水之源广告有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "08"
+        },
+        {
+            "salary": "",
+            "description": "主要负责公司的平面设计工作，如:\n团队合作 画册、宣传单、包装设计等",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "08",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2019",
+            "company_name": "厦门沙海广告有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "08"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [],
+        "skills": [
+            "篮球",
+            "平面设计",
+            "广告设计"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "国家励志奖学金",
+            "省设计大赛一等奖"
+        ],
+        "it_skills": [],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

@@ -1,0 +1,198 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "业务流程",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "网页设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "数学分析",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "程序设计",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "概率论",
+                "type": "professional_skill",
+                "subclass": "数理基础"
+            },
+            {
+                "tag": "对账",
+                "type": "professional_skill",
+                "subclass": "审计"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "做事认真",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "金融",
+                "type": "industry"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "金融数学",
+                "type": "major"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "22到26岁",
+                "type": "age"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            }
+        ],
+        "others": [
+            {
+                "tag": "月获数院金融知识竞赛三等奖",
+                "type": "award"
+            },
+            {
+                "tag": "三等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [
+            "院校背景不错，本科学历，毕业于211院校"
+        ],
+        "others": [],
+        "tags": [
+            "国内211"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 9
+    },
+    "predicted_titles": [
+        {
+            "score": 0.4159142963541667,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "柜员",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.3773506334301806,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "大堂经理",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.2067350702156527,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "银行客户管理",
+                "l1": "金融"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": 2,
+        "work_stability": "跳槽频繁"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 5.6,
+        "education": 7,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "业务流程",
+            "score": 0.7
+        },
+        {
+            "skill": "网页设计",
+            "score": 0.7
+        },
+        {
+            "skill": "数学分析",
+            "score": 0.7
+        },
+        {
+            "skill": "程序设计",
+            "score": 0.7
+        },
+        {
+            "skill": "概率论",
+            "score": 0.7
+        },
+        {
+            "skill": "柜台",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        },
+        {
+            "skill": "对账",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": 0.420344740152359,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

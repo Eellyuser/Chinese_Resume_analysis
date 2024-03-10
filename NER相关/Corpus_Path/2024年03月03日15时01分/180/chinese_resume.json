@@ -1,0 +1,153 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "135-8888-8888",
+        "QQ": "",
+        "wechat": "",
+        "email": "xieyijun@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "Evaluation ⚫ 组织北京高校动漫节，带领社团取得三星级社团的荣誉，负责社团所有活动申请，争取\n活动经费，重新划分职能使团队凝聚力和效率提高",
+            "end_time_year": "2013",
+            "still_active": 0,
+            "end_time_month": "05",
+            "organization_name": "北京大学动漫社",
+            "start_time_year": "2012",
+            "location": "北京",
+            "department": "",
+            "job_title": "社长",
+            "start_time_month": "02"
+        },
+        {
+            "description": "⚫ 参与校社团节及闭幕式筹备及舞台等工作、策划第 103 周年校庆升旗仪式、协助第八\n届精品社团评比，整理各社团的评比资料，制定答辩流程、负责社团活动答辩会以及分",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "end_time_month": "05",
+            "organization_name": "学生会社团工作委员会",
+            "start_time_year": "2013",
+            "location": "",
+            "department": "",
+            "job_title": "部长助理",
+            "start_time_month": "02"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "市场营销",
+            "degree": "本科",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "school_rank": "2",
+            "school_level": "985 211",
+            "end_time_month": "07",
+            "school_name": "北京大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "市场调查与预测，国际市场营销，货币银行学，经济数学，大学英语，基本会计，市场营销，国际贸易，心理学，统计学，广告学，经济法",
+            "start_time_year": "2011",
+            "location": "北京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "市场营销",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1993-05-07",
+        "birthplace_norm": "",
+        "num_work_experience": 9,
+        "current_position": "市场专员",
+        "work_start_year": "2015",
+        "political_status": "",
+        "current_company": "北京嘉信科技有限公司",
+        "school_name": "北京大学",
+        "ethnic": "",
+        "recent_graduate_year": "2015",
+        "name": "谢怡君",
+        "lastupdate_time": "2024-03-08-08-08-59",
+        "gender": "",
+        "age": 31,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "985 211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "⚫ 通过网络及电话咨询并收集各行各业的潜在商户信息，并分析其合作潜力，协助部门经\n⚫ 通过第三方消息源收集竞争对手信息，汇总行业总体竞争环境，帮助部门经理制定相应",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2015",
+            "company_name": "北京嘉信科技有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "市场专员",
+            "start_time_month": "08"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [
+            "cet-6",
+            "计算机二级"
+        ],
+        "skills": [
+            "PPT",
+            "会计",
+            "营销",
+            "策划",
+            "排版",
+            "心理学",
+            "Education",
+            "Individual",
+            "文案写作",
+            "市场营销",
+            "国际贸易",
+            "计算机应用"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "全国大学生创意营销大赛一等奖",
+            "获国家奖学金"
+        ],
+        "it_skills": [
+            "PPT",
+            "计算机应用"
+        ],
+        "business_skills": [
+            "会计"
+        ]
+    },
+    "resume_rawtext": ""
+}

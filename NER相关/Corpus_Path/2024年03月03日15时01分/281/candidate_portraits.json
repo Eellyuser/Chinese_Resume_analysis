@@ -1,0 +1,148 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "管理工作",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "实验室",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            }
+        ],
+        "professional": [],
+        "education": [],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "汉语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "全国普通话二级甲等",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-4",
+                "type": "certificate"
+            },
+            {
+                "tag": "计算机一级",
+                "type": "certificate"
+            },
+            {
+                "tag": "c证",
+                "type": "certificate"
+            },
+            {
+                "tag": "志奖学金校级奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "多次担任学生干部",
+                "type": "award"
+            },
+            {
+                "tag": "军训先进个人",
+                "type": "award"
+            },
+            {
+                "tag": "优秀团干部",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通"
+        ],
+        "tags": [
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 10,
+        "leadership": 10,
+        "workexp": 5,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "管理工作",
+            "score": 0.7
+        },
+        {
+            "skill": "实验室",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "消防",
+            "score": 0.7
+        },
+        {
+            "skill": "策划",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": null,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

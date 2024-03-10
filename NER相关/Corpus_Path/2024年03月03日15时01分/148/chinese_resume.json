@@ -1,0 +1,179 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "909096",
+        "wechat": "",
+        "email": "909096@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "组织管理系 100 余人篮球赛 及 学院运动会等活动\n湖南省长沙理工学院学生会 网络宣传部副部长\n任期半年 协助部门 7人\n负责院报官方微博的运营 ， 具备新媒体运营能力",
+            "end_time_year": "",
+            "still_active": 0,
+            "end_time_month": "",
+            "organization_name": "任期一年",
+            "start_time_year": "",
+            "location": "",
+            "department": "",
+            "job_title": "组织管理系",
+            "start_time_month": ""
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "财务管理",
+            "degree": "本科",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "school_rank": "152",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "长沙理工大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2014",
+            "location": "长沙",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "财务管理",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "湖北武汉",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "湖南",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1996-06",
+        "birthplace_norm": "中国-湖南",
+        "num_work_experience": 6,
+        "current_position": "销售专员",
+        "work_start_year": "2018",
+        "political_status": "党员",
+        "current_company": "武汉云印传媒有限公司",
+        "school_name": "长沙理工大学",
+        "ethnic": "",
+        "recent_graduate_year": "2018",
+        "name": "梁佩芬",
+        "lastupdate_time": "2024-03-08-07-58-52",
+        "gender": "",
+        "age": 28,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "湖北省武汉市优秀春运志愿者五四优秀大学生",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "官方微博运营，设计并发布宣传图",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "运营"
+            ],
+            "company_type": "",
+            "industry": "文化/体育/娱乐/社交",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "销售业务",
+            "start_time_year": "2018",
+            "company_name": "武汉云印传媒有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "销售专员",
+            "start_time_month": "09"
+        },
+        {
+            "salary": "",
+            "description": "负责华硕旗舰店店内笔记本电脑的销售工作\n在实习 60 天内，销售笔记本电脑 34 台",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "09",
+            "location": "",
+            "company_size": "",
+            "job_function": "销售业务",
+            "start_time_year": "2017",
+            "company_name": "武汉华硕实习生",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "销售实习生",
+            "start_time_month": "06"
+        },
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "",
+            "company_name": "梁佩芬",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": ""
+        }
+    ],
+    "others": {
+        "language": [
+            "英语四六级证",
+            "普通话"
+        ],
+        "certificate": [
+            "普通话二级甲等",
+            "英语四六级证书",
+            "计算机二级证书"
+        ],
+        "skills": [
+            "篮球",
+            "运营",
+            "营销",
+            "普通话",
+            "财务管理",
+            "电子商务",
+            "财务会计",
+            "组织管理"
+        ],
+        "self_evaluation": "",
+        "awards": [
+            "创青春大学生创业挑战赛银奖",
+            "移动专项赛省级银奖"
+        ],
+        "it_skills": [],
+        "business_skills": [
+            "电子商务",
+            "财务会计"
+        ]
+    },
+    "resume_rawtext": ""
+}

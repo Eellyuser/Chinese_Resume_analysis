@@ -1,0 +1,258 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "微信公众号",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "EXCEL",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "销售数据",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "运营市场",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "公共关系",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "人力资源",
+                "type": "professional_skill",
+                "subclass": "人力资源"
+            },
+            {
+                "tag": "宏观经济",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "数据分析",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "采购",
+                "type": "professional_skill",
+                "subclass": "采购业务"
+            },
+            {
+                "tag": "法务",
+                "type": "professional_skill",
+                "subclass": "法务"
+            },
+            {
+                "tag": "行政",
+                "type": "professional_skill",
+                "subclass": "行政管理"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "运营专员",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "市场营销",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "女",
+                "type": "gender"
+            },
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "广东广州",
+                "type": "current_location"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "公共关系资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "人力资源管理证",
+                "type": "certificate"
+            },
+            {
+                "tag": "大学英语六级",
+                "type": "certificate"
+            },
+            {
+                "tag": "大学英语四级",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5.5,
+        "运营/客服/销售/市场": 9,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 7
+    },
+    "predicted_titles": [
+        {
+            "score": 0.546354830686289,
+            "title": {
+                "l2": "销售/技术支持",
+                "l3": "汽车估价师",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.31030207017713257,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "网站运营",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.14334309913657844,
+            "title": {
+                "l2": "运营/客服",
+                "l3": "淘宝运营",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": 13,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 6,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "写作",
+            "score": 0.8
+        },
+        {
+            "skill": "调查",
+            "score": 0.8
+        },
+        {
+            "skill": "微信公众号",
+            "score": 0.7
+        },
+        {
+            "skill": "excel",
+            "score": 0.7
+        },
+        {
+            "skill": "销售数据",
+            "score": 0.7
+        },
+        {
+            "skill": "运营市场",
+            "score": 0.7
+        },
+        {
+            "skill": "公共关系",
+            "score": 0.7
+        },
+        {
+            "skill": "人力资源",
+            "score": 0.7
+        },
+        {
+            "skill": "宏观经济",
+            "score": 0.7
+        },
+        {
+            "skill": "数据分析",
+            "score": 0.7
+        },
+        {
+            "skill": "采购",
+            "score": 0.7
+        },
+        {
+            "skill": "法务",
+            "score": 0.7
+        },
+        {
+            "skill": "行政",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "6000_to_8000",
+    "predicted_turnover": 0.2548539638519287,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

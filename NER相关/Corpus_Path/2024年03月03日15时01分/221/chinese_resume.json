@@ -1,0 +1,185 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "138-2345-1234",
+        "QQ": "223344",
+        "wechat": "",
+        "email": "223344@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "●  带领组织大型公益活动《梦想起航》，吸纳团队成员 200 余名。\n●  积极参与社会公益活动，获得一致好评。\n●  担任学校《晨曦报》主编工作 ， 发表文章 20 余篇 ， 获得奖状。",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "西安交通大学学生会组织部副部长",
+            "start_time_year": "2015",
+            "location": "西安",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "09"
+        },
+        {
+            "description": "●  组织秘书工作交流和公文写作培训班。\n●  主持校园团建工作，带领班级获得先进班级的唯一荣誉称号",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "西安交通大学文秘班班长",
+            "start_time_year": "2013",
+            "location": "西安",
+            "department": "",
+            "job_title": "西安交通大学文秘班班长",
+            "start_time_month": "09"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "文秘",
+            "degree": "本科",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "school_rank": "16",
+            "school_level": "985 211",
+            "end_time_month": "06",
+            "school_name": "西安交通大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "教育学，写作",
+            "start_time_year": "2013",
+            "location": "西安",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "文秘",
+        "expect_location": "上海",
+        "current_salary": "",
+        "current_location_norm": "中国-上海-上海",
+        "current_location": "上海",
+        "expect_location_norm": "中国-上海-上海",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1995",
+        "birthplace_norm": "",
+        "num_work_experience": 7,
+        "current_position": "",
+        "work_start_year": "2017",
+        "political_status": "",
+        "current_company": "西安耀华科技有限公司文员实习生",
+        "school_name": "西安交通大学",
+        "ethnic": "",
+        "recent_graduate_year": "2017",
+        "name": "蔡辰纶",
+        "lastupdate_time": "2024-03-08-08-21-46",
+        "gender": "",
+        "age": 29,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "985 211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "●  接听电话、接待来访人员、安排会议工作，负责会议纪要\n●  出入库工作，各类公文、信件、邮件、传真的分发和登记。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "2019",
+            "company_name": "西安耀华科技有限公司文员实习生",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": "08"
+        },
+        {
+            "salary": "",
+            "description": "●  从事学生管理工作，维护学生和家长，安排学生课程\n●  积极与家长密切沟通，积累了一定的团队管理经验\n●  主动工作执行能力较强，能协调统一多项任务。",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "skills": [
+                "管理工作",
+                "团队管理"
+            ],
+            "company_type": "",
+            "industry": "教育培训",
+            "end_time_month": "08",
+            "location": "",
+            "company_size": "",
+            "job_function": "高级管理",
+            "start_time_year": "2017",
+            "company_name": "西安智学教育有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "西安智学教育有限公司总经理助理",
+            "start_time_month": "08"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语四级证书",
+            "普通话"
+        ],
+        "certificate": [
+            "全国英语四级",
+            "全国计算机二级证书",
+            "普通话一级甲等",
+            "英语四级证书",
+            "驾驶证"
+        ],
+        "skills": [
+            "C1",
+            "Vfp",
+            "Office",
+            "Resume",
+            "写作",
+            "人事",
+            "主持",
+            "驾驶",
+            "教育学",
+            "普通话",
+            "公文写作",
+            "管理工作",
+            "办公软件",
+            "团队管理",
+            "档案管理"
+        ],
+        "self_evaluation": "本人对待工作认真负责 ，善 于沟通和协调 ，有 较强的组织能力和团队精神。\n积极进取，勇于挑战，活泼开朗，乐观上进，熟练操作                      office 办公软件。",
+        "awards": [
+            "大学生创业创新大赛三等奖"
+        ],
+        "it_skills": [
+            "C1",
+            "Office",
+            "办公软件"
+        ],
+        "business_skills": [
+            "Office",
+            "办公软件",
+            "团队管理"
+        ]
+    },
+    "resume_rawtext": ""
+}

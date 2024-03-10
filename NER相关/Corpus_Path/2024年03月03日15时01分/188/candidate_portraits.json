@@ -1,0 +1,396 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "竞品分析",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "UI界面",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "界面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "线上推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "广告设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "广告推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "广告推广",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "数据分析",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "优化设计",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "用户端",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "网页设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "交互设计",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "收集用户反馈",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "UI视觉设计",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "UI视觉设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "工艺设计",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "品牌形象",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "营销计划",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "设计方案",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "POP",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "PSD",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "测试",
+                "type": "professional_skill",
+                "subclass": "软件测试"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "AXURE",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "UI设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "设计规范",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "GUI",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "O2O",
+                "type": "professional_skill",
+                "subclass": "电子商务"
+            },
+            {
+                "tag": "AI",
+                "type": "professional_skill",
+                "subclass": "算法"
+            },
+            {
+                "tag": "AI",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "H5",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "教育培训",
+                "type": "industry"
+            },
+            {
+                "tag": "广告/媒体",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "IT/互联网-前端开发-UI/UX",
+                "type": "standard_title"
+            },
+            {
+                "tag": "UI设计师",
+                "type": "job_title"
+            }
+        ],
+        "education": [],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "上海浦东新区",
+                "type": "current_location"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": []
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在3段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 10,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "前端开发",
+                "l3": "UI/UX",
+                "l1": "IT/互联网"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": 39,
+        "average_work_time": 39,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 5
+    },
+    "predicted_skills": [
+        {
+            "skill": "竞品分析",
+            "score": 1
+        },
+        {
+            "skill": "ui界面",
+            "score": 1
+        },
+        {
+            "skill": "界面设计",
+            "score": 1
+        },
+        {
+            "skill": "线上推广",
+            "score": 1
+        },
+        {
+            "skill": "广告设计",
+            "score": 1
+        },
+        {
+            "skill": "广告推广",
+            "score": 1
+        },
+        {
+            "skill": "数据分析",
+            "score": 1
+        },
+        {
+            "skill": "优化设计",
+            "score": 1
+        },
+        {
+            "skill": "用户端",
+            "score": 1
+        },
+        {
+            "skill": "投放",
+            "score": 1
+        },
+        {
+            "skill": "网页设计",
+            "score": 0.9
+        },
+        {
+            "skill": "交互设计",
+            "score": 0.9
+        },
+        {
+            "skill": "美术",
+            "score": 0.9
+        },
+        {
+            "skill": "收集用户反馈",
+            "score": 0.8
+        },
+        {
+            "skill": "ui视觉设计",
+            "score": 0.8
+        },
+        {
+            "skill": "工艺设计",
+            "score": 0.8
+        },
+        {
+            "skill": "品牌形象",
+            "score": 0.8
+        },
+        {
+            "skill": "营销计划",
+            "score": 0.8
+        },
+        {
+            "skill": "设计方案",
+            "score": 0.8
+        },
+        {
+            "skill": "pop",
+            "score": 0.8
+        },
+        {
+            "skill": "psd",
+            "score": 0.8
+        },
+        {
+            "skill": "测试",
+            "score": 0.8
+        },
+        {
+            "skill": "印刷",
+            "score": 0.8
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "axure",
+            "score": 0.7
+        },
+        {
+            "skill": "ui设计",
+            "score": 0.7
+        },
+        {
+            "skill": "设计规范",
+            "score": 0.7
+        },
+        {
+            "skill": "gui",
+            "score": 0.7
+        },
+        {
+            "skill": "o2o",
+            "score": 0.7
+        },
+        {
+            "skill": "ai",
+            "score": 0.7
+        },
+        {
+            "skill": "h5",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "20000_to_30000",
+    "predicted_turnover": 0.20304206013679504,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

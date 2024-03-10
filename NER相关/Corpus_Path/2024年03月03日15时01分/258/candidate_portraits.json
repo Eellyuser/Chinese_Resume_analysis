@@ -1,0 +1,201 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "广告设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "网络推广",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "公众号",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "广告/媒体",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "实习生",
+                "type": "job_title"
+            },
+            {
+                "tag": "设计师",
+                "type": "job_title"
+            },
+            {
+                "tag": "设计师助理",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "艺术设计",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "cet-4",
+                "type": "certificate"
+            },
+            {
+                "tag": "获得大学一等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 8.5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 8.5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.4148244393330468,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "建筑装潢",
+                "l1": "房产/建筑/物业管理"
+            }
+        },
+        {
+            "score": 0.2817471735148941,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.23030307119894072,
+            "title": {
+                "l2": "市场",
+                "l3": "广告市场调研",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.20541638126490852,
+            "title": {
+                "l2": "通信/电子",
+                "l3": "光电子技术",
+                "l1": "硬件/通信"
+            }
+        },
+        {
+            "score": 0.20428054753615088,
+            "title": {
+                "l2": "市场",
+                "l3": "广告品牌管理",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 30,
+        "average_industry_time": 45,
+        "average_work_time": 30,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 7.3999999999999995,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "调研",
+            "score": 1
+        },
+        {
+            "skill": "广告设计",
+            "score": 0.7
+        },
+        {
+            "skill": "网络推广",
+            "score": 0.7
+        },
+        {
+            "skill": "写作",
+            "score": 0.7
+        },
+        {
+            "skill": "公众号",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.2025212049484253,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

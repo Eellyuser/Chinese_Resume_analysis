@@ -1,0 +1,165 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "12306",
+        "wechat": "",
+        "email": "12306@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "12306@qq.com 项目队长 能够制定短期目标，引导团队成员完成各项任务；\n负责推广，内测期利用微博与讲座结合获得 310 客户。\nXG999888",
+            "end_time_year": "",
+            "still_active": 0,
+            "end_time_month": "",
+            "organization_name": "湖北省“创青春”大学生创业计划大赛",
+            "start_time_year": "",
+            "location": "湖北",
+            "department": "",
+            "job_title": "项目队长",
+            "start_time_month": ""
+        },
+        {
+            "description": "体育部部长 任期一年，带领部门 13 人；\n掌握技能 组织管理系 100 余人篮球赛及学院运动会等活动。",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "end_time_month": "09",
+            "organization_name": "湖北中医药大学学生会",
+            "start_time_year": "2015",
+            "location": "湖北",
+            "department": "",
+            "job_title": "体育部部长",
+            "start_time_month": "07"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "临床护理",
+            "degree": "本科",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "09",
+            "school_name": "湖北中医药大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2015",
+            "location": "武汉",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "临床护理",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "湖北武汉",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "中级",
+        "national_identity_number": "",
+        "date_of_birth": "1997-02-20",
+        "birthplace_norm": "中国-湖北-武汉",
+        "num_work_experience": 5,
+        "current_position": "",
+        "work_start_year": "2019",
+        "political_status": "党员",
+        "current_company": "武汉华中科技大学协和医院",
+        "school_name": "湖北中医药大学",
+        "ethnic": "",
+        "recent_graduate_year": "2019",
+        "name": "吴俊伯",
+        "lastupdate_time": "2024-03-08-08-31-07",
+        "gender": "",
+        "age": 27,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "",
+            "start_time_year": "2019",
+            "company_name": "武汉华中科技大学协和医院",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "",
+            "start_time_month": "09"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语四级证书",
+            "英语",
+            "普通话"
+        ],
+        "certificate": [
+            "cet4",
+            "cet6",
+            "专业技能证书",
+            "会计从业资格证",
+            "全国普通话二级甲等",
+            "初级会计资格证",
+            "普通话二级甲等证书",
+            "机动车驾驶证",
+            "英语四级证书",
+            "驾驶证"
+        ],
+        "skills": [
+            "Wps",
+            "SQL",
+            "Adobe",
+            "会计",
+            "Office",
+            "内科",
+            "Resume",
+            "篮球",
+            "驾驶",
+            "Personal",
+            "普通话",
+            "活动策划",
+            "组织管理"
+        ],
+        "self_evaluation": "计算机技能              良好的公共关系意识，善于沟通，具备活动策划和组织协调能力。良好的心态\n全国计算机 SQL 二级证      和责任感，吃苦耐劳，擅于管理时间，勇于面对变化和挑战。良好的学习能\n书、熟练操作 office 软件   力，习惯制定切实可行的学习计划，勤于学习能不断提高。",
+        "awards": [
+            "获得二等奖学金",
+            "年湖北省创青春创业计划移动专项赛银奖"
+        ],
+        "it_skills": [
+            "SQL",
+            "Office"
+        ],
+        "business_skills": [
+            "会计",
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

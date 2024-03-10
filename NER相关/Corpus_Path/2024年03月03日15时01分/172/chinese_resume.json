@@ -1,0 +1,154 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13122345678",
+        "QQ": "",
+        "wechat": "",
+        "email": "lilijiao@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "2012.10-2016.10",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "资深",
+        "national_identity_number": "",
+        "date_of_birth": "1990-04",
+        "birthplace_norm": "",
+        "num_work_experience": 16,
+        "current_position": "司风控负责人",
+        "work_start_year": "2008",
+        "political_status": "",
+        "current_company": "广州雅宸设计网络科技有限公",
+        "school_name": "",
+        "ethnic": "",
+        "recent_graduate_year": "",
+        "name": "李礼娇",
+        "lastupdate_time": "2024-03-08-08-06-30",
+        "gender": "",
+        "age": 34,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "工作描述:\n●   负责组建风控部门 ；\n●   风控制度，风控流程的建立 ；\n●   引进多家风控大数据平台，确保风险把控到位 ；\n李礼娇 ● 对贷款客户的进件材料进行审查，并利用征\n信大数据平台对客户的信用，涉案，社会信息，\n多重负债进行查询；\n生日: 1990.4\n●   参与并主要负责与其他互联网平台的合作。\n求职意向",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "大数据"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "高级管理",
+            "start_time_year": "2016",
+            "company_name": "广州雅宸设计网络科技有限公",
+            "report_to": "",
+            "department": "负责组建风控部门",
+            "underling_num": "",
+            "job_title": "司风控负责人",
+            "start_time_month": "10"
+        },
+        {
+            "salary": "",
+            "description": "工作描述:\n●   安排本组人员完成项目资格审查，材料收集工作。\n教育背景\n●   对贷款主体材料真实、合法、合规性审查，对贷款企业财务数据进\n行评审分析。",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "skills": [
+                "企业财务"
+            ],
+            "company_type": "",
+            "industry": "金融",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "销售管理",
+            "start_time_year": "2012",
+            "company_name": "金齐融资担保有限公司业",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "务风控经理",
+            "start_time_month": "10"
+        },
+        {
+            "salary": "",
+            "description": "●   对贷款企业实地考察，审查其经营情况，场地情况，团队能力，实\n会计学（本科） 际控制人情况。\n主修课程: ● 上汇通过后，安排本组工作人员办理担保手续，包括: 面签合同、\n基本会计、统计学、市场营销 强制性公证、办理抵质押手续等。\n●   项目手续完成后，出具公司董事会决议，放款通知。\n、国际市场营销、市场调查与\n●   项目材料封存，归档。\n预测、商业心理学、广告学、 ● 按每季度进行回访，收集最新的财务数据定期下户回访，审查企业\n公共关系学、货币银行学、经 真实经营情况，确认反担保物情况。",
+            "end_time_year": "2012",
+            "still_active": 0,
+            "skills": [
+                "心理学",
+                "财务",
+                "会计",
+                "市场营销"
+            ],
+            "company_type": "",
+            "industry": "金融",
+            "end_time_month": "01",
+            "location": "天津天津",
+            "company_size": "",
+            "job_function": "质量管理/安全防护",
+            "start_time_year": "2008",
+            "company_name": "天津财经大学-",
+            "report_to": "",
+            "department": "本科",
+            "underling_num": "",
+            "job_title": "会计学（本科）",
+            "start_time_month": "01"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语"
+        ],
+        "certificate": [
+            "cet-6",
+            "会计证书",
+            "助理会计师",
+            "计算机二级"
+        ],
+        "skills": [
+            "会计",
+            "财务",
+            "融资",
+            "大数据",
+            "心理学",
+            "国际贸易",
+            "数据分析",
+            "风险控制",
+            "市场营销",
+            "企业财务",
+            "计算机应用"
+        ],
+        "self_evaluation": "本人取得助理会计师职业资格。",
+        "awards": [],
+        "it_skills": [
+            "计算机应用"
+        ],
+        "business_skills": [
+            "会计",
+            "数据分析"
+        ]
+    },
+    "resume_rawtext": ""
+}

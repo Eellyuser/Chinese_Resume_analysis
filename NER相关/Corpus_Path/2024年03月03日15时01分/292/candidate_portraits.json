@@ -1,0 +1,357 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "平面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "美工",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "平面广告",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "广告宣传",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "广告宣传",
+                "type": "professional_skill",
+                "subclass": "广告"
+            },
+            {
+                "tag": "彩页",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ADOBE DREAMWEAVER",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "ADOBE ILLUSTRATOR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ADOBE PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ADOBE INDESIGN",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ADOBE FLASH",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "JAVASCRIPT",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "AUTOCAD",
+                "type": "professional_skill",
+                "subclass": "工业设计"
+            },
+            {
+                "tag": "JQUERY",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "UI设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "广告设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "HTML",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "网页设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "CSS",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "WEB",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "H5",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "VI",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "消费/零售",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "IT/互联网-前端开发-UI/UX",
+                "type": "standard_title"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告设计",
+                "type": "standard_title"
+            },
+            {
+                "tag": "UI设计师",
+                "type": "job_title"
+            },
+            {
+                "tag": "平面设计师",
+                "type": "job_title"
+            },
+            {
+                "tag": "世界500强企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "视觉传达",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "江西南昌",
+                "type": "current_location"
+            },
+            {
+                "tag": "江西南昌",
+                "type": "expect_location"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "全国计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "挑战杯创业计划大赛省级铜奖",
+                "type": "award"
+            },
+            {
+                "tag": "获得国家奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "世界500强企业从业经历",
+            "候选人存在3段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "名企经历",
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 8.5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 9,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "前端开发",
+                "l3": "UI/UX",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 50,
+        "average_industry_time": 47,
+        "average_work_time": 31.333333333333332,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 7.3999999999999995,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "平面设计",
+            "score": 1
+        },
+        {
+            "skill": "装修",
+            "score": 1
+        },
+        {
+            "skill": "美工",
+            "score": 0.9
+        },
+        {
+            "skill": "平面广告",
+            "score": 0.8
+        },
+        {
+            "skill": "广告宣传",
+            "score": 0.8
+        },
+        {
+            "skill": "彩页",
+            "score": 0.8
+        },
+        {
+            "skill": "印刷",
+            "score": 0.8
+        },
+        {
+            "skill": "adobe dreamweaver",
+            "score": 0.7
+        },
+        {
+            "skill": "adobe illustrator",
+            "score": 0.7
+        },
+        {
+            "skill": "adobe photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "adobe indesign",
+            "score": 0.7
+        },
+        {
+            "skill": "adobe flash",
+            "score": 0.7
+        },
+        {
+            "skill": "javascript",
+            "score": 0.7
+        },
+        {
+            "skill": "autocad",
+            "score": 0.7
+        },
+        {
+            "skill": "jquery",
+            "score": 0.7
+        },
+        {
+            "skill": "ui设计",
+            "score": 0.7
+        },
+        {
+            "skill": "广告设计",
+            "score": 0.7
+        },
+        {
+            "skill": "html",
+            "score": 0.7
+        },
+        {
+            "skill": "网页设计",
+            "score": 0.7
+        },
+        {
+            "skill": "css",
+            "score": 0.7
+        },
+        {
+            "skill": "web",
+            "score": 0.7
+        },
+        {
+            "skill": "h5",
+            "score": 0.7
+        },
+        {
+            "skill": "vi",
+            "score": 0.7
+        },
+        {
+            "skill": "写作",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.27104905247688293,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

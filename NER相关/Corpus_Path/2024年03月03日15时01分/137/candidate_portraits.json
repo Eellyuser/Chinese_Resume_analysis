@@ -1,0 +1,168 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "组织管理",
+                "type": "professional_skill",
+                "subclass": "管理"
+            },
+            {
+                "tag": "国际法",
+                "type": "professional_skill",
+                "subclass": "其它"
+            }
+        ],
+        "professional": [],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "国际法",
+                "type": "major"
+            },
+            {
+                "tag": "TOP2院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "TOP10院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "985工程院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "中共党员",
+                "type": "political_status"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "精通"
+            },
+            {
+                "tag": "全国计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "专业英语八级",
+                "type": "certificate"
+            },
+            {
+                "tag": "初级会计证",
+                "type": "certificate"
+            },
+            {
+                "tag": "清华先进个人",
+                "type": "award"
+            },
+            {
+                "tag": "班级三好学生",
+                "type": "award"
+            },
+            {
+                "tag": "优秀社团干部",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [
+            "院校背景不错，本科学历，毕业于全国TOP2院校"
+        ],
+        "others": [
+            "熟练掌握英语，听说读写能力优秀，善于和不同文化背景的国际客户进行商务沟通"
+        ],
+        "tags": [
+            "国内TOP2",
+            "英语能力优秀",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 8,
+        "leadership": 6,
+        "workexp": 5,
+        "education": 8.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "组织管理",
+            "score": 0.7
+        },
+        {
+            "skill": "国际法",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "4000_to_6000",
+    "predicted_turnover": null,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "18088888088",
+        "QQ": "",
+        "wechat": "",
+        "email": "Zyq1998@163.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "⚫ 2020.09~2021.06 学生会团宣部 部长\n南京\n➢ 在担任团宣部部长期间，在校外新闻网站(四川新闻联播网，百姓生活网等)发表\n180 8888 8088\n校内新闻 70 余篇，以及其它新闻总计 200 余篇。",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "学生会团宣部",
+            "start_time_year": "2020",
+            "location": "",
+            "department": "",
+            "job_title": "部长",
+            "start_time_month": "09"
+        },
+        {
+            "description": "➢ 在担任女生部副部长期间，多次组织院内、校级素质拓展活动。",
+            "end_time_year": "",
+            "still_active": 0,
+            "end_time_month": "",
+            "organization_name": "学生会",
+            "start_time_year": "",
+            "location": "",
+            "department": "",
+            "job_title": "女生部副部长",
+            "start_time_month": ""
+        },
+        {
+            "description": "➢ 在担任学长导航学期间，解决学妹学弟生活上和学习上的各种问题。经常组织\n班级进行课外活动。",
+            "end_time_year": "2023",
+            "still_active": 0,
+            "end_time_month": "06",
+            "organization_name": "新人导航员",
+            "start_time_year": "2022",
+            "location": "",
+            "department": "",
+            "job_title": "新人导航员",
+            "start_time_month": "12"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "英语",
+            "degree": "本科",
+            "end_time_year": "2023",
+            "still_active": 0,
+            "school_rank": "83",
+            "school_level": "211",
+            "end_time_month": "06",
+            "school_name": "南京师范大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "英美文学，心理学，写作，口译",
+            "start_time_year": "2019",
+            "location": "南京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "英语",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "",
+        "birthplace_norm": "",
+        "num_work_experience": 1,
+        "current_position": "",
+        "work_start_year": "2023",
+        "political_status": "团员",
+        "current_company": "",
+        "school_name": "南京师范大学",
+        "ethnic": "",
+        "recent_graduate_year": "2023",
+        "name": "郭子豪",
+        "lastupdate_time": "2024-03-08-07-51-23",
+        "gender": "女",
+        "age": null,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [
+            "英语六级",
+            "英语"
+        ],
+        "certificate": [
+            "英语六级"
+        ],
+        "skills": [
+            "口译",
+            "导游",
+            "笔译",
+            "翻译",
+            "写作",
+            "心理学"
+        ],
+        "self_evaluation": "自我评价\n⚫   英语专业，擅长英语写作，能说一口流利的英语。\n⚫2 年的翻译经验，发表超过 30 余篇译文。\n⚫   学习能力强，专业成绩突出，多次获得奖学金。",
+        "awards": [
+            "年米马拉松比赛二等奖",
+            "年获创业大赛一等奖",
+            "年国家奖学金",
+            "多次获得奖学金",
+            "年获学院优秀班干部"
+        ],
+        "it_skills": [],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

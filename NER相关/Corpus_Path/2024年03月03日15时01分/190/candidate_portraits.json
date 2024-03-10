@@ -1,0 +1,237 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "图片制作",
+                "type": "professional_skill",
+                "subclass": "影视"
+            },
+            {
+                "tag": "交互设计",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "视觉设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "AFTER EFFECT",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "DREAMWEAVER",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "ILLUSTRATOR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "INDESIGN",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "FLASH",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "设计软件",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "GUI",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "绘图",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "素描",
+                "type": "professional_skill",
+                "subclass": "教育培训"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "IT/互联网-前端开发-UI/UX",
+                "type": "standard_title"
+            },
+            {
+                "tag": "IT/互联网-用户体验-UE",
+                "type": "standard_title"
+            },
+            {
+                "tag": "UI 设计助理",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "大专学历",
+                "type": "degree"
+            },
+            {
+                "tag": "艺术设计",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": []
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 10,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "前端开发",
+                "l3": "UI/UX",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "用户体验",
+                "l3": "UE",
+                "l1": "IT/互联网"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 60,
+        "average_industry_time": null,
+        "average_work_time": 40,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 8,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 6,
+        "honor": 5
+    },
+    "predicted_skills": [
+        {
+            "skill": "图片制作",
+            "score": 1
+        },
+        {
+            "skill": "交互设计",
+            "score": 0.9
+        },
+        {
+            "skill": "视觉设计",
+            "score": 0.9
+        },
+        {
+            "skill": "after effect",
+            "score": 0.7
+        },
+        {
+            "skill": "dreamweaver",
+            "score": 0.7
+        },
+        {
+            "skill": "illustrator",
+            "score": 0.7
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "indesign",
+            "score": 0.7
+        },
+        {
+            "skill": "flash",
+            "score": 0.7
+        },
+        {
+            "skill": "设计软件",
+            "score": 0.7
+        },
+        {
+            "skill": "gui",
+            "score": 0.7
+        },
+        {
+            "skill": "绘图",
+            "score": 0.7
+        },
+        {
+            "skill": "素描",
+            "score": 0.7
+        },
+        {
+            "skill": "美术",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "20000_to_30000",
+    "predicted_turnover": 0.24753570556640625,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

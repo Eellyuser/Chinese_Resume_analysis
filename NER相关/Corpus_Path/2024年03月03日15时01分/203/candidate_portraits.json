@@ -1,0 +1,280 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "产品管理",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "项目管理",
+                "type": "professional_skill",
+                "subclass": "项目管理"
+            },
+            {
+                "tag": "团队管理",
+                "type": "professional_skill",
+                "subclass": "管理"
+            },
+            {
+                "tag": "电商",
+                "type": "professional_skill",
+                "subclass": "电子商务"
+            },
+            {
+                "tag": "网站需求分析",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "电子商务策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "电子商务策划",
+                "type": "professional_skill",
+                "subclass": "电子商务"
+            },
+            {
+                "tag": "功能设计",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "证券投资",
+                "type": "professional_skill",
+                "subclass": "理财相关"
+            },
+            {
+                "tag": "文案写作",
+                "type": "professional_skill",
+                "subclass": "运营编辑"
+            },
+            {
+                "tag": "经营管理",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "营销管理",
+                "type": "professional_skill",
+                "subclass": "销售"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "软件工程师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "助理会计师",
+                "type": "certificate"
+            },
+            {
+                "tag": "普通话水平",
+                "type": "certificate"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            },
+            {
+                "tag": "驾驶证",
+                "type": "certificate"
+            },
+            {
+                "tag": "演讲活动一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "三等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5.5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 8,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.47506325904662655,
+            "title": {
+                "l2": "后端开发",
+                "l3": "C语言",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.32791678635419097,
+            "title": {
+                "l2": "硬件",
+                "l3": "嵌入式软件",
+                "l1": "硬件/通信"
+            }
+        },
+        {
+            "score": 0.19701995459918248,
+            "title": {
+                "l2": "后端开发",
+                "l3": ".NET",
+                "l1": "IT/互联网"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 6.2,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "产品管理",
+            "score": 0.9
+        },
+        {
+            "skill": "项目管理",
+            "score": 0.9
+        },
+        {
+            "skill": "团队管理",
+            "score": 0.9
+        },
+        {
+            "skill": "电商",
+            "score": 0.9
+        },
+        {
+            "skill": "网站需求分析",
+            "score": 0.8
+        },
+        {
+            "skill": "电子商务策划",
+            "score": 0.8
+        },
+        {
+            "skill": "功能设计",
+            "score": 0.8
+        },
+        {
+            "skill": "施工",
+            "score": 0.8
+        },
+        {
+            "skill": "调研",
+            "score": 0.8
+        },
+        {
+            "skill": "化工",
+            "score": 0.8
+        },
+        {
+            "skill": "证券投资",
+            "score": 0.7
+        },
+        {
+            "skill": "文案写作",
+            "score": 0.7
+        },
+        {
+            "skill": "经营管理",
+            "score": 0.7
+        },
+        {
+            "skill": "营销管理",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "外汇",
+            "score": 0.7
+        },
+        {
+            "skill": "演讲",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.21386830508708954,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间5年2个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

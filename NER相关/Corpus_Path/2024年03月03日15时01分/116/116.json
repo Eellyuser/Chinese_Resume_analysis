@@ -1,0 +1,48 @@
+{
+  "name": "俞星如",
+  "tel": "18686660000",
+  "email": "186866@qq.com",
+  "profession": "平面设计师",
+  "location": "福建厦门",
+  "skills": ["创新力", "执行力", "学习能力", "团队合作", "语言能力"],
+  "language_skills": ["英语", "国语"],
+  "basic_info": {
+    "gender": "女",
+    "political_status": "共青团员",
+    "ethnicity": "汉族",
+    "age": 30,
+    "major": "广告设计",
+    "degree": "硕士"
+  },
+  "education_background": [
+    {
+      "time": "2012-2016",
+      "school": "厦门大学",
+      "major": "平面设计",
+      "degree": "本科"
+    },
+    {
+      "time": "2016-2019",
+      "school": "厦门大学",
+      "major": "广告设计",
+      "degree": "硕士"
+    }
+  ],
+  "work_experience": [
+    {
+      "time": "2020.8至今",
+      "company": "福建水之源广告有限公司",
+      "position": "平面设计师",
+      "responsibilities": ["画册", "宣传单", "包装设计"]
+    },
+    {
+      "time": "2019.08-2020.8",
+      "company": "厦门沙海广告有限公司",
+      "position": "实习平面设计师",
+      "responsibilities": ["画册", "宣传单", "包装设计"]
+    }
+  ],
+  "professional_skills": [],
+  "hobbies": ["游戏", "旅行", "阅读", "篮球"],
+  "achievements": ["省设计大赛一等奖", "国家励志奖学金", "优秀毕业生"]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "赵吟琪",
+  "career_objective": "市场总监-专注品牌方向",
+  "bir": "2000.05",
+  "tel": "13800138000",
+  "email": "zhaoyinqi@qq.com",
+  "poli": "中共党员",
+  "live": "广东省广州市海珠区",
+  "education": [{
+    "time": "2016.07-2019.06",
+    "school": "沧州工贸学校",
+    "major": "市场营销（中专）",
+    "major_courses": "包括管理学、微观经济学、宏观经济学等"
+  }],
+  "work_experience": [
+    {
+      "time": "2021.12-至今",
+      "org": "翰煜控股集团",
+      "role": "副总监",
+      "work_desc": "负责品牌传播方案、营销策略等"
+    },
+    {
+      "time": "2020.12-2021.12",
+      "org": "荣旭有限公司",
+      "role": "市场及运营总监",
+      "work_desc": "战略调整、市场调查等"
+    },
+    {
+      "time": "2019.12-2020.12",
+      "org": "柏枫俱乐部",
+      "role": "市场副总监",
+      "work_desc": "负责产品对外推广和宣传"
+    }
+  ],
+  "project_experience": [
+    {
+      "project": "荣旭集团品牌升级发布会",
+      "project_desc": "负责品牌logo及VI上线传播"
+    },
+    {
+      "project": "柏枫商业模式发布会",
+      "project_desc": "负责整场活动的组织与推广"
+    },
+    {
+      "project": "翰煜投资控股集团6A自媒体生态圈建设",
+      "project_desc": "重构公司现有微信企业号功能与架构"
+    }
+  ],
+  "awards": [
+    {
+      "time": "2019",
+      "award": "沧州工贸学校自强社“优秀社员”"
+    },
+    // Additional awards omitted for brevity
+  ],
+  "skills": "通过全国计算机二级考试，熟练运用office软件。熟练使用绘声绘色软件。大学英语四/六级（CET-4/6）。",
+  "interests": "阅读、旅行、跑步、羽毛球、爬山、烹饪",
+  "self_assessment": "拥有多年的市场管理及品牌营销经验，卓越的规划、组织、策划、方案执行和团队领导能力。"
+}

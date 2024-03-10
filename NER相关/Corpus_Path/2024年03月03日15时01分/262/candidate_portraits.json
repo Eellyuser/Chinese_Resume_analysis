@@ -1,0 +1,221 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "管理工作",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "绩效考核",
+                "type": "professional_skill",
+                "subclass": "人力资源"
+            },
+            {
+                "tag": "安全管理",
+                "type": "professional_skill",
+                "subclass": "安防"
+            },
+            {
+                "tag": "客服",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            },
+            {
+                "tag": "质量监督",
+                "type": "professional_skill",
+                "subclass": "质量管理"
+            },
+            {
+                "tag": "安全和",
+                "type": "professional_skill",
+                "subclass": "其它"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "服务业",
+                "type": "industry"
+            },
+            {
+                "tag": "营销、酒店财务管理、会议服务与管理、餐饮运行与管",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "酒店管理",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "店",
+                "type": "current_location"
+            },
+            {
+                "tag": "中级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "cet-4",
+                "type": "certificate"
+            },
+            {
+                "tag": "驾驶执照",
+                "type": "certificate"
+            },
+            {
+                "tag": "获挑战杯创业计划大赛省级铜奖",
+                "type": "award"
+            },
+            {
+                "tag": "获国家奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 7.5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5.5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5.5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.4554329907788114,
+            "title": {
+                "l2": "服务业",
+                "l3": "酒店经理",
+                "l1": "服务业"
+            }
+        },
+        {
+            "score": 0.29327067514600186,
+            "title": {
+                "l2": "市场",
+                "l3": "广告会展",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.25129633407518676,
+            "title": {
+                "l2": "财务",
+                "l3": "财务管理",
+                "l1": "财务/人力资源/行政"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 6.2,
+        "education": 6.5,
+        "honor": 8
+    },
+    "predicted_skills": [
+        {
+            "skill": "管理工作",
+            "score": 1
+        },
+        {
+            "skill": "绩效考核",
+            "score": 1
+        },
+        {
+            "skill": "安全管理",
+            "score": 1
+        },
+        {
+            "skill": "消防",
+            "score": 1
+        },
+        {
+            "skill": "客服",
+            "score": 1
+        },
+        {
+            "skill": "招聘",
+            "score": 1
+        },
+        {
+            "skill": "营销",
+            "score": 1
+        },
+        {
+            "skill": "质量监督",
+            "score": 0.9
+        },
+        {
+            "skill": "安全和",
+            "score": 0.9
+        },
+        {
+            "skill": "推广",
+            "score": 0.9
+        },
+        {
+            "skill": "餐饮",
+            "score": 0.9
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.27153220772743225,
+    "risks": {
+        "occupation": [
+            "第一段工作经历晚于毕业时间4年2个月"
+        ],
+        "education": [],
+        "tags": []
+    }
+}

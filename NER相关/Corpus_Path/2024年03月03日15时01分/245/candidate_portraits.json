@@ -1,0 +1,217 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "置业顾问",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "销售计划",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "市场调查",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "售后服务",
+                "type": "professional_skill",
+                "subclass": "售后服务"
+            },
+            {
+                "tag": "回访",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            },
+            {
+                "tag": "CET-6",
+                "type": "professional_skill",
+                "subclass": ""
+            },
+            {
+                "tag": "市场销售",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "房产销售",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "数据分析",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "服务业",
+                "type": "industry"
+            },
+            {
+                "tag": "消费/零售",
+                "type": "industry"
+            },
+            {
+                "tag": "房产/建筑/物业管理-建筑/房地产-房产销售",
+                "type": "standard_title"
+            },
+            {
+                "tag": "世界500强企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "市场营销",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "中级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            },
+            {
+                "tag": "高级营销员",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "世界500强企业从业经历",
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "名企经历",
+            "稳定性高",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 10,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "房产销售",
+                "l1": "房产/建筑/物业管理"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": 28,
+        "average_work_time": 28,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 5.5,
+        "leadership": 5,
+        "workexp": 6.8,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "置业顾问",
+            "score": 1
+        },
+        {
+            "skill": "接待",
+            "score": 1
+        },
+        {
+            "skill": "销售计划",
+            "score": 0.9
+        },
+        {
+            "skill": "市场调查",
+            "score": 0.9
+        },
+        {
+            "skill": "售后服务",
+            "score": 0.9
+        },
+        {
+            "skill": "回访",
+            "score": 0.9
+        },
+        {
+            "skill": "营销",
+            "score": 0.8
+        },
+        {
+            "skill": "cet-6",
+            "score": 0.7
+        },
+        {
+            "skill": "市场销售",
+            "score": 0.7
+        },
+        {
+            "skill": "房产销售",
+            "score": 0.7
+        },
+        {
+            "skill": "数据分析",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": 0.24033866822719574,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

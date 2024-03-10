@@ -1,0 +1,231 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "SQL",
+                "type": "professional_skill",
+                "subclass": "DATABASE"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "ADOBE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "活动策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "组织管理",
+                "type": "professional_skill",
+                "subclass": "管理"
+            },
+            {
+                "tag": "公共关系",
+                "type": "professional_skill",
+                "subclass": "公共关系"
+            },
+            {
+                "tag": "WPS",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "责任感",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "协调能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "临床护理",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "中共党员",
+                "type": "political_status"
+            },
+            {
+                "tag": "中级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "普通话二级甲等证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "全国普通话二级甲等",
+                "type": "certificate"
+            },
+            {
+                "tag": "初级会计资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "会计从业资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "专业技能证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "机动车驾驶证",
+                "type": "certificate"
+            },
+            {
+                "tag": "英语四级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet4",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet6",
+                "type": "certificate"
+            },
+            {
+                "tag": "年湖北省创青春创业计划移动专项赛银奖",
+                "type": "award"
+            },
+            {
+                "tag": "获得二等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 9,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 8.5,
+        "leadership": 6,
+        "workexp": 6.8,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "sql",
+            "score": 0.8
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "adobe",
+            "score": 0.7
+        },
+        {
+            "skill": "活动策划",
+            "score": 0.7
+        },
+        {
+            "skill": "组织管理",
+            "score": 0.7
+        },
+        {
+            "skill": "公共关系",
+            "score": 0.7
+        },
+        {
+            "skill": "wps",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "内科",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "6000_to_8000",
+    "predicted_turnover": 0.30813857913017273,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

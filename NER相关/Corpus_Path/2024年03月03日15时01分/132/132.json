@@ -1,0 +1,62 @@
+{
+  "name": "薄康柔",
+  "career_objective": "设计师",
+  "self_evaluation": "深度互联网从业人员，熟悉产品开发流程，具有强烈的产品规划、需求分析、交互设计能力。善于沟通，贴近用户。",
+  "basic_information": {
+    "age": 26,
+    "location": "江西南昌",
+    "phone": "13000000000",
+    "email": "5464654@qq.com"
+  },
+  "education_background": {
+    "undergraduate": {
+      "time": "2016.9-2020.7",
+      "school": "南昌大学",
+      "major": "艺术设计",
+      "skills_learned": ["Photoshop", "Illustrator", "CorelDRAW"]
+    },
+    "internships": [
+      {
+        "time": "2018.10-2019.3",
+        "company": "名琪儿设计",
+        "description": "熟练操作设计软件，独立设计广告宣传品。"
+      },
+      {
+        "time": "2019.6-2019.9",
+        "company": "银达星设计",
+        "description": "独立设计，制作广告，设计宣传。"
+      }
+    ]
+  },
+  "work_experience": [
+    {
+      "time": "2020.7-2021.7",
+      "company": "赤雪设计公司",
+      "position": "设计师",
+      "responsibilities": ["社团组织建设", "管理协调", "活动策划"]
+    },
+    {
+      "time": "2021.7-2022.7",
+      "company": "立德设计公司",
+      "position": "设计师",
+      "responsibilities": ["社团组织建设", "管理协调", "活动策划"]
+    },
+    {
+      "time": "2022.7-至今",
+      "company": "牛菲尔公司",
+      "position": "设计师",
+      "responsibilities": ["社团组织建设", "管理协调", "活动策划"]
+    }
+  ],
+  "awards_and_honors": [
+    "大学班长，获得'优秀干部'",
+    "创业者协会'宣传部长'",
+    "全国大学生广告艺术设计大赛三等奖",
+    "国家奖学金",
+    "挑战杯创业计划大赛省级铜奖"
+  ],
+  "skills_and_interests": {
+    "software_skills": ["Photoshop", "Office Suite", "HTML/CSS", "JavaScript", "jQuery"],
+    "interests": ["电影", "骑行", "足球", "唱K", "露营", "上网", "户外活动", "听歌"]
+  }
+}

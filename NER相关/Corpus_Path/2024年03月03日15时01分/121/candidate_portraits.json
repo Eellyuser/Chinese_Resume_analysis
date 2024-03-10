@@ -1,0 +1,213 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "供应链控制",
+                "type": "professional_skill",
+                "subclass": "供应链"
+            },
+            {
+                "tag": "运营规划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "市场开发",
+                "type": "professional_skill",
+                "subclass": "销售"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "消费/零售",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "产品经理经历云印杂志编辑",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "物流管理",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "北京通州",
+                "type": "current_location"
+            },
+            {
+                "tag": "高级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "普通话二级甲等证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "英语四级证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "计算机三级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet4",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet6",
+                "type": "certificate"
+            },
+            {
+                "tag": "外语证书",
+                "type": "certificate"
+            },
+            {
+                "tag": "项目筋斗云体育用品获得金奖",
+                "type": "award"
+            },
+            {
+                "tag": "年获得学院二等奖学金",
+                "type": "award"
+            },
+            {
+                "tag": "优秀学生干部",
+                "type": "award"
+            },
+            {
+                "tag": "校级三好学生",
+                "type": "award"
+            },
+            {
+                "tag": "系级三好学生",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 7.5,
+        "其他": 5.5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5.5,
+        "互联网": 5,
+        "产品": 8,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.43093484832136375,
+            "title": {
+                "l2": "教育",
+                "l3": "体育教师",
+                "l1": "咨询/法律/教育/翻译"
+            }
+        },
+        {
+            "score": 0.42806836292347683,
+            "title": {
+                "l2": "产品",
+                "l3": "产品经理",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.37193163707652316,
+            "title": {
+                "l2": "市场",
+                "l3": "广告编辑",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.3094374701362819,
+            "title": {
+                "l2": "生产/采购/物流",
+                "l3": "物流管理",
+                "l1": "采购/贸易/交通/物流"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 38.333333333333336,
+        "average_industry_time": 57.5,
+        "average_work_time": 38.333333333333336,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "供应链控制",
+            "score": 1
+        },
+        {
+            "skill": "运营规划",
+            "score": 1
+        },
+        {
+            "skill": "市场开发",
+            "score": 1
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.23352430760860443,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

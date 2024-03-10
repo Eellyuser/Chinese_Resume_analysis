@@ -1,0 +1,56 @@
+{
+  "name": "陈铭",
+  "bir": "1989.7",
+  "gend": "",
+  "tel": "18122334455",
+  "acad": "",
+  "nati": "",
+  "live": "武汉 光谷",
+  "poli": "",
+  "unv": "",
+  "work_experience": [
+    {
+      "time": "2018.8-至今",
+      "org": "中铁十四局集团房地产开发公司",
+      "work_desc": "副总经理，负责全面销售管理工作及项目收尾工作，带领团队完成开发计划，实现利润3.61亿元。"
+    },
+    {
+      "time": "2014.8-2018.8",
+      "org": "铁道部",
+      "work_desc": "工程师，历任技术员，参与房地产公司成立事宜，主要负责公司注册成立手续办理。"
+    }
+  ],
+  "education": [
+    {
+      "time": "2011.2-2014.6",
+      "school": "山东大学",
+      "degree": "MBA硕士学位",
+      "edu_desc": ""
+    },
+    {
+      "time": "2007.2-2011.6",
+      "school": "兰州交通大学",
+      "degree": "交通土建工程本科",
+      "edu_desc": ""
+    }
+  ],
+  "project_experience": [],
+  "training_experience": [],
+  "awards": [
+    {
+      "time": "",
+      "award": "建功立业劳动奖章、青春立功活动先进个人、三个文明建设先进工作者等"
+    }
+  ],
+  "self_assessment": "性格外向但不失稳重，多年房地产从业经验，掌握房地产项目开发全流程，沟通协调能力强，团队建设意识强，善于应对挑战。",
+  "career_objective": "项目主管",
+  "skills": "",
+  "interests": "",
+  "certifications": "",
+  "language_skills": "",
+  "publications": "",
+  "philosophy": "",
+  "major_courses": "",
+  "self_introduction": "",
+  "other": ""
+}

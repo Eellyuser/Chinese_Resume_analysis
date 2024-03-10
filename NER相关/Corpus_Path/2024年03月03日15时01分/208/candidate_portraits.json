@@ -1,0 +1,307 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "网站需求分析",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "电子商务策划",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "电子商务策划",
+                "type": "professional_skill",
+                "subclass": "电子商务"
+            },
+            {
+                "tag": "产品管理",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "项目管理",
+                "type": "professional_skill",
+                "subclass": "项目管理"
+            },
+            {
+                "tag": "团队管理",
+                "type": "professional_skill",
+                "subclass": "管理"
+            },
+            {
+                "tag": "电商",
+                "type": "professional_skill",
+                "subclass": "电子商务"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "平面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "交互设计",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "产品开发",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "C++",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "WEB",
+                "type": "professional_skill",
+                "subclass": "其它"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "IT/互联网-产品-产品经理",
+                "type": "standard_title"
+            },
+            {
+                "tag": "市场专员",
+                "type": "job_title"
+            },
+            {
+                "tag": "产品经理",
+                "type": "job_title"
+            },
+            {
+                "tag": "软件工程师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "市场营销",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "中共党员",
+                "type": "political_status"
+            },
+            {
+                "tag": "广东佛山",
+                "type": "current_location"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "粤语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "华南大学生创意营销大赛一等奖",
+                "type": "award"
+            },
+            {
+                "tag": "挑战杯创业计划大赛省级铜奖",
+                "type": "award"
+            },
+            {
+                "tag": "获国家奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在3段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "有丰富的产品设计经验，对产品设计、产品规划、产品管理、产品开发、交互设计、需求分析等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "稳定性高",
+            "技术达标"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 10,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "产品",
+                "l3": "产品经理",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.37855988705141413,
+            "title": {
+                "l2": "后端开发",
+                "l3": "C语言",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.13206810209178144,
+            "title": {
+                "l2": "后端开发",
+                "l3": ".NET",
+                "l1": "IT/互联网"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 162.5,
+        "average_industry_time": null,
+        "average_work_time": 120.66666666666667,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 7,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "网站需求分析",
+            "score": 1
+        },
+        {
+            "skill": "电子商务策划",
+            "score": 1
+        },
+        {
+            "skill": "产品管理",
+            "score": 1
+        },
+        {
+            "skill": "项目管理",
+            "score": 1
+        },
+        {
+            "skill": "团队管理",
+            "score": 1
+        },
+        {
+            "skill": "电商",
+            "score": 1
+        },
+        {
+            "skill": "化工",
+            "score": 1
+        },
+        {
+            "skill": "写作",
+            "score": 1
+        },
+        {
+            "skill": "调研",
+            "score": 1
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "平面设计",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        },
+        {
+            "skill": "交互设计",
+            "score": 0.7
+        },
+        {
+            "skill": "产品开发",
+            "score": 0.7
+        },
+        {
+            "skill": "普通话",
+            "score": 0.7
+        },
+        {
+            "skill": "c++",
+            "score": 0.7
+        },
+        {
+            "skill": "web",
+            "score": 0.7
+        },
+        {
+            "skill": "粤语",
+            "score": 0.7
+        },
+        {
+            "skill": "营销",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "20000_to_30000",
+    "predicted_turnover": 0.21051450073719025,
+    "risks": {
+        "occupation": [
+            "候选人在2019年9月至2021年9月存在工作空档期"
+        ],
+        "education": [],
+        "tags": [
+            "存在职业空档期"
+        ]
+    }
+}

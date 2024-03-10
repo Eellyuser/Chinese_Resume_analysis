@@ -1,0 +1,343 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "业务咨询",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            },
+            {
+                "tag": "投资顾问",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "BOOTSTRAP",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "THINKPHP",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "JQUERY",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "安卓客户端",
+                "type": "professional_skill",
+                "subclass": "安卓开发"
+            },
+            {
+                "tag": "业务营销",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "证券投资",
+                "type": "professional_skill",
+                "subclass": "理财相关"
+            },
+            {
+                "tag": "客户营销",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "市场拓展",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "API",
+                "type": "professional_skill",
+                "subclass": "后端开发"
+            },
+            {
+                "tag": "IOS",
+                "type": "professional_skill",
+                "subclass": "ios开发"
+            },
+            {
+                "tag": "房地产",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "企业法",
+                "type": "professional_skill",
+                "subclass": "法务"
+            },
+            {
+                "tag": "宣传",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "IP",
+                "type": "professional_skill",
+                "subclass": "法务"
+            },
+            {
+                "tag": "IP",
+                "type": "professional_skill",
+                "subclass": "通信工程"
+            },
+            {
+                "tag": "信贷",
+                "type": "professional_skill",
+                "subclass": "风险管理"
+            },
+            {
+                "tag": "组织能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "金融",
+                "type": "industry"
+            },
+            {
+                "tag": "金融-金融/银行/保险-客户经理",
+                "type": "standard_title"
+            },
+            {
+                "tag": "客户经理",
+                "type": "job_title"
+            },
+            {
+                "tag": "营业部开户业务",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "金融与投资",
+                "type": "major"
+            },
+            {
+                "tag": "海外留学经历",
+                "type": "abroad"
+            },
+            {
+                "tag": "留学地区:英国",
+                "type": "abroad_country"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "精通"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "cet-6",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在3段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "有英国留学经历，更能适应外语工作环境，符合海外经验要求"
+        ],
+        "others": [
+            "熟练掌握英语，听说读写能力优秀，善于和不同文化背景的国际客户进行商务沟通"
+        ],
+        "tags": [
+            "稳定性高",
+            "海外留学经历",
+            "英语能力优秀"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 10
+    },
+    "predicted_titles": [
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "客户经理",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.370784631386727,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "银行客户管理",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.2167851397048251,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "银行行长",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.21243022890844787,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "柜员",
+                "l1": "金融"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 42.666666666666664,
+        "average_industry_time": null,
+        "average_work_time": 42.666666666666664,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 7,
+        "workexp": 8.8,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "业务咨询",
+            "score": 1
+        },
+        {
+            "skill": "投资顾问",
+            "score": 0.9
+        },
+        {
+            "skill": "柜台",
+            "score": 0.8
+        },
+        {
+            "skill": "接待",
+            "score": 0.8
+        },
+        {
+            "skill": "bootstrap",
+            "score": 0.7
+        },
+        {
+            "skill": "thinkphp",
+            "score": 0.7
+        },
+        {
+            "skill": "jquery",
+            "score": 0.7
+        },
+        {
+            "skill": "安卓客户端",
+            "score": 0.7
+        },
+        {
+            "skill": "业务营销",
+            "score": 0.7
+        },
+        {
+            "skill": "证券投资",
+            "score": 0.7
+        },
+        {
+            "skill": "客户营销",
+            "score": 0.7
+        },
+        {
+            "skill": "市场拓展",
+            "score": 0.7
+        },
+        {
+            "skill": "api",
+            "score": 0.7
+        },
+        {
+            "skill": "ios",
+            "score": 0.7
+        },
+        {
+            "skill": "房地产",
+            "score": 0.7
+        },
+        {
+            "skill": "企业法",
+            "score": 0.7
+        },
+        {
+            "skill": "宣传",
+            "score": 0.7
+        },
+        {
+            "skill": "ip",
+            "score": 0.7
+        },
+        {
+            "skill": "信贷",
+            "score": 0.7
+        },
+        {
+            "skill": "推广",
+            "score": 0.7
+        },
+        {
+            "skill": "材料",
+            "score": 0.7
+        },
+        {
+            "skill": "调查",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": 0.22741349041461945,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

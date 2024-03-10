@@ -1,0 +1,258 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "土建",
+                "type": "professional_skill",
+                "subclass": "房地产"
+            },
+            {
+                "tag": "施工管理",
+                "type": "professional_skill",
+                "subclass": "建筑工程"
+            },
+            {
+                "tag": "团队建设",
+                "type": "professional_skill",
+                "subclass": "管理"
+            },
+            {
+                "tag": "管理工作",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "地产项目开发",
+                "type": "professional_skill",
+                "subclass": "项目管理"
+            },
+            {
+                "tag": "房地产开发",
+                "type": "professional_skill",
+                "subclass": "房地产"
+            },
+            {
+                "tag": "销售管理",
+                "type": "professional_skill",
+                "subclass": "销售"
+            },
+            {
+                "tag": "协调能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "性格外向",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "房地产/建筑",
+                "type": "industry"
+            },
+            {
+                "tag": "财务/人力资源/行政-行政/高级管理-高级管理人员",
+                "type": "standard_title"
+            },
+            {
+                "tag": "工程师",
+                "type": "job_title"
+            },
+            {
+                "tag": "副总经理",
+                "type": "job_title"
+            },
+            {
+                "tag": "管理经验",
+                "type": "management"
+            }
+        ],
+        "education": [
+            {
+                "tag": "MBA学历",
+                "type": "degree"
+            },
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "经贸",
+                "type": "major"
+            },
+            {
+                "tag": "TOP10院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "985工程院校",
+                "type": "school_level"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "35到40岁",
+                "type": "age"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "青春立功活动先进个人",
+                "type": "award"
+            },
+            {
+                "tag": "创效工作先进个人",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "拥有良好的团队建设能力与协调能力,具有优秀的团队管理能力,积累了一定团队管理经验与能力",
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "拥有MBA学位",
+            "院校背景不错，MBA学历，毕业于全国TOP10院校",
+            "院校背景不错，本科学历，毕业于全国TOP10院校"
+        ],
+        "others": [],
+        "tags": [
+            "管理经验",
+            "稳定性高",
+            "国内TOP10"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 6,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 9,
+        "生产/采购/物流": 5,
+        "互联网": 6,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "行政/高级管理",
+                "l3": "高级管理人员",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.33551688511242234,
+            "title": {
+                "l2": "后端开发",
+                "l3": "C语言",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.2450307299675483,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "房地产开发",
+                "l1": "房产/建筑/物业管理"
+            }
+        },
+        {
+            "score": 0.19888921753023936,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "房产销售",
+                "l1": "房产/建筑/物业管理"
+            }
+        },
+        {
+            "score": 0.19608005250221255,
+            "title": {
+                "l2": "建筑/房地产",
+                "l3": "建筑工程",
+                "l1": "房产/建筑/物业管理"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 43,
+        "average_industry_time": null,
+        "average_work_time": 43,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 9,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "土建",
+            "score": 1
+        },
+        {
+            "skill": "施工管理",
+            "score": 0.8
+        },
+        {
+            "skill": "团队建设",
+            "score": 0.8
+        },
+        {
+            "skill": "管理工作",
+            "score": 0.8
+        },
+        {
+            "skill": "地产项目开发",
+            "score": 0.7
+        },
+        {
+            "skill": "房地产开发",
+            "score": 0.7
+        },
+        {
+            "skill": "销售管理",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "20000_to_30000",
+    "predicted_turnover": 0.20472390949726105,
+    "risks": {
+        "occupation": [
+            "候选人在24年3月至2014年8月存在工作空档期"
+        ],
+        "education": [],
+        "tags": [
+            "存在职业空档期"
+        ]
+    }
+}

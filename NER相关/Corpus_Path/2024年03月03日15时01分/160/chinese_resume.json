@@ -1,0 +1,164 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "",
+        "QQ": "123456789",
+        "wechat": "",
+        "email": "123456789@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "视觉传达",
+            "degree": "本科",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "07",
+            "school_name": "中国美术学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "国际市场营销，基本会计，市场营销，心理学，统计学",
+            "start_time_year": "2015",
+            "location": "杭州",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        },
+        {
+            "ranking": "",
+            "major": "会计",
+            "degree": "大专",
+            "end_time_year": "2013",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "07",
+            "school_name": "浙江交通职业技术学院",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "高级财务管理，中级财务会计，国际财务管理，证券投资学，会计学基础，财务分析，管理会计，财务管理，税法，会计",
+            "start_time_year": "2010",
+            "location": "杭州",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "09"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "视觉传达",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "浙江",
+        "degree": "本科",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1992-12",
+        "birthplace_norm": "中国-浙江",
+        "num_work_experience": 6,
+        "current_position": "财务助理",
+        "work_start_year": "2018",
+        "political_status": "党员",
+        "current_company": "意红方格服饰公司",
+        "school_name": "中国美术学院",
+        "ethnic": "",
+        "recent_graduate_year": "2018",
+        "name": "涂昀",
+        "lastupdate_time": "2024-03-08-08-02-36",
+        "gender": "女",
+        "age": 32,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "负责登记部分日记账，帮助会计主管整理会计凭证。，帮助销售 WeChat:\n部门组长核对当月销售完成情况。 +880 1234 567 89",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "skills": [
+                "财务",
+                "会计"
+            ],
+            "company_type": "",
+            "industry": "消费/零售",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "财务/审计/税务",
+            "start_time_year": "2018",
+            "company_name": "意红方格服饰公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "财务助理",
+            "start_time_month": "09"
+        }
+    ],
+    "others": {
+        "language": [
+            "英语",
+            "普通话"
+        ],
+        "certificate": [
+            "cet-6",
+            "普通话乙等",
+            "计算机一级"
+        ],
+        "skills": [
+            "PPT",
+            "Word",
+            "Excel",
+            "营销",
+            "会计",
+            "财务",
+            "文案",
+            "美术",
+            "Photoshop",
+            "心理学",
+            "普通话",
+            "Illustrator",
+            "财务分析",
+            "财务会计",
+            "市场营销",
+            "证券投资",
+            "财务管理"
+        ],
+        "self_evaluation": "自我评价                                       2017 年获“三好学生”称号\n2013 年获营销大赛一等奖\n本人性格热情开朗，待人友好，为人真诚谦虚。能吃苦耐劳，尽职                    2012 年创业杯大赛铜奖\n尽责，有耐心。善于与人沟通。学习刻苦认真，成绩优秀，品学兼                    计算机一级，熟练计算机各种操作\n优 ， 连续三年获得学院奖学金。为人诚恳勤奋好学、脚踏实地 ， 有                    普通话乙等\n较强的团队精神，工作积极进取，态度认真。，态度认真。                       cet-6，优秀的听说写能力",
+        "awards": [
+            "连续三年获得学院奖学金",
+            "年获营销大赛一等奖",
+            "年国家奖学金",
+            "年创业杯大赛铜奖"
+        ],
+        "it_skills": [
+            "PPT",
+            "Excel",
+            "Photoshop"
+        ],
+        "business_skills": [
+            "Word",
+            "Excel",
+            "会计",
+            "财务会计"
+        ]
+    },
+    "resume_rawtext": ""
+}

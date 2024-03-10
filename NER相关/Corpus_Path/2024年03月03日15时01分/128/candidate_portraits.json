@@ -1,0 +1,134 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "医疗器械",
+                "type": "professional_skill",
+                "subclass": "其它"
+            }
+        ],
+        "professional": [],
+        "education": [
+            {
+                "tag": "护理",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "女",
+                "type": "gender"
+            },
+            {
+                "tag": "26到30岁",
+                "type": "age"
+            },
+            {
+                "tag": "中共党员",
+                "type": "political_status"
+            },
+            {
+                "tag": "初级",
+                "type": "level"
+            },
+            {
+                "tag": "5-10年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "基本掌握"
+            },
+            {
+                "tag": "护师资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "计算机一级",
+                "type": "certificate"
+            },
+            {
+                "tag": "护士资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "英语四级",
+                "type": "certificate"
+            },
+            {
+                "tag": "年暑假社会实践活动中获得个人现金奖",
+                "type": "award"
+            },
+            {
+                "tag": "年获得我校心理剧大赛三等奖",
+                "type": "award"
+            },
+            {
+                "tag": "荣获特别奉献奖",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [],
+        "education": [],
+        "others": [
+            "熟练掌握英语，能进行基本的沟通"
+        ],
+        "tags": [
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [],
+    "stability": {
+        "average_job_function_time": null,
+        "average_industry_time": null,
+        "average_work_time": null,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 5,
+        "education": 6.5,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "医疗器械",
+            "score": 0.7
+        },
+        {
+            "skill": "内科",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "under_4000",
+    "predicted_turnover": null,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

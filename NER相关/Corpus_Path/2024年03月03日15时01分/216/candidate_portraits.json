@@ -1,0 +1,294 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "页面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "网页设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "平面设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "插画",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "ILLUSTRATOR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "INDESIGN",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "HTML5",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "FLASH",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "平面软件",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "CSS3",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "漫画",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "包装设计",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "适应能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "创新能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "学习能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "组织能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "文化/体育/娱乐/社交",
+                "type": "industry"
+            },
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告编辑",
+                "type": "standard_title"
+            },
+            {
+                "tag": "销售/客服/市场-市场-广告设计",
+                "type": "standard_title"
+            },
+            {
+                "tag": "网页设计师",
+                "type": "job_title"
+            },
+            {
+                "tag": "插画师",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "美术设计",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "主题动漫展优秀作品奖",
+                "type": "award"
+            },
+            {
+                "tag": "年获国家奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在1段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [],
+        "tags": [
+            "稳定性高"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 8.5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 9,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "市场",
+                "l3": "广告编辑",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "市场",
+                "l3": "广告设计",
+                "l1": "销售/客服/市场"
+            }
+        },
+        {
+            "score": 0.579700695739549,
+            "title": {
+                "l2": "前端开发",
+                "l3": "UI/UX",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.4202993042604509,
+            "title": {
+                "l2": "生产/采购/物流",
+                "l3": "网站相关",
+                "l1": "采购/贸易/交通/物流"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 43,
+        "average_industry_time": 57.333333333333336,
+        "average_work_time": 43,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "页面设计",
+            "score": 1
+        },
+        {
+            "skill": "网页设计",
+            "score": 1
+        },
+        {
+            "skill": "平面设计",
+            "score": 1
+        },
+        {
+            "skill": "沟通能力",
+            "score": 0.8
+        },
+        {
+            "skill": "插画",
+            "score": 0.8
+        },
+        {
+            "skill": "illustrator",
+            "score": 0.7
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "indesign",
+            "score": 0.7
+        },
+        {
+            "skill": "html5",
+            "score": 0.7
+        },
+        {
+            "skill": "flash",
+            "score": 0.7
+        },
+        {
+            "skill": "平面软件",
+            "score": 0.7
+        },
+        {
+            "skill": "css3",
+            "score": 0.7
+        },
+        {
+            "skill": "美术",
+            "score": 0.7
+        },
+        {
+            "skill": "漫画",
+            "score": 0.7
+        },
+        {
+            "skill": "包装设计",
+            "score": 0.5
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.16074936091899872,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

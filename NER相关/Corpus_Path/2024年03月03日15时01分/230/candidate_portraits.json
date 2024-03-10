@@ -1,0 +1,255 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "业务咨询",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            },
+            {
+                "tag": "投资顾问",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "OFFICE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "金融服务",
+                "type": "professional_skill",
+                "subclass": "投资相关"
+            },
+            {
+                "tag": "证券投资",
+                "type": "professional_skill",
+                "subclass": "理财相关"
+            },
+            {
+                "tag": "办公软件",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "客户服务",
+                "type": "professional_skill",
+                "subclass": "客户服务"
+            },
+            {
+                "tag": "VFP",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "沟通能力",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "团队协作",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "服务意识",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "金融",
+                "type": "industry"
+            },
+            {
+                "tag": "金融-金融/银行/保险-柜员",
+                "type": "standard_title"
+            },
+            {
+                "tag": "营业部开户业务",
+                "type": "job_title"
+            },
+            {
+                "tag": "中国500强企业",
+                "type": "company_class"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "金融",
+                "type": "major"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "上海",
+                "type": "current_location"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "证券从业资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "计算机二级证",
+                "type": "certificate"
+            },
+            {
+                "tag": "ielts",
+                "type": "certificate"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "中国500强企业从业经历",
+            "候选人存在3段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "院校背景不错，本科学历，毕业于211院校"
+        ],
+        "others": [],
+        "tags": [
+            "名企经历",
+            "稳定性高",
+            "国内211",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 10
+    },
+    "predicted_titles": [
+        {
+            "score": 0.6400000000000001,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "柜员",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.35048790811781605,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "银行客户管理",
+                "l1": "金融"
+            }
+        },
+        {
+            "score": 0.22620630753293214,
+            "title": {
+                "l2": "金融/银行/保险",
+                "l3": "银行行长",
+                "l1": "金融"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 47,
+        "average_industry_time": null,
+        "average_work_time": 47,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 7,
+        "honor": 7
+    },
+    "predicted_skills": [
+        {
+            "skill": "业务咨询",
+            "score": 1
+        },
+        {
+            "skill": "投资顾问",
+            "score": 1
+        },
+        {
+            "skill": "接待",
+            "score": 0.9
+        },
+        {
+            "skill": "柜台",
+            "score": 0.9
+        },
+        {
+            "skill": "office",
+            "score": 0.7
+        },
+        {
+            "skill": "金融服务",
+            "score": 0.7
+        },
+        {
+            "skill": "沟通能力",
+            "score": 0.7
+        },
+        {
+            "skill": "证券投资",
+            "score": 0.7
+        },
+        {
+            "skill": "办公软件",
+            "score": 0.7
+        },
+        {
+            "skill": "客户服务",
+            "score": 0.7
+        },
+        {
+            "skill": "vfp",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": 0.23145437240600586,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

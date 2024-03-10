@@ -1,0 +1,152 @@
+{
+    "project_experience": [
+        {
+            "project_name": "体制内人才转型专场实习（线上+线下）",
+            "description": "产品雏型\nPCH5 专题页面、报名页面的产品雏型绘制 Azure 学习中√\n常规运营",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [
+                "运营",
+                "h5"
+            ],
+            "end_time_month": "",
+            "location": "",
+            "start_time_year": "",
+            "company_name": "",
+            "job_function": "Web前端/网页前端",
+            "job_title": "",
+            "start_time_month": ""
+        },
+        {
+            "project_name": "网感√",
+            "description": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "skills": [],
+            "end_time_month": "",
+            "location": "",
+            "start_time_year": "",
+            "company_name": "",
+            "job_function": "服装技工",
+            "job_title": "",
+            "start_time_month": ""
+        },
+        {
+            "project_name": "主持-猎聘网周年",
+            "description": "主持-猎聘网周年 猎聘年终策划专场 2016 体制内人才转型专场\n采访-采访 写稿 编稿 排版\n负责-猎聘网独家策划 2016.8-至今\n执行-猎聘网周年 ZAKER 招聘 老牌 IT 巨头招聘专场\n重点项目有哪些？ 推广-几乎负责了所有专题的推广工作\n主要成就- 擅长 C 端角度文案；熟练传播的多种形式；为猎聘网做\n了新媒体渠道库，渠道数量数万，北上广各有靠谱合作方；uv 单价\n最多降低 45%。优化部门传播流程，增速近一倍；负责的项目，传\n播几乎没花钱，线上 uv2.5W，线下高端论坛、重磅嘉宾等。\n实习算起，成为苦逼的互联网人快两年，幸好很喜欢。\n专业+工作原因，是微博、微信、博客、论坛、知乎等社交平台中毒\n关于自己，我还有话说\n用户。大学养过访问量破百万的博客和人气不错的天涯长贴。\n新媒体、自媒体、知乎大 V、互联网圈内积累一定关系。\n开朗理智，抗压好，执行力较强；跟同事融洽，团队作战意识强。\n负责，总是知道自己要什么，并且坚持争取。有好奇心，乐意学。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "优化",
+                "招聘",
+                "策划",
+                "排版",
+                "文案",
+                "主持"
+            ],
+            "end_time_month": "03",
+            "location": "",
+            "start_time_year": "2016",
+            "company_name": "",
+            "job_function": "广告媒介",
+            "job_title": "",
+            "start_time_month": "08"
+        }
+    ],
+    "contact_info": {
+        "phone_number": "18010101010",
+        "QQ": "",
+        "wechat": "",
+        "email": "office@microsoft.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "编辑出版",
+            "degree": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "school_rank": "2",
+            "school_level": "985 211",
+            "end_time_month": "",
+            "school_name": "北京大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "",
+            "location": "北京",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": ""
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "编辑出版",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "1992",
+        "birthplace_norm": "",
+        "num_work_experience": 0,
+        "current_position": "",
+        "work_start_year": "",
+        "political_status": "",
+        "current_company": "",
+        "school_name": "北京大学",
+        "ethnic": "",
+        "recent_graduate_year": "",
+        "name": "钟庭玮",
+        "lastupdate_time": "2024-03-08-07-49-31",
+        "gender": "",
+        "age": 32,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "985 211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [],
+        "certificate": [],
+        "skills": [
+            "Ps",
+            "H5",
+            "Http",
+            "招聘",
+            "Office",
+            "优化",
+            "运营",
+            "策划",
+            "排版",
+            "文案",
+            "主持",
+            "Microsoft",
+            "Google Analytics"
+        ],
+        "self_evaluation": "",
+        "awards": [],
+        "it_skills": [
+            "Office"
+        ],
+        "business_skills": [
+            "Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

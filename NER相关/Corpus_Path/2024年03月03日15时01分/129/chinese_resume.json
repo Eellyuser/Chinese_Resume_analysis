@@ -1,0 +1,200 @@
+{
+    "project_experience": [
+        {
+            "project_name": "网上购物系统",
+            "description": "项目描述: 用户进入系统后，可以进行产品的浏览与查询。用户想要购物必须进行登录，如果用\n户没有注册，提醒用户注册，注册成功后进行系统可进行购物。\n职责描述: 参与该系统购物模块设计。独立开发了购物车模块。完成对该系统部分的测试工作，\n并完善了该项目的相关文档资料",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "skills": [
+                "模块设计"
+            ],
+            "end_time_month": "05",
+            "location": "",
+            "start_time_year": "2019",
+            "company_name": "",
+            "job_function": "广告设计",
+            "job_title": "",
+            "start_time_month": "03"
+        },
+        {
+            "project_name": "小型",
+            "description": "项目描述: 系统平台: windowsxp 数据库: Oracle\n职责描述: 本人主要完成了给角色指定相应的模块 用户登录的权限的控制,独立开发了管理员管\n理模块和权限管理模块，包括设计，编码，模块单元测试实现了对权限管理子模块的增，删，查",
+            "end_time_year": "2018",
+            "still_active": 0,
+            "skills": [
+                "oracle",
+                "数据库",
+                "单元测试",
+                "windowsxp",
+                "编码"
+            ],
+            "end_time_month": "10",
+            "location": "",
+            "start_time_year": "2016",
+            "company_name": "",
+            "job_function": "C语言",
+            "job_title": "",
+            "start_time_month": "10"
+        }
+    ],
+    "contact_info": {
+        "phone_number": "15800000000",
+        "QQ": "",
+        "wechat": "",
+        "email": "halingyuan@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "学科教学（语文）",
+            "degree": "硕士",
+            "end_time_year": "2015",
+            "still_active": 0,
+            "school_rank": "13",
+            "school_level": "985 211",
+            "end_time_month": "01",
+            "school_name": "武汉大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2012",
+            "location": "武汉",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        },
+        {
+            "ranking": "",
+            "major": "汉语言文学",
+            "degree": "本科",
+            "end_time_year": "2012",
+            "still_active": 0,
+            "school_rank": "13",
+            "school_level": "985 211",
+            "end_time_month": "01",
+            "school_name": "武汉大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2008",
+            "location": "武汉",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "学科教学（语文）",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-湖北-武汉",
+        "current_location": "湖北武汉",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "硕士",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "资深",
+        "national_identity_number": "",
+        "date_of_birth": "1990-12-24",
+        "birthplace_norm": "",
+        "num_work_experience": 12,
+        "current_position": "设计师",
+        "work_start_year": "2012",
+        "political_status": "",
+        "current_company": "湖北武汉国际设计公司",
+        "school_name": "武汉大学",
+        "ethnic": "",
+        "recent_graduate_year": "2015",
+        "name": "何伶元",
+        "lastupdate_time": "2024-03-08-07-52-57",
+        "gender": "",
+        "age": 34,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "985 211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "负责撰写起草、整理、归档学校日常公文、资料、文档及相关统计数据。",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "统计数据"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2016",
+            "company_name": "湖北武汉国际设计公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "设计师",
+            "start_time_month": "03"
+        },
+        {
+            "salary": "",
+            "description": "负责收发设计传真复印、扫描文档、收发信件、文件、快递包裹的接收等。",
+            "end_time_year": "2014",
+            "still_active": 0,
+            "skills": [],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "11",
+            "location": "",
+            "company_size": "",
+            "job_function": "市场",
+            "start_time_year": "2012",
+            "company_name": "湖北武汉国际设计公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "实习",
+            "start_time_month": "06"
+        }
+    ],
+    "others": {
+        "language": [
+            "汉语"
+        ],
+        "certificate": [],
+        "skills": [
+            "Java",
+            "Linux",
+            "编码",
+            "Oracle",
+            "Windowsxp",
+            "数据库",
+            "统计数据",
+            "单元测试",
+            "产品管理",
+            "活动策划",
+            "项目管理",
+            "模块设计"
+        ],
+        "self_evaluation": "良好的公共关系意识，善于沟通，具备一定的活动策划和组织协调能力。良好的心态和责任感，\n吃苦耐劳，擅于管理时间，勇于面对变化和挑战。良好的学习能力，习惯制定切实可行的学习\n计划，勤于学习能不断提高。",
+        "awards": [],
+        "it_skills": [
+            "Java"
+        ],
+        "business_skills": [
+            "产品管理"
+        ]
+    },
+    "resume_rawtext": ""
+}

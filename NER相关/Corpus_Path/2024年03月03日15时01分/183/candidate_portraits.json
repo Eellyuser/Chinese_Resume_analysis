@@ -1,0 +1,264 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "会计核算",
+                "type": "professional_skill",
+                "subclass": "会计相关"
+            },
+            {
+                "tag": "报表编制",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "对账",
+                "type": "professional_skill",
+                "subclass": "审计"
+            },
+            {
+                "tag": "资金",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "报税",
+                "type": "professional_skill",
+                "subclass": "审计"
+            },
+            {
+                "tag": "EXCEL",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "WORD",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            },
+            {
+                "tag": "财务分析",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "管理工作",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "财务会计",
+                "type": "professional_skill",
+                "subclass": "金融财务"
+            },
+            {
+                "tag": "PPT",
+                "type": "professional_skill",
+                "subclass": "办公软件"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "会计",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "会计学",
+                "type": "major"
+            },
+            {
+                "tag": "211工程院校",
+                "type": "school_level"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "35到40岁",
+                "type": "age"
+            },
+            {
+                "tag": "团员",
+                "type": "political_status"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": [
+            {
+                "tag": "英语",
+                "type": "language",
+                "level": "熟练"
+            },
+            {
+                "tag": "证券从业资格证",
+                "type": "certificate"
+            },
+            {
+                "tag": "tem-4",
+                "type": "certificate"
+            },
+            {
+                "tag": "会计电算化",
+                "type": "certificate"
+            },
+            {
+                "tag": "会计上岗证",
+                "type": "certificate"
+            },
+            {
+                "tag": "计算机二级",
+                "type": "certificate"
+            },
+            {
+                "tag": "年度校级优秀团员",
+                "type": "award"
+            },
+            {
+                "tag": "年度三等奖学金",
+                "type": "award"
+            }
+        ]
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [
+            "院校背景不错，本科学历，毕业于211院校"
+        ],
+        "others": [
+            "熟练掌握英语，可以流利地进行听说读写"
+        ],
+        "tags": [
+            "稳定性高",
+            "国内211",
+            "英语能力良好",
+            "证书达人"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 5,
+        "产品": 5,
+        "金融": 10
+    },
+    "predicted_titles": [
+        {
+            "score": 0.23329796641061895,
+            "title": {
+                "l2": "财务",
+                "l3": "财务管理",
+                "l1": "财务/人力资源/行政"
+            }
+        },
+        {
+            "score": 0.23040576466004817,
+            "title": {
+                "l2": "财务",
+                "l3": "会计",
+                "l1": "财务/人力资源/行政"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 83,
+        "average_industry_time": null,
+        "average_work_time": 60.5,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 6,
+        "socialexp": 6,
+        "leadership": 5,
+        "workexp": 8,
+        "education": 7,
+        "honor": 10
+    },
+    "predicted_skills": [
+        {
+            "skill": "会计核算",
+            "score": 1
+        },
+        {
+            "skill": "报表编制",
+            "score": 1
+        },
+        {
+            "skill": "材料",
+            "score": 1
+        },
+        {
+            "skill": "对账",
+            "score": 1
+        },
+        {
+            "skill": "资金",
+            "score": 1
+        },
+        {
+            "skill": "保管",
+            "score": 1
+        },
+        {
+            "skill": "报税",
+            "score": 1
+        },
+        {
+            "skill": "excel",
+            "score": 0.7
+        },
+        {
+            "skill": "word",
+            "score": 0.7
+        },
+        {
+            "skill": "财务分析",
+            "score": 0.7
+        },
+        {
+            "skill": "管理工作",
+            "score": 0.7
+        },
+        {
+            "skill": "财务会计",
+            "score": 0.7
+        },
+        {
+            "skill": "ppt",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "8000_to_10000",
+    "predicted_turnover": 0.20681853592395782,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

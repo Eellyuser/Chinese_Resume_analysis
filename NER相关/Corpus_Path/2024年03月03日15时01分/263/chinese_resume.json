@@ -1,0 +1,145 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13405678901",
+        "QQ": "24234543",
+        "wechat": "",
+        "email": "24234543@qq.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [
+        {
+            "description": "负责社团组织建设，社团机构的管理，协调各部\n门工作\n组织策划社团的成立大会、竞选会、团队培训、\n招新等运维活动。",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "end_time_month": "02",
+            "organization_name": "郑州大学",
+            "start_time_year": "2018",
+            "location": "郑州",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "02"
+        },
+        {
+            "description": "兴趣爱好 负责社团组织建设，社团机构的管理，协调各部门工作 \n组织策划社团的成立大会、竞选会、团队培训、 \n招新等运维活动。",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "听音乐",
+            "start_time_year": "2020",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "01"
+        },
+        {
+            "description": "联系方式 负责社团组织建设，社团机构的管理，协调各部\n门工作\n组织策划社团的成立大会、竞选会、团队培训、电话: 13405678901 2018-/-2019 - 青协社团",
+            "end_time_year": "2020",
+            "still_active": 0,
+            "end_time_month": "01",
+            "organization_name": "漫画社团",
+            "start_time_year": "2019",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "01"
+        },
+        {
+            "description": "门工作\n居住地址: 河南 组织策划社团的成立大会、竞选会、团队培训、\n招新等运维活动。",
+            "end_time_year": "2000",
+            "still_active": 0,
+            "end_time_month": "09",
+            "organization_name": "负责社团组",
+            "start_time_year": "2000",
+            "location": "",
+            "department": "",
+            "job_title": "",
+            "start_time_month": "08"
+        }
+    ],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "",
+            "degree": "",
+            "end_time_year": "",
+            "still_active": 0,
+            "school_rank": "143",
+            "school_level": "211",
+            "end_time_month": "",
+            "school_name": "郑州大学",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "",
+            "location": "郑州",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": ""
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "中国-河南",
+        "current_location": "河南",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "",
+        "degree": "",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "初级",
+        "national_identity_number": "",
+        "date_of_birth": "2000-08-04",
+        "birthplace_norm": "",
+        "num_work_experience": 0,
+        "current_position": "",
+        "work_start_year": "",
+        "political_status": "",
+        "current_company": "",
+        "school_name": "郑州大学",
+        "ethnic": "",
+        "recent_graduate_year": "",
+        "name": "沈俊君",
+        "lastupdate_time": "2024-03-08-08-34-51",
+        "gender": "",
+        "age": 24,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "211",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [],
+    "others": {
+        "language": [],
+        "certificate": [],
+        "skills": [
+            "Web",
+            "Php",
+            "CAD",
+            "写作",
+            "策划",
+            "Design",
+            "运维",
+            "施工图",
+            "制图软件",
+            "沟通能力"
+        ],
+        "self_evaluation": "专业技能扎实，懂独立应用CAD制作施工图纸、施工方案、熟练使用相关制图软件，具有积极的\n工作态度，能按时完成工作。有良好的文化素养，在校期间积极参加支援服务活动，富有进取心\n, 能吃苦、虚心不自大、平易近人、通情分明事理。有较好的沟通能力，遇事冷静、热情、性格\n较为温婉、平淡。",
+        "awards": [
+            "挑战杯创业计划大赛省级铜奖"
+        ],
+        "it_skills": [
+            "CAD"
+        ],
+        "business_skills": []
+    },
+    "resume_rawtext": ""
+}

@@ -1,0 +1,340 @@
+{
+    "desired_salary": null,
+    "tags": {
+        "skills": [
+            {
+                "tag": "数据分析",
+                "type": "professional_skill",
+                "subclass": "数据分析"
+            },
+            {
+                "tag": "网站推广方案",
+                "type": "professional_skill",
+                "subclass": "运营"
+            },
+            {
+                "tag": "美工",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "AFTER EFFECT",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "DREAMWEAVER",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "ILLUSTRATOR",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "JAVASCRIPT",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "CORELDRAW",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PHOTOSHOP",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PREMIERE",
+                "type": "professional_skill",
+                "subclass": "其它"
+            },
+            {
+                "tag": "HTML5",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "FLASH",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "3DMAX",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "AXURE",
+                "type": "professional_skill",
+                "subclass": "产品"
+            },
+            {
+                "tag": "国际贸易",
+                "type": "professional_skill",
+                "subclass": "对外贸易"
+            },
+            {
+                "tag": "CSS3",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "WAP",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "DIV",
+                "type": "professional_skill",
+                "subclass": "前端开发"
+            },
+            {
+                "tag": "UI",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "AI",
+                "type": "professional_skill",
+                "subclass": "算法"
+            },
+            {
+                "tag": "AI",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "PS",
+                "type": "professional_skill",
+                "subclass": "UI设计"
+            },
+            {
+                "tag": "人资",
+                "type": "professional_skill",
+                "subclass": "人力资源"
+            },
+            {
+                "tag": "责任心",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            },
+            {
+                "tag": "善于沟通",
+                "type": "soft_skill",
+                "subclass": "软性技能"
+            }
+        ],
+        "professional": [
+            {
+                "tag": "互联网/软件",
+                "type": "industry"
+            },
+            {
+                "tag": "IT/互联网-前端开发-UI/UX",
+                "type": "standard_title"
+            },
+            {
+                "tag": "IT/互联网-用户体验-网店美工",
+                "type": "standard_title"
+            },
+            {
+                "tag": "UI 设计师",
+                "type": "job_title"
+            },
+            {
+                "tag": "美工主管",
+                "type": "job_title"
+            }
+        ],
+        "education": [
+            {
+                "tag": "本科学历",
+                "type": "degree"
+            },
+            {
+                "tag": "本人艺术设计专业毕业",
+                "type": "major"
+            }
+        ],
+        "basic": [
+            {
+                "tag": "30到35岁",
+                "type": "age"
+            },
+            {
+                "tag": "广东广州海珠区",
+                "type": "current_location"
+            },
+            {
+                "tag": "资深",
+                "type": "level"
+            },
+            {
+                "tag": "10-15年经验",
+                "type": "experience"
+            }
+        ],
+        "others": []
+    },
+    "highlights": {
+        "project": [],
+        "occupation": [
+            "候选人存在2段工作经历2年以上，工作稳定性较高"
+        ],
+        "education": [],
+        "others": [
+            "有丰富的前端开发经验，对div、javascript、css、html5、css3等技能或工具有深入的理解"
+        ],
+        "tags": [
+            "稳定性高",
+            "技术达标"
+        ]
+    },
+    "predicted_industry": {
+        "建筑/房地产": 5,
+        "咨询/法律/公务员": 5,
+        "生物/制药/医疗/护理": 5,
+        "教育/翻译/服务业": 5,
+        "其他": 5,
+        "工程师": 5,
+        "运营/客服/销售/市场": 5,
+        "人事/行政/高级管理": 5,
+        "生产/采购/物流": 5,
+        "互联网": 10,
+        "产品": 5,
+        "金融": 5
+    },
+    "predicted_titles": [
+        {
+            "score": 1,
+            "title": {
+                "l2": "前端开发",
+                "l3": "UI/UX",
+                "l1": "IT/互联网"
+            }
+        },
+        {
+            "score": 0.8,
+            "title": {
+                "l2": "用户体验",
+                "l3": "网店美工",
+                "l1": "IT/互联网"
+            }
+        }
+    ],
+    "stability": {
+        "average_job_function_time": 68,
+        "average_industry_time": null,
+        "average_work_time": 68,
+        "work_stability": "稳定"
+    },
+    "predicted_capability": {
+        "language": 5,
+        "socialexp": 6,
+        "leadership": 6,
+        "workexp": 8,
+        "education": 6.5,
+        "honor": 5
+    },
+    "predicted_skills": [
+        {
+            "skill": "数据分析",
+            "score": 1
+        },
+        {
+            "skill": "网站推广方案",
+            "score": 0.8
+        },
+        {
+            "skill": "美工",
+            "score": 0.8
+        },
+        {
+            "skill": "after effect",
+            "score": 0.7
+        },
+        {
+            "skill": "dreamweaver",
+            "score": 0.7
+        },
+        {
+            "skill": "illustrator",
+            "score": 0.7
+        },
+        {
+            "skill": "javascript",
+            "score": 0.7
+        },
+        {
+            "skill": "coreldraw",
+            "score": 0.7
+        },
+        {
+            "skill": "photoshop",
+            "score": 0.7
+        },
+        {
+            "skill": "premiere",
+            "score": 0.7
+        },
+        {
+            "skill": "html5",
+            "score": 0.7
+        },
+        {
+            "skill": "flash",
+            "score": 0.7
+        },
+        {
+            "skill": "3dmax",
+            "score": 0.7
+        },
+        {
+            "skill": "axure",
+            "score": 0.7
+        },
+        {
+            "skill": "国际贸易",
+            "score": 0.7
+        },
+        {
+            "skill": "css3",
+            "score": 0.7
+        },
+        {
+            "skill": "wap",
+            "score": 0.7
+        },
+        {
+            "skill": "div",
+            "score": 0.7
+        },
+        {
+            "skill": "ui",
+            "score": 0.7
+        },
+        {
+            "skill": "ai",
+            "score": 0.7
+        },
+        {
+            "skill": "ps",
+            "score": 0.7
+        },
+        {
+            "skill": "人资",
+            "score": 0.7
+        }
+    ],
+    "predicted_salary": "10000_to_15000",
+    "predicted_turnover": 0.18453115224838257,
+    "risks": {
+        "occupation": [],
+        "education": [],
+        "tags": []
+    }
+}

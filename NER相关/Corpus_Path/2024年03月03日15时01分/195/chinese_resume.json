@@ -1,0 +1,191 @@
+{
+    "project_experience": [],
+    "contact_info": {
+        "phone_number": "13912345678",
+        "QQ": "",
+        "wechat": "",
+        "email": "13912@163.com",
+        "home_phone_number": ""
+    },
+    "social_experience": [],
+    "education_experience": [
+        {
+            "ranking": "",
+            "major": "设计",
+            "degree": "中专",
+            "end_time_year": "2016",
+            "still_active": 0,
+            "school_rank": "",
+            "school_level": "",
+            "end_time_month": "01",
+            "school_name": "北京市园林学校",
+            "abroad_country": "",
+            "GPA": "",
+            "courses": "",
+            "start_time_year": "2013",
+            "location": "北京市",
+            "department": "",
+            "study_model": "",
+            "abroad": 0,
+            "start_time_month": "01"
+        }
+    ],
+    "resume_trainning_rawtext": "",
+    "basic_info": {
+        "major": "设计",
+        "expect_location": "",
+        "current_salary": "",
+        "current_location_norm": "",
+        "current_location": "",
+        "expect_location_norm": "",
+        "desired_salary": "",
+        "birthplace": "北京",
+        "degree": "中专",
+        "desired_industry": "",
+        "desired_position": "",
+        "zipcode": "",
+        "professional_level": "高级",
+        "national_identity_number": "",
+        "date_of_birth": "1998",
+        "birthplace_norm": "中国-北京-北京",
+        "num_work_experience": 8,
+        "current_position": "平面设计师",
+        "work_start_year": "2016",
+        "political_status": "",
+        "current_company": "庆浩室内设计有限公司",
+        "school_name": "北京市园林学校",
+        "ethnic": "汉族",
+        "recent_graduate_year": "2016",
+        "name": "张鸿信",
+        "lastupdate_time": "2024-03-08-08-13-39",
+        "gender": "",
+        "age": 26,
+        "marital_status": "",
+        "current_status": "",
+        "school_type": "",
+        "detailed_location": "",
+        "industry": ""
+    },
+    "training_experience": [],
+    "work_experience": [
+        {
+            "salary": "",
+            "description": "◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况 13912345678\n◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况\n◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况\n13912@163.com",
+            "end_time_year": "2024",
+            "still_active": 1,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "文化/体育/娱乐/社交",
+            "end_time_month": "03",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2021",
+            "company_name": "庆浩室内设计有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "10"
+        },
+        {
+            "salary": "",
+            "description": "◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况\n◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况 上海，浦东\n◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况",
+            "end_time_year": "2021",
+            "still_active": 0,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "文化/体育/娱乐/社交",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2019",
+            "company_name": "耀庆室内设计有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "10"
+        },
+        {
+            "salary": "",
+            "description": "◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况\n◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况\n◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况 ⚫ 丰富的社会实践经历\n⚫ 精益求精的专业态度",
+            "end_time_year": "2019",
+            "still_active": 0,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2017",
+            "company_name": "亚茂全屋定制有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "10"
+        },
+        {
+            "salary": "",
+            "description": "◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况 ⚫ 必须要简单直接明了\n◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况\n◼ 写一段介绍工作内容的说明，关于工作职责，获得的业绩情况",
+            "end_time_year": "2017",
+            "still_active": 0,
+            "skills": [
+                "平面设计"
+            ],
+            "company_type": "",
+            "industry": "互联网/软件",
+            "end_time_month": "10",
+            "location": "",
+            "company_size": "",
+            "job_function": "艺术/设计",
+            "start_time_year": "2016",
+            "company_name": "亚浩全屋定制有限公司",
+            "report_to": "",
+            "department": "",
+            "underling_num": "",
+            "job_title": "平面设计师",
+            "start_time_month": "10"
+        }
+    ],
+    "others": {
+        "language": [
+            "粤语",
+            "英语四六级证",
+            "日语",
+            "英语"
+        ],
+        "certificate": [
+            "英语四六级证书"
+        ],
+        "skills": [
+            "Adobe",
+            "日语",
+            "粤语",
+            "Photoshop",
+            "MS Office",
+            "Illustrator",
+            "室内设计",
+            "平面设计"
+        ],
+        "self_evaluation": "",
+        "awards": [],
+        "it_skills": [
+            "Photoshop",
+            "MS Office"
+        ],
+        "business_skills": [
+            "MS Office"
+        ]
+    },
+    "resume_rawtext": ""
+}

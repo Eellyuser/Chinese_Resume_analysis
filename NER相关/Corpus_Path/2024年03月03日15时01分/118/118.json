@@ -1,0 +1,35 @@
+{
+  "name": "钟庭玮",
+  "age": 32,
+  "university": "北京大学",
+  "graduation_year": 2014,
+  "major": "编辑出版专业（新媒体方向）",
+  "experience_years": 7,
+  "tel": "18010101010",
+  "email": "office@microsoft.com",
+  "blog": "http://.msn.com.cn/",
+  "career_experience": [
+    "Internship at Baidu LBS operation",
+    "Tencent Weibo market",
+    "Sohu News Client market BD",
+    "Social Media Operations Manager at Liepin - a high-end talent recruitment website"
+  ],
+  "achievements": [
+    "Branding and communication through various projects and media",
+    "Successfully managed several major projects and reduced cost per UV by up to 45%",
+    "Optimized department's communication process, nearly doubling the efficiency",
+    "Achieved significant outreach with minimal budget for major events"
+  ],
+  "skills": [
+    "Content creation for various advertising mediums",
+    "Precision marketing with responsible data analysis",
+    "Building new media channel libraries with tens of thousands of channels across major cities",
+    "Proficient in multiple forms of communication and spread"
+  ],
+  "about_me": [
+    "Engaged with social platforms due to professional and work reasons",
+    "Internet enthusiast with nearly two years of experience",
+    "Managed a blog with over a million visits and popular Tianya posts",
+    "Outgoing, rational, resilient, with strong execution and team spirit"
+  ]
+}
